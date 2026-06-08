@@ -1,0 +1,64 @@
+Thank you, Rob, and good morning, everyone. Welcome to Union Pacific's second quarter earnings conference call. With me today in Omaha are Eric Gehringer, Executive Vice President of Operations; Kenny Rocker, Executive Vice President of Marketing and Sales; and Jennifer Hamann, our Chief Financial Officer.  
+The team at Union Pacific continued to demonstrate their capability as we moved increasing volumes while dealing with challenging capacity constraints in some of our important supply chains. The result was the team delivered all-time record financial results. Our employees are making good on our strategy to serve, grow and win together.  
+Regarding our second quarter results, this morning, Union Pacific is reporting 2021 second quarter net income of $1.8 billion or $2.72 per share. This compares to $1.1 billion or $1.67 per share in the second quarter of 2020. While comparisons to the second quarter of last year are skewed by the COVID impact, a comparison to 2019 further demonstrates the impressive results we achieved during the quarter.  
+Our quarterly operating ratio of 55.1% is an all-time record. In addition, we set quarterly records for operating income, net income and earnings per share. These records highlight how the team is running the Union Pacific franchise to deliver results as we pulled all 3 profitability levers simultaneously: volume, price and productivity.  
+The second quarter also marked an important milestone in our quest to reduce our carbon footprint as we achieved a second quarter best fuel consumption rate. Locomotive fuel efficiency is the critical element to achieving our goal to reduce greenhouse gas emissions, and we're helping our customers achieve their ESG goals, too, as they eliminated 5.7 million metric tons of greenhouse gas emissions in the quarter by using rail versus truck.  
+While our financial results were impressive in the second quarter, our customers felt the impact of intermodal supply chain disruptions and costly rail equipment incidents. Within the intermodal space, we've taken numerous actions to mitigate the customer impact and are actively working with all parties in the supply chain. Even so, it's likely these issues will persist through the end of the year as the capacity to move boxes from our ramp to the final destination falls short of demand.  
+Relative to rail equipment incidents, while the number and rate improved, their impact on the network was notable. We're redoubling our efforts to utilize best-in-class technology, training and root cause analysis to keep our crews, our customers and our communities safe.  
+To that end, we'll start with Eric and an update on our operations.
+
+Thank you, Jennifer. As I mentioned at the start, we must improve our safety performance. It's foundational to everything we do at Union Pacific. The pace of our progress has to accelerate. As Eric stated, we're dedicated to improving our service product to the level our customers expect and demand. All of our long-term goals are predicated on a safe, reliable and consistent service product.  
+As you heard from Kenny, we're winning with customers and growing our business. You're seeing our customer focus and obsession in action. We've got fantastic momentum, and we're excited about the increasing opportunities that we are creating and uncovering.  
+Given the workforce issues faced across various parts of the supply chain outside of UP, we'll likely be working to overcome that congestion for the remainder of the year. But our second quarter achievements set the table for continued strong results in the second half of the year. These results also provide a solid start toward the long-term targets we set for the next 3 years that we laid out at our Investor Day in early May.  
+The future is very bright for Union Pacific. We're in a fantastic position to deliver value to all of our stakeholders as we win together.  
+So with that, let's open up the line for your questions.
+
+Yes. Thank you, Tom. I'll start. This is Lance, and then I'll turn it over to Kenny. 
+So in terms of network constraints, they -- we view them largely as transitory. There's one issue, which you pointed out in the international intermodal supply chain, which is about demand and inbound containers overwhelming the capacity for the ultimate customer to take the boxes off our ramps and get them into their warehouses and distribution centers. We think that's going to be around for a little while. 
+The pause that we've taken at G4 is all about allowing those end users, those shippers to ultimately be able to clean off that inventory so that we can start with a more fluid operation. 
+And overall, I think, Kenny, that we've demonstrated in this environment, we can still convert truck with our current service product. But that's in no way saying the current service product is adequate or appropriate for truck conversion in the long run.
+
+Brian, the cool part about that sea rate is it hits 2 critical buttons for us. It's got a cost impact. Maybe more importantly, it's got a greenhouse gas emissions impact.
+
+Take that on?
+
+Thank you, Allison.
+
+Yes. And I just want to point out, Jennifer, that 55.1, 55x are terrific operating ratios. We're not satisfied. It's not like we're going to camp out there if there's an opportunity to improve, but that's a hell of a performance.
+
+Ken, you're kind of painting us into a corner there. I'm going to start and say the full year operating ratio, of course, incorporates the first quarter, which I think was a 60-dot something. And there's also the headwinds that Jennifer mapped out. There are tailwinds, but there's -- we've got to be balanced in our perspective in terms of recognizing there's some headwinds that are going to be showing up in the second half.
+
+All right. Thanks, Ken.
+
+Just to be clear, I think we've said this maybe even in our prepared comments that as we look into the second half, our headcount right now is about 30,000 employees, and it's going to stay around in that ballpark as we look out into what we think the demand profile is going to be. We're going to have to hire here and there to fill in vacancies or take care of attrition. But we don't see any significant hiring program or headwind in that headcount number.
+
+Eric, do you want to talk a little bit about that?
+
+And you said something important, Kenny, that I want to make sure we don't miss on the call. We've talked about the transitory issues that we've got in the network. We showed some of the service reflections of that. But PSR and the fact that we've transformed our railroad has us in a whole different ballpark of performance than these kinds of issues would have us in 3, 4, 5 years ago. And we shouldn't miss that. 
+We're not proud of it, and we know we have an opportunity and an expectation to improve and improve rapidly when, for instance, we get the bridge back, et cetera. But the overall performance, like we showed from '19 to '21, is fundamentally different under our PSR transformation.
+
+Yes.
+
+That's a great question, David. And I certainly hope we do end up with a better volume environment, and it just forces us to keep bringing more resources in. 
+Let's start with labor. Right now, we're really not seeing substantial problems hiring labor. We've got a couple of issues with very different skill sets. Most of those are in our nonagreement workforce like data scientists or machine learning scientists. But when it comes to hiring TE&Y, the core team that actually runs our transportation product, there might be a spot like L.A. where it's relatively harder to hire than somewhere else. But it's not -- we're not yet in a place where we think that's an impediment. 
+We don't have to do anything, at this moment, special to try to attract people to the jobs. Now longer term, for sure, we do have initiatives and understand that we've got to make our jobs more attractive over time so that we can continue to attract a really big pool to our jobs. And that includes our national negotiation on right now where we think taking somebody out of the cab of a locomotive and putting them on the ground actually makes the job more attractive. It makes a job that stays at home and turns it into shift work. But -- so that kind of answers your labor question. 
+Other assets, we think about bringing locomotives out to support the network. We're actually doing that right now because the reroutes require more power. And some of those locomotives are a little more costly to repair and get into operating condition. 
+But that -- again, that's a temporary thing. Once those reroutes are done and we're able to get the network back to its normal routing, those locomotives are going to go right back into storage. 
+So I just don't see anything other than maybe the international intermodal issue that looks like it's going to last for a little while. Until demand and supply gets balanced, that's really going to get in the way.
+
+Yes, Jason, this is Lance. Let me take a first stab at how we think about the EO and the relationship to the STB, where you're really talking about regulation, and then maybe some of the rest of the team have perspective on it. 
+So baseline, you know that railroads perform a critical function in the economy. We provide affordable shipping for bulk product in large volume. We provide really high-paying union jobs. We help people reduce their carbon intensity and their carbon emissions. And we do all of that investing in our own infrastructure. 
+So we're a solution to a number of the things that the current administration emphasize across their different departments, their different functions. And we think -- when we look at the EO, the EO really needs to be looked through the lens of all-of-government perspective. There are some things in the EO that looked like they would fight against initiatives that the Department of Transportation, the EPA, OMB, Amtrak are trying to accomplish with the help of freight railroads. 
+So number one is we're trying to help all of the administration understand the impact of some of what they've got inside the EO in terms of urging the STB to reregulate the railroad. And so stepping back a little further, we've been helping the STB see the impact of potential regulation and the multiplicity of regulation and the retarding impact that could have on our ability, for instance, to help relieve highways, to take trucks off the highway and bring them on to the railroad, to continue to help industries reduce their greenhouse gas footprints and doing it all with an ability to invest in our own infrastructure. 
+So this just says we've got continued work to do. I don't think it's more work. I don't think it's a unique set of new work. It's the same work we've been doing for years and years, helping the STB understand, when they regulate, what the negative impacts could be if they get it wrong.
+
+Yes, Jason, very clearly, there's a strategic imperative that's right in front of us in the international intermodal supply chain. More transparency, more coordination across the whole supply chain probably would be addressing the issues that we've got today in advance. 
+And so there's an imperative there. We see it. We're positioned to take care of it with our product portfolio and our platforms, and we're going after it.
+
+Kenny, you want to take all of that?
+
+Across the year.
+
+Yes. Demand looks pretty strong, Kenny, and we're kind of starting to shift over to what's the crop going to look like that we serve.
+
+Thank you, Rob, and thank you all for your questions. We're looking forward to talking with you again in October to discuss our third quarter results. Until then, I wish everyone good health. Take care, and goodbye.
