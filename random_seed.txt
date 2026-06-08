@@ -1,0 +1,2 @@
+Stratified sample random seed: 20260608
+Used in code/04_draw_sample.py to draw 80-firm sample.
