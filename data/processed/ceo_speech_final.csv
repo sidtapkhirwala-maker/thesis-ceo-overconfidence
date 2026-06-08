@@ -1,0 +1,1357 @@
+gvkey,conm,call_year,call_quarter,call_date,transcriptid,ceo_matched,speaker_matched,match_score,n_presenter_segments,n_answer_segments,total_words,filename,match_method,passes_word_filter
+029751,Albemarle Corporation,2018,1,2018-05-10,1462528,"Luther Kissam, IV",Luther Kissam,86.66666666666667,2,17,2739,029751_2018_Q1_1462528.txt,,True
+029751,Albemarle Corporation,2018,2,2018-08-08,1539181,"Luther Kissam, IV",Luther Kissam,86.66666666666667,2,21,3489,029751_2018_Q2_1539181.txt,,True
+029751,Albemarle Corporation,2018,3,2018-11-08,1613884,"Luther Kissam, IV",Luther Kissam,86.66666666666667,2,20,3265,029751_2018_Q3_1613884.txt,,True
+029751,Albemarle Corporation,2018,4,2019-02-21,1665720,"Luther Kissam, IV",Luther Kissam,86.66666666666667,2,16,3208,029751_2018_Q4_1665720.txt,,True
+029751,Albemarle Corporation,2019,1,2019-05-09,1741438,"Luther Kissam, IV",Luther Kissam,86.66666666666667,1,25,3085,029751_2019_Q1_1741438.txt,,True
+029751,Albemarle Corporation,2019,2,2019-08-08,1803244,"Luther Kissam, IV",Luther Kissam,86.66666666666667,1,25,3626,029751_2019_Q2_1803244.txt,,True
+029751,Albemarle Corporation,2019,3,2019-11-07,1869235,"Luther Kissam, IV",Luther Kissam,86.66666666666667,1,28,4109,029751_2019_Q3_1869235.txt,,True
+029751,Albemarle Corporation,2019,4,2020-02-20,1927283,"Luther Kissam, IV",Luther Kissam,86.66666666666667,1,18,3072,029751_2019_Q4_1927283.txt,,True
+029751,Albemarle Corporation,2020,1,2020-05-07,2007127,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,6,1958,029751_2020_Q1_2007127.txt,,True
+029751,Albemarle Corporation,2020,2,2020-08-06,2064358,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,8,2175,029751_2020_Q2_2064358.txt,,True
+029751,Albemarle Corporation,2020,3,2020-11-05,2154984,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,21,2397,029751_2020_Q3_2154984.txt,,True
+029751,Albemarle Corporation,2020,4,2021-02-18,2215483,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,21,4048,029751_2020_Q4_2215483.txt,,True
+029751,Albemarle Corporation,2021,1,2021-05-06,2272675,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,18,3025,029751_2021_Q1_2272675.txt,,True
+029751,Albemarle Corporation,2021,2,2021-08-05,2365178,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,24,3508,029751_2021_Q2_2365178.txt,,True
+029751,Albemarle Corporation,2021,3,2021-11-04,2425054,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,21,3655,029751_2021_Q3_2425054.txt,,True
+029751,Albemarle Corporation,2021,4,2022-02-17,2497821,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,4,20,3816,029751_2021_Q4_2497821.txt,,True
+029751,Albemarle Corporation,2022,1,2022-05-05,2555714,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,15,2936,029751_2022_Q1_2555714.txt,,True
+029751,Albemarle Corporation,2022,2,2022-08-04,2616034,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,22,3570,029751_2022_Q2_2616034.txt,,True
+029751,Albemarle Corporation,2022,3,2022-11-03,2673479,"Jerry Masters, Jr.",Jerry Masters,83.87096774193549,2,15,2535,029751_2022_Q3_2673479.txt,,True
+006008,Intel Corporation,2018,1,2018-04-26,1441878,Robert Swan,Robert Swan,100.0,1,8,3267,006008_2018_Q1_1441878.txt,,True
+006008,Intel Corporation,2018,2,2018-07-26,1510845,Robert Swan,Robert Swan,100.0,1,10,4315,006008_2018_Q2_1510845.txt,,True
+006008,Intel Corporation,2018,3,2018-10-25,1581054,Robert Swan,Robert Swan,100.0,1,8,5287,006008_2018_Q3_1581054.txt,,True
+006008,Intel Corporation,2018,4,2019-01-24,1640911,Robert Swan,Robert Swan,100.0,1,8,5465,006008_2018_Q4_1640911.txt,,True
+006008,Intel Corporation,2019,1,2019-04-25,1711554,Robert Swan,Robert Swan,100.0,1,12,4521,006008_2019_Q1_1711554.txt,,True
+006008,Intel Corporation,2019,2,2019-07-25,1781548,Robert Swan,Robert Swan,100.0,1,8,3797,006008_2019_Q2_1781548.txt,,True
+006008,Intel Corporation,2019,3,2019-10-24,1846749,Robert Swan,Robert Swan,100.0,1,13,4310,006008_2019_Q3_1846749.txt,,True
+006008,Intel Corporation,2019,4,2020-01-23,1894291,Robert Swan,Robert Swan,100.0,1,12,4299,006008_2019_Q4_1894291.txt,,True
+006008,Intel Corporation,2020,1,2020-04-23,2014988,Robert Swan,Robert Swan,100.0,1,8,3780,006008_2020_Q1_2014988.txt,,True
+006008,Intel Corporation,2020,2,2020-07-23,2077141,Robert Swan,Robert Swan,100.0,1,8,3630,006008_2020_Q2_2077141.txt,,True
+006008,Intel Corporation,2020,3,2020-10-22,2148181,Robert Swan,Robert Swan,100.0,2,9,4263,006008_2020_Q3_2148181.txt,,True
+006008,Intel Corporation,2020,4,2021-01-21,2178259,Robert Swan,Robert Swan,100.0,1,8,3391,006008_2020_Q4_2178259.txt,,True
+006008,Intel Corporation,2021,1,2021-04-22,2256000,Patrick Gelsinger,Patrick Gelsinger,100.0,1,14,4802,006008_2021_Q1_2256000.txt,,True
+006008,Intel Corporation,2021,2,2021-07-22,2350033,Patrick Gelsinger,Patrick Gelsinger,100.0,1,10,4224,006008_2021_Q2_2350033.txt,,True
+006008,Intel Corporation,2021,3,2021-10-21,2409518,Patrick Gelsinger,Patrick Gelsinger,100.0,1,12,5877,006008_2021_Q3_2409518.txt,,True
+006008,Intel Corporation,2021,4,2022-01-26,2478141,Patrick Gelsinger,Patrick Gelsinger,100.0,1,11,5256,006008_2021_Q4_2478141.txt,,True
+006008,Intel Corporation,2022,1,2022-04-28,2547679,Patrick Gelsinger,Patrick Gelsinger,100.0,1,11,5991,006008_2022_Q1_2547679.txt,,True
+006008,Intel Corporation,2022,2,2022-07-28,2608275,Patrick Gelsinger,Patrick Gelsinger,100.0,1,8,5904,006008_2022_Q2_2608275.txt,,True
+006008,Intel Corporation,2022,3,2022-10-27,2666610,Patrick Gelsinger,Patrick Gelsinger,100.0,1,12,5616,006008_2022_Q3_2666610.txt,,True
+012540,Adobe Inc.,2018,1,2018-03-15,1420728,Shantanu Narayen,Shantanu Narayen,100.0,1,16,4229,012540_2018_Q1_1420728.txt,,True
+012540,Adobe Inc.,2018,2,2018-06-14,1491371,Shantanu Narayen,Shantanu Narayen,100.0,1,19,4712,012540_2018_Q2_1491371.txt,,True
+012540,Adobe Inc.,2018,3,2018-09-13,1558640,Shantanu Narayen,Shantanu Narayen,100.0,1,17,5134,012540_2018_Q3_1558640.txt,,True
+012540,Adobe Inc.,2018,4,2018-12-13,1630305,Shantanu Narayen,Shantanu Narayen,100.0,1,15,5273,012540_2018_Q4_1630305.txt,,True
+012540,Adobe Inc.,2019,1,2019-03-14,1689535,Shantanu Narayen,Shantanu Narayen,100.0,1,17,5221,012540_2019_Q1_1689535.txt,,True
+012540,Adobe Inc.,2019,2,2019-06-18,1767920,Shantanu Narayen,Shantanu Narayen,100.0,1,12,4550,012540_2019_Q2_1767920.txt,,True
+012540,Adobe Inc.,2019,3,2019-09-17,1825893,Shantanu Narayen,Shantanu Narayen,100.0,1,14,4885,012540_2019_Q3_1825893.txt,,True
+012540,Adobe Inc.,2019,4,2019-12-12,1885230,Shantanu Narayen,Shantanu Narayen,100.0,1,13,4096,012540_2019_Q4_1885230.txt,,True
+012540,Adobe Inc.,2020,1,2020-03-12,1937286,Shantanu Narayen,Shantanu Narayen,100.0,1,12,4834,012540_2020_Q1_1937286.txt,,True
+012540,Adobe Inc.,2020,2,2020-06-11,2024527,Shantanu Narayen,Shantanu Narayen,100.0,1,11,5392,012540_2020_Q2_2024527.txt,,True
+012540,Adobe Inc.,2020,3,2020-09-15,2123214,Shantanu Narayen,Shantanu Narayen,100.0,1,16,5002,012540_2020_Q3_2123214.txt,,True
+012540,Adobe Inc.,2020,4,2020-12-10,2162328,Shantanu Narayen,Shantanu Narayen,100.0,1,14,9208,012540_2020_Q4_2162328.txt,,True
+012540,Adobe Inc.,2021,1,2021-03-23,2241429,Shantanu Narayen,Shantanu Narayen,100.0,2,17,5873,012540_2021_Q1_2241429.txt,,True
+012540,Adobe Inc.,2021,2,2021-06-17,2323054,Shantanu Narayen,Shantanu Narayen,100.0,1,16,5649,012540_2021_Q2_2323054.txt,,True
+012540,Adobe Inc.,2021,3,2021-09-21,2399875,Shantanu Narayen,Shantanu Narayen,100.0,1,14,5442,012540_2021_Q3_2399875.txt,,True
+012540,Adobe Inc.,2021,4,2021-12-16,2477888,Shantanu Narayen,Shantanu Narayen,100.0,3,12,6058,012540_2021_Q4_2477888.txt,,True
+012540,Adobe Inc.,2022,1,2022-03-22,2529052,Shantanu Narayen,Shantanu Narayen,100.0,2,11,3323,012540_2022_Q1_2529052.txt,,True
+012540,Adobe Inc.,2022,2,2022-06-16,2590683,Shantanu Narayen,Shantanu Narayen,100.0,2,11,2331,012540_2022_Q2_2590683.txt,,True
+012540,Adobe Inc.,2022,3,2022-09-15,2655421,Shantanu Narayen,Shantanu Narayen,100.0,2,9,3149,012540_2022_Q3_2655421.txt,,True
+012540,Adobe Inc.,2022,4,2022-12-15,3000557,Shantanu Narayen,Shantanu Narayen,100.0,2,9,2986,012540_2022_Q4_3000557.txt,,True
+125595,"Akamai Technologies, Inc.",2018,1,2018-04-30,1552570,F. Leighton,F. Leighton,100.0,1,12,3020,125595_2018_Q1_1552570.txt,,True
+125595,"Akamai Technologies, Inc.",2018,2,2018-07-31,1567078,F. Leighton,F. Leighton,100.0,1,8,2209,125595_2018_Q2_1567078.txt,,True
+125595,"Akamai Technologies, Inc.",2018,3,2018-10-29,1585744,F. Leighton,F. Leighton,100.0,1,9,3789,125595_2018_Q3_1585744.txt,,True
+125595,"Akamai Technologies, Inc.",2018,4,2019-02-12,1659154,F. Leighton,F. Leighton,100.0,1,9,2913,125595_2018_Q4_1659154.txt,,True
+125595,"Akamai Technologies, Inc.",2019,1,2019-04-30,1716628,F. Leighton,F. Leighton,100.0,1,14,2959,125595_2019_Q1_1716628.txt,,True
+125595,"Akamai Technologies, Inc.",2019,2,2019-07-30,1812111,F. Leighton,F. Leighton,100.0,1,13,3758,125595_2019_Q2_1812111.txt,,True
+125595,"Akamai Technologies, Inc.",2019,3,2019-10-28,1849496,F. Leighton,F. Leighton,100.0,1,9,4451,125595_2019_Q3_1849496.txt,,True
+125595,"Akamai Technologies, Inc.",2019,4,2020-02-11,1913684,F. Leighton,F. Leighton,100.0,1,16,4027,125595_2019_Q4_1913684.txt,,True
+125595,"Akamai Technologies, Inc.",2020,1,2020-04-28,2017493,F. Leighton,F. Leighton,100.0,1,9,3048,125595_2020_Q1_2017493.txt,,True
+125595,"Akamai Technologies, Inc.",2020,2,2020-07-28,2087777,F. Leighton,F. Leighton,100.0,1,9,3373,125595_2020_Q2_2087777.txt,,True
+125595,"Akamai Technologies, Inc.",2020,3,2020-10-27,2166116,F. Leighton,F. Leighton,100.0,1,16,3887,125595_2020_Q3_2166116.txt,,True
+125595,"Akamai Technologies, Inc.",2020,4,2021-02-09,2201209,F. Leighton,F. Leighton,100.0,1,10,3658,125595_2020_Q4_2201209.txt,,True
+125595,"Akamai Technologies, Inc.",2021,1,2021-05-04,2269354,F. Leighton,F. Leighton,100.0,1,9,2540,125595_2021_Q1_2269354.txt,,True
+125595,"Akamai Technologies, Inc.",2021,2,2021-08-03,2361489,F. Leighton,F. Leighton,100.0,1,11,4260,125595_2021_Q2_2361489.txt,,True
+125595,"Akamai Technologies, Inc.",2021,3,2021-11-02,2422276,F. Leighton,F. Leighton,100.0,1,9,2653,125595_2021_Q3_2422276.txt,,True
+125595,"Akamai Technologies, Inc.",2021,4,2022-02-15,2495061,F. Leighton,F. Leighton,100.0,2,14,3714,125595_2021_Q4_2495061.txt,,True
+125595,"Akamai Technologies, Inc.",2022,1,2022-05-03,2551912,F. Leighton,F. Leighton,100.0,1,17,4564,125595_2022_Q1_2551912.txt,,True
+125595,"Akamai Technologies, Inc.",2022,2,2022-08-09,2624745,F. Leighton,F. Leighton,100.0,1,9,2748,125595_2022_Q2_2624745.txt,,True
+125595,"Akamai Technologies, Inc.",2022,3,2022-11-08,2680079,F. Leighton,F. Leighton,100.0,1,12,3529,125595_2022_Q3_2680079.txt,,True
+141384,"Align Technology, Inc.",2018,1,2018-04-25,1619953,Joseph Hogan,Joseph Hogan,100.0,3,23,6227,141384_2018_Q1_1619953.txt,,True
+141384,"Align Technology, Inc.",2018,2,2018-07-25,1517561,Joseph Hogan,Joseph Hogan,100.0,2,17,4774,141384_2018_Q2_1517561.txt,,True
+141384,"Align Technology, Inc.",2018,3,2018-10-24,1584072,Joseph Hogan,Joseph Hogan,100.0,2,23,5445,141384_2018_Q3_1584072.txt,,True
+141384,"Align Technology, Inc.",2018,4,2019-01-29,1642421,Joseph Hogan,Joseph Hogan,100.0,2,12,6184,141384_2018_Q4_1642421.txt,,True
+141384,"Align Technology, Inc.",2019,1,2019-04-24,1715140,Joseph Hogan,Joseph Hogan,100.0,2,14,4931,141384_2019_Q1_1715140.txt,,True
+141384,"Align Technology, Inc.",2019,2,2019-07-24,1780433,Joseph Hogan,Joseph Hogan,100.0,2,19,7069,141384_2019_Q2_1780433.txt,,True
+141384,"Align Technology, Inc.",2019,3,2019-10-23,1839608,Joseph Hogan,Joseph Hogan,100.0,2,19,4473,141384_2019_Q3_1839608.txt,,True
+141384,"Align Technology, Inc.",2019,4,2020-01-29,1897110,Joseph Hogan,Joseph Hogan,100.0,2,17,5228,141384_2019_Q4_1897110.txt,,True
+141384,"Align Technology, Inc.",2020,1,2020-04-29,2019465,Joseph Hogan,Joseph Hogan,100.0,2,16,6752,141384_2020_Q1_2019465.txt,,True
+141384,"Align Technology, Inc.",2020,2,2020-07-22,2082981,Joseph Hogan,Joseph Hogan,100.0,2,28,5853,141384_2020_Q2_2082981.txt,,True
+141384,"Align Technology, Inc.",2020,3,2020-10-21,2165760,Joseph Hogan,Joseph Hogan,100.0,2,21,6791,141384_2020_Q3_2165760.txt,,True
+141384,"Align Technology, Inc.",2020,4,2021-02-03,2242020,Joseph Hogan,Joseph Hogan,100.0,2,16,5771,141384_2020_Q4_2242020.txt,,True
+141384,"Align Technology, Inc.",2021,1,2021-04-28,2261819,Joseph Hogan,Joseph Hogan,100.0,2,14,6059,141384_2021_Q1_2261819.txt,,True
+141384,"Align Technology, Inc.",2021,2,2021-07-28,2387081,Joseph Hogan,Joseph Hogan,100.0,2,13,4222,141384_2021_Q2_2387081.txt,,True
+141384,"Align Technology, Inc.",2021,3,2021-10-27,2414914,Joseph Hogan,Joseph Hogan,100.0,2,12,5453,141384_2021_Q3_2414914.txt,,True
+141384,"Align Technology, Inc.",2021,4,2022-02-02,2483276,Joseph Hogan,Joseph Hogan,100.0,2,8,5015,141384_2021_Q4_2483276.txt,,True
+141384,"Align Technology, Inc.",2022,1,2022-04-27,2545506,Joseph Hogan,Joseph Hogan,100.0,3,18,5758,141384_2022_Q1_2545506.txt,,True
+141384,"Align Technology, Inc.",2022,2,2022-07-27,2606093,Joseph Hogan,Joseph Hogan,100.0,2,21,5274,141384_2022_Q2_2606093.txt,,True
+141384,"Align Technology, Inc.",2022,3,2022-10-26,2664333,Joseph Hogan,Joseph Hogan,100.0,2,19,5389,141384_2022_Q3_2664333.txt,,True
+031673,"Cencora, Inc.",2018,1,2018-02-06,1381662,Steven Collis,Steven Collis,100.0,1,12,3907,031673_2018_Q1_1381662.txt,,True
+031673,"Cencora, Inc.",2018,2,2018-05-02,1446407,Steven Collis,Steven Collis,100.0,1,11,4820,031673_2018_Q2_1446407.txt,,True
+031673,"Cencora, Inc.",2018,3,2018-08-02,1533205,Steven Collis,Steven Collis,100.0,2,10,4144,031673_2018_Q3_1533205.txt,,True
+031673,"Cencora, Inc.",2018,4,2018-11-06,1628362,Steven Collis,Steven Collis,100.0,3,8,3971,031673_2018_Q4_1628362.txt,,True
+031673,"Cencora, Inc.",2019,1,2019-01-31,1645738,Steven Collis,Steven Collis,100.0,1,6,2941,031673_2019_Q1_1645738.txt,,True
+031673,"Cencora, Inc.",2019,2,2019-05-02,1721319,Steven Collis,Steven Collis,100.0,1,7,3840,031673_2019_Q2_1721319.txt,,True
+031673,"Cencora, Inc.",2019,3,2019-08-01,1794153,Steven Collis,Steven Collis,100.0,1,14,4574,031673_2019_Q3_1794153.txt,,True
+031673,"Cencora, Inc.",2019,4,2019-11-07,1861789,Steven Collis,Steven Collis,100.0,1,6,2677,031673_2019_Q4_1861789.txt,,True
+031673,"Cencora, Inc.",2020,1,2020-01-30,1901020,Steven Collis,Steven Collis,100.0,1,7,3494,031673_2020_Q1_1901020.txt,,True
+031673,"Cencora, Inc.",2020,2,2020-05-07,2007069,Steven Collis,Steven Collis,100.0,2,7,3860,031673_2020_Q2_2007069.txt,,True
+031673,"Cencora, Inc.",2020,3,2020-08-05,2093774,Steven Collis,Steven Collis,100.0,1,13,3465,031673_2020_Q3_2093774.txt,,True
+031673,"Cencora, Inc.",2020,4,2020-11-05,2130465,Steven Collis,Steven Collis,100.0,2,13,3541,031673_2020_Q4_2130465.txt,,True
+031673,"Cencora, Inc.",2021,1,2021-02-04,2191994,Steven Collis,Steven Collis,100.0,1,5,2895,031673_2021_Q1_2191994.txt,,True
+031673,"Cencora, Inc.",2021,2,2021-05-05,2270581,Steven Collis,Steven Collis,100.0,1,5,2968,031673_2021_Q2_2270581.txt,,True
+031673,"Cencora, Inc.",2021,3,2021-08-04,2362760,Steven Collis,Steven Collis,100.0,1,6,2993,031673_2021_Q3_2362760.txt,,True
+031673,"Cencora, Inc.",2021,4,2021-11-04,2476028,Steven Collis,Steven Collis,100.0,1,4,2646,031673_2021_Q4_2476028.txt,,True
+031673,"Cencora, Inc.",2022,1,2022-02-02,2492026,Steven Collis,Steven Collis,100.0,1,8,3392,031673_2022_Q1_2492026.txt,,True
+031673,"Cencora, Inc.",2022,2,2022-05-04,2552764,Steven Collis,Steven Collis,100.0,1,5,3033,031673_2022_Q2_2552764.txt,,True
+031673,"Cencora, Inc.",2022,3,2022-08-03,2613747,Steven Collis,Steven Collis,100.0,1,5,3043,031673_2022_Q3_2613747.txt,,True
+031673,"Cencora, Inc.",2022,4,2022-11-03,2673528,Steven Collis,Steven Collis,100.0,1,3,2579,031673_2022_Q4_2673528.txt,,True
+001602,Amgen Inc.,2018,1,2018-04-24,1435450,Robert Bradway,Robert Bradway,100.0,2,6,1175,001602_2018_Q1_1435450.txt,,True
+001602,Amgen Inc.,2018,2,2018-07-26,1510887,Robert Bradway,Robert Bradway,100.0,3,9,1861,001602_2018_Q2_1510887.txt,,True
+001602,Amgen Inc.,2018,3,2018-10-30,1592101,Robert Bradway,Robert Bradway,100.0,3,14,2203,001602_2018_Q3_1592101.txt,,True
+001602,Amgen Inc.,2018,4,2019-01-29,1645252,Robert Bradway,Robert Bradway,100.0,2,11,1554,001602_2018_Q4_1645252.txt,,True
+001602,Amgen Inc.,2019,1,2019-04-30,1716633,Robert Bradway,Robert Bradway,100.0,2,13,1788,001602_2019_Q1_1716633.txt,,True
+001602,Amgen Inc.,2019,2,2019-07-30,1812068,Robert Bradway,Robert Bradway,100.0,2,14,2926,001602_2019_Q2_1812068.txt,,True
+001602,Amgen Inc.,2019,3,2019-10-29,1850406,Robert Bradway,Robert Bradway,100.0,2,8,1280,001602_2019_Q3_1850406.txt,,True
+001602,Amgen Inc.,2019,4,2020-01-30,1900109,Robert Bradway,Robert Bradway,100.0,2,10,1823,001602_2019_Q4_1900109.txt,,True
+001602,Amgen Inc.,2020,1,2020-04-30,2028554,Robert Bradway,Robert Bradway,100.0,2,12,2272,001602_2020_Q1_2028554.txt,,True
+001602,Amgen Inc.,2020,4,2021-02-02,2189077,Robert Bradway,Robert Bradway,100.0,2,8,1698,001602_2020_Q4_2189077.txt,,True
+001602,Amgen Inc.,2021,1,2021-04-27,2259951,Robert Bradway,Robert Bradway,100.0,2,8,1096,001602_2021_Q1_2259951.txt,,True
+001602,Amgen Inc.,2021,2,2021-08-03,2361587,Robert Bradway,Robert Bradway,100.0,2,8,1233,001602_2021_Q2_2361587.txt,,True
+001602,Amgen Inc.,2021,3,2021-11-02,2422184,Robert Bradway,Robert Bradway,100.0,2,7,1287,001602_2021_Q3_2422184.txt,,True
+001602,Amgen Inc.,2022,1,2022-04-27,2545593,Robert Bradway,Robert Bradway,100.0,2,6,1072,001602_2022_Q1_2545593.txt,,True
+001602,Amgen Inc.,2022,2,2022-08-04,2620339,Robert Bradway,Robert Bradway,100.0,2,12,1504,001602_2022_Q2_2620339.txt,,True
+023809,"AutoZone, Inc.",2018,2,2018-02-27,1404674,"William Rhodes, III",William Rhodes,84.84848484848484,2,13,5415,023809_2018_Q2_1404674.txt,,True
+023809,"AutoZone, Inc.",2018,3,2018-05-22,1474183,"William Rhodes, III",William Rhodes,84.84848484848484,2,20,5278,023809_2018_Q3_1474183.txt,,True
+023809,"AutoZone, Inc.",2018,4,2018-09-18,1559846,"William Rhodes, III",William Rhodes,84.84848484848484,3,17,5359,023809_2018_Q4_1559846.txt,,True
+023809,"AutoZone, Inc.",2019,1,2018-12-04,1639864,"William Rhodes, III",William Rhodes,84.84848484848484,2,12,5018,023809_2019_Q1_1639864.txt,,True
+023809,"AutoZone, Inc.",2019,2,2019-02-26,1672468,"William Rhodes, III",William Rhodes,84.84848484848484,2,12,4752,023809_2019_Q2_1672468.txt,,True
+023809,"AutoZone, Inc.",2019,3,2019-05-21,1752335,"William Rhodes, III",William Rhodes,84.84848484848484,2,15,4780,023809_2019_Q3_1752335.txt,,True
+023809,"AutoZone, Inc.",2019,4,2019-09-24,1828402,"William Rhodes, III",William Rhodes,84.84848484848484,2,9,4353,023809_2019_Q4_1828402.txt,,True
+023809,"AutoZone, Inc.",2020,1,2019-12-10,1886559,"William Rhodes, III",William Rhodes,84.84848484848484,3,14,4802,023809_2020_Q1_1886559.txt,,True
+023809,"AutoZone, Inc.",2020,2,2020-03-03,3025706,"William Rhodes, III",William Rhodes,84.84848484848484,2,13,5189,023809_2020_Q2_3025706.txt,,True
+023809,"AutoZone, Inc.",2020,3,2020-05-26,2027723,"William Rhodes, III",William Rhodes,84.84848484848484,2,18,5153,023809_2020_Q3_2027723.txt,,True
+023809,"AutoZone, Inc.",2020,4,2020-09-22,2136346,"William Rhodes, III",William Rhodes,84.84848484848484,2,14,5054,023809_2020_Q4_2136346.txt,,True
+023809,"AutoZone, Inc.",2021,1,2020-12-08,2160281,"William Rhodes, III",William Rhodes,84.84848484848484,2,10,4872,023809_2021_Q1_2160281.txt,,True
+023809,"AutoZone, Inc.",2021,2,2021-03-02,2228225,"William Rhodes, III",William Rhodes,84.84848484848484,2,11,5193,023809_2021_Q2_2228225.txt,,True
+023809,"AutoZone, Inc.",2021,3,2021-05-25,2299092,"William Rhodes, III",William Rhodes,84.84848484848484,2,12,4082,023809_2021_Q3_2299092.txt,,True
+023809,"AutoZone, Inc.",2021,4,2021-09-21,2399695,"William Rhodes, III",William Rhodes,84.84848484848484,3,10,4353,023809_2021_Q4_2399695.txt,,True
+023809,"AutoZone, Inc.",2022,1,2021-12-07,2456366,"William Rhodes, III",William Rhodes,84.84848484848484,2,14,5592,023809_2022_Q1_2456366.txt,,True
+023809,"AutoZone, Inc.",2022,2,2022-03-01,2512897,"William Rhodes, III",William Rhodes,84.84848484848484,2,13,4619,023809_2022_Q2_2512897.txt,,True
+023809,"AutoZone, Inc.",2022,3,2022-05-24,2577592,"William Rhodes, III",William Rhodes,84.84848484848484,2,12,4824,023809_2022_Q3_2577592.txt,,True
+023809,"AutoZone, Inc.",2022,4,2022-09-19,2649327,"William Rhodes, III",William Rhodes,84.84848484848484,2,11,4540,023809_2022_Q4_2649327.txt,,True
+013421,"Cadence Design Systems, Inc.",2018,1,2018-04-23,1491446,Lip-Bu Tan,Lip-Bu Tan,100.0,1,18,3251,013421_2018_Q1_1491446.txt,,True
+013421,"Cadence Design Systems, Inc.",2018,2,2018-07-23,1505591,Lip-Bu Tan,Lip-Bu Tan,100.0,1,17,2950,013421_2018_Q2_1505591.txt,,True
+013421,"Cadence Design Systems, Inc.",2018,3,2018-10-22,1576409,Lip-Bu Tan,Lip-Bu Tan,100.0,1,16,2945,013421_2018_Q3_1576409.txt,,True
+013421,"Cadence Design Systems, Inc.",2018,4,2019-02-19,1661209,Lip-Bu Tan,Lip-Bu Tan,100.0,1,16,3946,013421_2018_Q4_1661209.txt,,True
+013421,"Cadence Design Systems, Inc.",2019,1,2019-04-22,1702081,Lip-Bu Tan,Lip-Bu Tan,100.0,1,13,2946,013421_2019_Q1_1702081.txt,,True
+013421,"Cadence Design Systems, Inc.",2019,2,2019-07-22,1775598,Lip-Bu Tan,Lip-Bu Tan,100.0,1,9,1905,013421_2019_Q2_1775598.txt,,True
+013421,"Cadence Design Systems, Inc.",2019,3,2019-10-21,1836335,Lip-Bu Tan,Lip-Bu Tan,100.0,1,17,3536,013421_2019_Q3_1836335.txt,,True
+013421,"Cadence Design Systems, Inc.",2019,4,2020-02-12,1912545,Lip-Bu Tan,Lip-Bu Tan,100.0,1,14,3415,013421_2019_Q4_1912545.txt,,True
+013421,"Cadence Design Systems, Inc.",2020,1,2020-04-20,2012293,Lip-Bu Tan,Lip-Bu Tan,100.0,1,13,2395,013421_2020_Q1_2012293.txt,,True
+013421,"Cadence Design Systems, Inc.",2020,2,2020-07-20,2075132,Lip-Bu Tan,Lip-Bu Tan,100.0,1,18,2953,013421_2020_Q2_2075132.txt,,True
+013421,"Cadence Design Systems, Inc.",2020,3,2020-10-19,2150115,Lip-Bu Tan,Lip-Bu Tan,100.0,1,24,3471,013421_2020_Q3_2150115.txt,,True
+013421,"Cadence Design Systems, Inc.",2020,4,2021-02-22,2222252,Lip-Bu Tan,Lip-Bu Tan,100.0,1,11,2408,013421_2020_Q4_2222252.txt,,True
+013421,"Cadence Design Systems, Inc.",2021,1,2021-04-26,2258493,Lip-Bu Tan,Lip-Bu Tan,100.0,1,6,1424,013421_2021_Q1_2258493.txt,,True
+013421,"Cadence Design Systems, Inc.",2021,2,2021-07-26,2351094,Lip-Bu Tan,Lip-Bu Tan,100.0,1,4,1571,013421_2021_Q2_2351094.txt,,True
+013421,"Cadence Design Systems, Inc.",2022,1,2022-04-25,2542761,"Anirudh Devgan, Ph.D.",Anirudh Devgan,80.0,1,11,2993,013421_2022_Q1_2542761.txt,,True
+013421,"Cadence Design Systems, Inc.",2022,2,2022-07-25,2603774,"Anirudh Devgan, Ph.D.",Anirudh Devgan,80.0,1,9,3457,013421_2022_Q2_2603774.txt,,True
+013421,"Cadence Design Systems, Inc.",2022,3,2022-10-24,2661744,"Anirudh Devgan, Ph.D.",Anirudh Devgan,80.0,1,11,4383,013421_2022_Q3_2661744.txt,,True
+003144,The Coca-Cola Company,2018,1,2018-04-24,1436509,James Robert Quincey,James Quincey,100.0,1,13,5433,003144_2018_Q1_1436509.txt,,True
+003144,The Coca-Cola Company,2018,2,2018-07-25,1508423,James Robert Quincey,James Quincey,100.0,1,12,5432,003144_2018_Q2_1508423.txt,,True
+003144,The Coca-Cola Company,2018,3,2018-10-30,1587491,James Robert Quincey,James Quincey,100.0,1,14,5469,003144_2018_Q3_1587491.txt,,True
+003144,The Coca-Cola Company,2018,4,2019-02-14,1659217,James Robert Quincey,James Quincey,100.0,1,10,4975,003144_2018_Q4_1659217.txt,,True
+003144,The Coca-Cola Company,2019,1,2019-04-23,1703080,James Robert Quincey,James Quincey,100.0,1,11,4223,003144_2019_Q1_1703080.txt,,True
+003144,The Coca-Cola Company,2019,2,2019-07-23,1776851,James Robert Quincey,James Quincey,100.0,1,11,5547,003144_2019_Q2_1776851.txt,,True
+003144,The Coca-Cola Company,2019,3,2019-10-18,1837302,James Robert Quincey,James Quincey,100.0,1,15,4044,003144_2019_Q3_1837302.txt,,True
+003144,The Coca-Cola Company,2019,4,2020-01-30,1900110,James Robert Quincey,James Quincey,100.0,1,10,5020,003144_2019_Q4_1900110.txt,,True
+003144,The Coca-Cola Company,2020,1,2020-04-21,2012995,James Robert Quincey,James Quincey,100.0,1,15,6301,003144_2020_Q1_2012995.txt,,True
+003144,The Coca-Cola Company,2020,2,2020-07-21,2075241,James Robert Quincey,James Quincey,100.0,1,10,6241,003144_2020_Q2_2075241.txt,,True
+003144,The Coca-Cola Company,2020,3,2020-10-22,2147892,James Robert Quincey,James Quincey,100.0,1,11,5822,003144_2020_Q3_2147892.txt,,True
+003144,The Coca-Cola Company,2020,4,2021-02-10,2244096,James Robert Quincey,James Quincey,100.0,1,7,3890,003144_2020_Q4_2244096.txt,,True
+003144,The Coca-Cola Company,2021,1,2021-04-19,2253190,James Robert Quincey,James Quincey,100.0,1,13,5690,003144_2021_Q1_2253190.txt,,True
+003144,The Coca-Cola Company,2021,2,2021-07-21,2639131,James Robert Quincey,James Quincey,100.0,1,10,5806,003144_2021_Q2_2639131.txt,,True
+003144,The Coca-Cola Company,2021,3,2021-10-27,3082900,James Robert Quincey,James Quincey,100.0,1,14,6034,003144_2021_Q3_3082900.txt,,True
+003144,The Coca-Cola Company,2021,4,2022-02-10,2490636,James Robert Quincey,James Quincey,100.0,1,13,5647,003144_2021_Q4_2490636.txt,,True
+003144,The Coca-Cola Company,2022,1,2022-04-25,2594423,James Robert Quincey,James Quincey,100.0,1,15,5645,003144_2022_Q1_2594423.txt,,True
+003144,The Coca-Cola Company,2022,2,2022-07-26,2604563,James Robert Quincey,James Quincey,100.0,1,11,5582,003144_2022_Q2_2604563.txt,,True
+003144,The Coca-Cola Company,2022,3,2022-10-25,2662185,James Robert Quincey,James Quincey,100.0,1,10,4917,003144_2022_Q3_2662185.txt,,True
+114524,eBay Inc.,2020,2,2020-07-28,2078226,Jamie Iannone,Jamie Iannone,100.0,1,9,4485,114524_2020_Q2_2078226.txt,,True
+114524,eBay Inc.,2020,3,2020-10-28,2153711,Jamie Iannone,Jamie Iannone,100.0,2,8,4436,114524_2020_Q3_2153711.txt,,True
+114524,eBay Inc.,2020,4,2021-02-03,2190536,Jamie Iannone,Jamie Iannone,100.0,1,12,4793,114524_2020_Q4_2190536.txt,,True
+114524,eBay Inc.,2021,1,2021-04-28,2262008,Jamie Iannone,Jamie Iannone,100.0,1,9,4959,114524_2021_Q1_2262008.txt,,True
+114524,eBay Inc.,2021,2,2021-08-11,2374281,Jamie Iannone,Jamie Iannone,100.0,1,7,4747,114524_2021_Q2_2374281.txt,,True
+114524,eBay Inc.,2021,3,2021-10-27,2414918,Jamie Iannone,Jamie Iannone,100.0,1,10,5138,114524_2021_Q3_2414918.txt,,True
+114524,eBay Inc.,2021,4,2022-02-23,2504352,Jamie Iannone,Jamie Iannone,100.0,1,9,4551,114524_2021_Q4_2504352.txt,,True
+114524,eBay Inc.,2022,1,2022-05-04,2553621,Jamie Iannone,Jamie Iannone,100.0,1,9,4887,114524_2022_Q1_2553621.txt,,True
+114524,eBay Inc.,2022,2,2022-08-03,2614786,Jamie Iannone,Jamie Iannone,100.0,1,12,4065,114524_2022_Q2_2614786.txt,,True
+114524,eBay Inc.,2022,3,2022-11-02,2672834,Jamie Iannone,Jamie Iannone,100.0,1,9,4147,114524_2022_Q3_2672834.txt,,True
+004510,FMC Corporation,2018,1,2018-05-03,1451301,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,9,4492,004510_2018_Q1_1451301.txt,,True
+004510,FMC Corporation,2018,2,2018-08-02,1533229,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,12,4083,004510_2018_Q2_1533229.txt,,True
+004510,FMC Corporation,2018,3,2018-11-06,1611257,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,11,3524,004510_2018_Q3_1611257.txt,,True
+004510,FMC Corporation,2018,4,2019-02-12,1656004,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,14,3617,004510_2018_Q4_1656004.txt,,True
+004510,FMC Corporation,2019,1,2019-05-07,1736792,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,11,3694,004510_2019_Q1_1736792.txt,,True
+004510,FMC Corporation,2019,2,2019-07-31,1791531,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,16,3589,004510_2019_Q2_1791531.txt,,True
+004510,FMC Corporation,2019,3,2019-10-30,1849550,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,8,2732,004510_2019_Q3_1849550.txt,,True
+004510,FMC Corporation,2019,4,2020-02-06,1904598,"Pierre Brondeau, Ph.D.",Pierre Brondeau,81.08108108108108,2,11,2786,004510_2019_Q4_1904598.txt,,True
+004510,FMC Corporation,2020,1,2020-05-06,2004316,Mark Douglas,Mark Douglas,100.0,1,8,3600,004510_2020_Q1_2004316.txt,,True
+004510,FMC Corporation,2020,2,2020-08-05,2097844,Mark Douglas,Mark Douglas,100.0,2,13,5412,004510_2020_Q2_2097844.txt,,True
+004510,FMC Corporation,2020,3,2020-11-03,2157579,Mark Douglas,Mark Douglas,100.0,2,12,6190,004510_2020_Q3_2157579.txt,,True
+004510,FMC Corporation,2020,4,2021-02-10,2202939,Mark Douglas,Mark Douglas,100.0,2,12,6699,004510_2020_Q4_2202939.txt,,True
+004510,FMC Corporation,2021,1,2021-05-06,2273101,Mark Douglas,Mark Douglas,100.0,2,15,5693,004510_2021_Q1_2273101.txt,,True
+004510,FMC Corporation,2021,2,2021-08-04,2362540,Mark Douglas,Mark Douglas,100.0,2,12,6637,004510_2021_Q2_2362540.txt,,True
+004510,FMC Corporation,2021,3,2021-11-03,2423036,Mark Douglas,Mark Douglas,100.0,2,13,5867,004510_2021_Q3_2423036.txt,,True
+004510,FMC Corporation,2021,4,2022-02-09,2494581,Mark Douglas,Mark Douglas,100.0,2,13,5823,004510_2021_Q4_2494581.txt,,True
+004510,FMC Corporation,2022,1,2022-05-03,2551228,Mark Douglas,Mark Douglas,100.0,2,15,6087,004510_2022_Q1_2551228.txt,,True
+004510,FMC Corporation,2022,2,2022-08-03,2613705,Mark Douglas,Mark Douglas,100.0,2,22,5178,004510_2022_Q2_2613705.txt,,True
+004510,FMC Corporation,2022,3,2022-11-02,2672033,Mark Douglas,Mark Douglas,100.0,2,15,4841,004510_2022_Q3_2672033.txt,,True
+024468,Biogen Inc.,2018,1,2018-04-24,1442503,Michel Vounatsos,Michel Vounatsos,100.0,2,9,2409,024468_2018_Q1_1442503.txt,,True
+024468,Biogen Inc.,2018,2,2018-07-24,1506230,Michel Vounatsos,Michel Vounatsos,100.0,2,4,1742,024468_2018_Q2_1506230.txt,,True
+024468,Biogen Inc.,2018,3,2018-10-23,1574904,Michel Vounatsos,Michel Vounatsos,100.0,2,7,2175,024468_2018_Q3_1574904.txt,,True
+024468,Biogen Inc.,2018,4,2019-01-29,1643447,Michel Vounatsos,Michel Vounatsos,100.0,2,5,1901,024468_2018_Q4_1643447.txt,,True
+024468,Biogen Inc.,2019,1,2019-04-24,1704769,Michel Vounatsos,Michel Vounatsos,100.0,2,9,2632,024468_2019_Q1_1704769.txt,,True
+024468,Biogen Inc.,2019,2,2019-07-23,1828933,Michel Vounatsos,Michel Vounatsos,100.0,3,6,1958,024468_2019_Q2_1828933.txt,,True
+024468,Biogen Inc.,2019,3,2019-10-22,1836386,Michel Vounatsos,Michel Vounatsos,100.0,2,2,1675,024468_2019_Q3_1836386.txt,,True
+024468,Biogen Inc.,2019,4,2020-01-30,1903011,Michel Vounatsos,Michel Vounatsos,100.0,2,4,1988,024468_2019_Q4_1903011.txt,,True
+024468,Biogen Inc.,2020,1,2020-04-22,3284729,Michel Vounatsos,Michel Vounatsos,100.0,2,7,2576,024468_2020_Q1_3284729.txt,,True
+024468,Biogen Inc.,2020,2,2020-07-22,2083426,Michel Vounatsos,Michel Vounatsos,100.0,2,6,3106,024468_2020_Q2_2083426.txt,,True
+024468,Biogen Inc.,2020,3,2020-10-21,2165379,Michel Vounatsos,Michel Vounatsos,100.0,2,9,2800,024468_2020_Q3_2165379.txt,,True
+024468,Biogen Inc.,2020,4,2021-02-03,2239722,Michel Vounatsos,Michel Vounatsos,100.0,2,10,2261,024468_2020_Q4_2239722.txt,,True
+024468,Biogen Inc.,2021,1,2021-04-22,2255485,Michel Vounatsos,Michel Vounatsos,100.0,2,5,2465,024468_2021_Q1_2255485.txt,,True
+024468,Biogen Inc.,2021,2,2021-07-22,2384573,Michel Vounatsos,Michel Vounatsos,100.0,2,10,2719,024468_2021_Q2_2384573.txt,,True
+024468,Biogen Inc.,2021,3,2021-10-20,2408046,Michel Vounatsos,Michel Vounatsos,100.0,2,13,2604,024468_2021_Q3_2408046.txt,,True
+024468,Biogen Inc.,2021,4,2022-02-03,2484105,Michel Vounatsos,Michel Vounatsos,100.0,2,14,2726,024468_2021_Q4_2484105.txt,,True
+024468,Biogen Inc.,2022,1,2022-05-03,2589327,Michel Vounatsos,Michel Vounatsos,100.0,1,7,1668,024468_2022_Q1_2589327.txt,,True
+024468,Biogen Inc.,2022,2,2022-07-20,2601509,Michel Vounatsos,Michel Vounatsos,100.0,1,11,1579,024468_2022_Q2_2601509.txt,,True
+024468,Biogen Inc.,2022,3,2022-10-25,2662363,Michel Vounatsos,Michel Vounatsos,100.0,1,14,1789,024468_2022_Q3_2662363.txt,,True
+138205,"Illumina, Inc.",2018,1,2018-04-24,1435435,Francis deSouza,Francis deSouza,100.0,1,14,5901,138205_2018_Q1_1435435.txt,,True
+138205,"Illumina, Inc.",2018,2,2018-07-30,1555706,Francis deSouza,Francis deSouza,100.0,2,17,5311,138205_2018_Q2_1555706.txt,,True
+138205,"Illumina, Inc.",2018,3,2018-10-23,1578694,Francis deSouza,Francis deSouza,100.0,1,14,6253,138205_2018_Q3_1578694.txt,,True
+138205,"Illumina, Inc.",2018,4,2019-01-29,1642391,Francis deSouza,Francis deSouza,100.0,2,14,5138,138205_2018_Q4_1642391.txt,,True
+138205,"Illumina, Inc.",2019,1,2019-04-25,1711503,Francis deSouza,Francis deSouza,100.0,2,13,5726,138205_2019_Q1_1711503.txt,,True
+138205,"Illumina, Inc.",2019,2,2019-07-29,1808637,Francis deSouza,Francis deSouza,100.0,1,7,5294,138205_2019_Q2_1808637.txt,,True
+138205,"Illumina, Inc.",2019,3,2019-10-24,1840670,Francis deSouza,Francis deSouza,100.0,2,14,5401,138205_2019_Q3_1840670.txt,,True
+138205,"Illumina, Inc.",2019,4,2020-01-29,1898038,Francis deSouza,Francis deSouza,100.0,2,10,5339,138205_2019_Q4_1898038.txt,,True
+138205,"Illumina, Inc.",2020,1,2020-04-30,2024262,Francis deSouza,Francis deSouza,100.0,2,10,5634,138205_2020_Q1_2024262.txt,,True
+138205,"Illumina, Inc.",2020,2,2020-08-06,2097637,Francis deSouza,Francis deSouza,100.0,2,7,6079,138205_2020_Q2_2097637.txt,,True
+138205,"Illumina, Inc.",2020,3,2020-10-29,2158453,Francis deSouza,Francis deSouza,100.0,2,12,4463,138205_2020_Q3_2158453.txt,,True
+138205,"Illumina, Inc.",2020,4,2021-02-11,2207045,Francis deSouza,Francis deSouza,100.0,2,8,4757,138205_2020_Q4_2207045.txt,,True
+138205,"Illumina, Inc.",2021,1,2021-04-27,2259890,Francis deSouza,Francis deSouza,100.0,2,8,5175,138205_2021_Q1_2259890.txt,,True
+138205,"Illumina, Inc.",2021,2,2021-08-05,2366068,Francis deSouza,Francis deSouza,100.0,2,12,4847,138205_2021_Q2_2366068.txt,,True
+138205,"Illumina, Inc.",2021,3,2021-11-04,2426551,Francis deSouza,Francis deSouza,100.0,2,9,4263,138205_2021_Q3_2426551.txt,,True
+138205,"Illumina, Inc.",2021,4,2022-02-10,2532856,Francis deSouza,Francis deSouza,100.0,2,11,4979,138205_2021_Q4_2532856.txt,,True
+138205,"Illumina, Inc.",2022,1,2022-05-05,2556058,Francis deSouza,Francis deSouza,100.0,2,11,5551,138205_2022_Q1_2556058.txt,,True
+138205,"Illumina, Inc.",2022,2,2022-08-11,2628750,Francis deSouza,Francis deSouza,100.0,2,8,3794,138205_2022_Q2_2628750.txt,,True
+138205,"Illumina, Inc.",2022,3,2022-11-03,2675064,Francis deSouza,Francis deSouza,100.0,2,11,3865,138205_2022_Q3_2675064.txt,,True
+006669,Lennar Corporation,2018,1,2018-04-04,1431060,Richard Beckwitt,Richard Beckwitt,100.0,1,7,1628,006669_2018_Q1_1431060.txt,,True
+006669,Lennar Corporation,2018,2,2018-06-26,1494959,Richard Beckwitt,Richard Beckwitt,100.0,1,8,1452,006669_2018_Q2_1494959.txt,,True
+006669,Lennar Corporation,2018,3,2018-10-03,1564908,Richard Beckwitt,Richard Beckwitt,100.0,1,7,1591,006669_2018_Q3_1564908.txt,,True
+006669,Lennar Corporation,2018,4,2019-01-09,1666966,Richard Beckwitt,Richard Beckwitt,100.0,2,11,2325,006669_2018_Q4_1666966.txt,,True
+006669,Lennar Corporation,2019,1,2019-03-27,1695626,Richard Beckwitt,Richard Beckwitt,100.0,1,13,2035,006669_2019_Q1_1695626.txt,,True
+006669,Lennar Corporation,2019,2,2019-06-25,1767192,Richard Beckwitt,Richard Beckwitt,100.0,1,9,1638,006669_2019_Q2_1767192.txt,,True
+006669,Lennar Corporation,2019,3,2019-10-02,1830823,Richard Beckwitt,Richard Beckwitt,100.0,1,9,1618,006669_2019_Q3_1830823.txt,,True
+006669,Lennar Corporation,2019,4,2020-01-08,1888448,Richard Beckwitt,Richard Beckwitt,100.0,1,6,1711,006669_2019_Q4_1888448.txt,,True
+006669,Lennar Corporation,2020,2,2020-06-16,2029164,Richard Beckwitt,Richard Beckwitt,100.0,1,7,2281,006669_2020_Q2_2029164.txt,,True
+006669,Lennar Corporation,2020,4,2020-12-17,2163943,Richard Beckwitt,Richard Beckwitt,100.0,1,6,1204,006669_2020_Q4_2163943.txt,,True
+006669,Lennar Corporation,2021,1,2021-03-17,2238998,Jonathan Jaffe,Jonathan Jaffe,100.0,1,4,1492,006669_2021_Q1_2238998.txt,,True
+006669,Lennar Corporation,2021,2,2021-06-17,2322841,Jonathan Jaffe,Jonathan Jaffe,100.0,1,7,1901,006669_2021_Q2_2322841.txt,,True
+006669,Lennar Corporation,2021,3,2021-09-21,2399746,Jonathan Jaffe,Jonathan Jaffe,100.0,2,6,1471,006669_2021_Q3_2399746.txt,,True
+006669,Lennar Corporation,2021,4,2021-12-16,2462436,Jonathan Jaffe,Jonathan Jaffe,100.0,1,6,1382,006669_2021_Q4_2462436.txt,,True
+006669,Lennar Corporation,2022,1,2022-03-17,2527088,Jonathan Jaffe,Jonathan Jaffe,100.0,1,3,1259,006669_2022_Q1_2527088.txt,,True
+006669,Lennar Corporation,2022,2,2022-06-21,2591359,Jonathan Jaffe,Jonathan Jaffe,100.0,1,8,1160,006669_2022_Q2_2591359.txt,,True
+006669,Lennar Corporation,2022,3,2022-09-22,2695207,Jonathan Jaffe,Jonathan Jaffe,100.0,1,4,1129,006669_2022_Q3_2695207.txt,,True
+006669,Lennar Corporation,2022,4,2022-12-15,2710252,Jonathan Jaffe,Jonathan Jaffe,100.0,1,6,1532,006669_2022_Q4_2710252.txt,,True
+028930,"Marriott International, Inc.",2018,1,2018-05-09,1460850,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,18,6817,028930_2018_Q1_1460850.txt,,True
+028930,"Marriott International, Inc.",2018,2,2018-08-07,1539411,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,32,8199,028930_2018_Q2_1539411.txt,,True
+028930,"Marriott International, Inc.",2018,3,2018-11-06,1627720,"Arne Sorenson, J.D.",Arne Sorenson,81.25,2,29,8610,028930_2018_Q3_1627720.txt,,True
+028930,"Marriott International, Inc.",2018,4,2019-03-01,1675536,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,23,7757,028930_2018_Q4_1675536.txt,,True
+028930,"Marriott International, Inc.",2019,1,2019-05-10,1736588,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,27,6559,028930_2019_Q1_1736588.txt,,True
+028930,"Marriott International, Inc.",2019,2,2019-08-06,1816839,"Arne Sorenson, J.D.",Arne Sorenson,81.25,2,29,6582,028930_2019_Q2_1816839.txt,,True
+028930,"Marriott International, Inc.",2019,3,2019-11-05,2993838,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,28,7044,028930_2019_Q3_2993838.txt,,True
+028930,"Marriott International, Inc.",2019,4,2020-02-27,1932617,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,15,5856,028930_2019_Q4_1932617.txt,,True
+028930,"Marriott International, Inc.",2020,1,2020-05-11,2017727,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,21,6946,028930_2020_Q1_2017727.txt,,True
+028930,"Marriott International, Inc.",2020,2,2020-08-10,2160462,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,24,7684,028930_2020_Q2_2160462.txt,,True
+028930,"Marriott International, Inc.",2020,3,2020-11-06,2132781,"Arne Sorenson, J.D.",Arne Sorenson,81.25,1,20,6487,028930_2020_Q3_2132781.txt,,True
+028930,"Marriott International, Inc.",2022,1,2022-05-04,2552679,"Anthony Capuano, Jr.",Anthony Capuano,85.71428571428571,1,21,2810,028930_2022_Q1_2552679.txt,,True
+028930,"Marriott International, Inc.",2022,2,2022-08-02,2612076,"Anthony Capuano, Jr.",Anthony Capuano,85.71428571428571,1,19,3398,028930_2022_Q2_2612076.txt,,True
+028930,"Marriott International, Inc.",2022,3,2022-11-03,2673385,"Anthony Capuano, Jr.",Anthony Capuano,85.71428571428571,1,14,3265,028930_2022_Q3_2673385.txt,,True
+065772,Mettler-Toledo International Inc.,2018,1,2018-05-03,1486999,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,13,3421,065772_2018_Q1_1486999.txt,,True
+065772,Mettler-Toledo International Inc.,2018,2,2018-07-26,1510749,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,8,2947,065772_2018_Q2_1510749.txt,,True
+065772,Mettler-Toledo International Inc.,2018,3,2018-11-08,1602037,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,8,3423,065772_2018_Q3_1602037.txt,,True
+065772,Mettler-Toledo International Inc.,2018,4,2019-02-07,1662226,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,13,3349,065772_2018_Q4_1662226.txt,,True
+065772,Mettler-Toledo International Inc.,2019,1,2019-05-09,1738852,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,13,3654,065772_2019_Q1_1738852.txt,,True
+065772,Mettler-Toledo International Inc.,2019,2,2019-08-01,1809975,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,12,4054,065772_2019_Q2_1809975.txt,,True
+065772,Mettler-Toledo International Inc.,2019,3,2019-11-07,1863790,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,16,3842,065772_2019_Q3_1863790.txt,,True
+065772,Mettler-Toledo International Inc.,2019,4,2020-02-06,1906825,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,22,4730,065772_2019_Q4_1906825.txt,,True
+065772,Mettler-Toledo International Inc.,2020,1,2020-05-07,2016684,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,13,3994,065772_2020_Q1_2016684.txt,,True
+065772,Mettler-Toledo International Inc.,2020,2,2020-07-30,2079668,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,2,15,4425,065772_2020_Q2_2079668.txt,,True
+065772,Mettler-Toledo International Inc.,2020,3,2020-11-05,2132268,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,4,13,4058,065772_2020_Q3_2132268.txt,,True
+065772,Mettler-Toledo International Inc.,2020,4,2021-02-04,2193571,"Olivier Filliol, Ph.D.",Olivier Filliol,81.08108108108108,3,14,4878,065772_2020_Q4_2193571.txt,,True
+065772,Mettler-Toledo International Inc.,2021,1,2021-05-06,2274187,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,10,4028,065772_2021_Q1_2274187.txt,,True
+065772,Mettler-Toledo International Inc.,2021,2,2021-07-29,2355569,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,7,3402,065772_2021_Q2_2355569.txt,,True
+065772,Mettler-Toledo International Inc.,2021,3,2021-11-04,2426465,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,9,3727,065772_2021_Q3_2426465.txt,,True
+065772,Mettler-Toledo International Inc.,2021,4,2022-02-10,2491329,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,12,3168,065772_2021_Q4_2491329.txt,,True
+065772,Mettler-Toledo International Inc.,2022,1,2022-05-05,2555953,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,6,2996,065772_2022_Q1_2555953.txt,,True
+065772,Mettler-Toledo International Inc.,2022,2,2022-07-29,2609976,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,14,3792,065772_2022_Q2_2609976.txt,,True
+065772,Mettler-Toledo International Inc.,2022,3,2022-11-03,2676303,Patrick Kaltenbach,Patrick Kaltenbach,100.0,2,10,3081,065772_2022_Q3_2676303.txt,,True
+008762,The Procter & Gamble Company,2018,3,2018-04-19,1432843,David Taylor,David Taylor,100.0,2,13,7571,008762_2018_Q3_1432843.txt,,True
+008762,The Procter & Gamble Company,2018,4,2018-07-31,1527259,David Taylor,David Taylor,100.0,2,14,7270,008762_2018_Q4_1527259.txt,,True
+008762,The Procter & Gamble Company,2022,1,2021-10-19,2407413,Jon Moeller,Jon Moeller,100.0,0,7,1189,008762_2022_Q1_2407413.txt,,True
+008762,The Procter & Gamble Company,2022,2,2022-01-19,3000431,Jon Moeller,Jon Moeller,100.0,0,10,2117,008762_2022_Q2_3000431.txt,,True
+008762,The Procter & Gamble Company,2022,4,2022-07-29,2609249,Jon Moeller,Jon Moeller,100.0,2,6,1887,008762_2022_Q4_2609249.txt,,True
+025434,Starbucks Corporation,2018,1,2018-01-25,1374618,Kevin Johnson,Kevin Johnson,100.0,1,8,4196,025434_2018_Q1_1374618.txt,,True
+025434,Starbucks Corporation,2018,2,2018-04-26,1441384,Kevin Johnson,Kevin Johnson,100.0,1,9,2447,025434_2018_Q2_1441384.txt,,True
+025434,Starbucks Corporation,2018,3,2018-07-26,1510808,Kevin Johnson,Kevin Johnson,100.0,1,9,2691,025434_2018_Q3_1510808.txt,,True
+025434,Starbucks Corporation,2018,4,2018-11-01,1590426,Kevin Johnson,Kevin Johnson,100.0,1,6,2113,025434_2018_Q4_1590426.txt,,True
+025434,Starbucks Corporation,2019,1,2019-01-24,1641029,Kevin Johnson,Kevin Johnson,100.0,1,9,2896,025434_2019_Q1_1641029.txt,,True
+025434,Starbucks Corporation,2019,2,2019-04-25,1711484,Kevin Johnson,Kevin Johnson,100.0,1,3,2681,025434_2019_Q2_1711484.txt,,True
+025434,Starbucks Corporation,2019,3,2019-07-25,1832859,Kevin Johnson,Kevin Johnson,100.0,1,17,3515,025434_2019_Q3_1832859.txt,,True
+025434,Starbucks Corporation,2019,4,2019-10-30,1868877,Kevin Johnson,Kevin Johnson,100.0,1,15,3403,025434_2019_Q4_1868877.txt,,True
+025434,Starbucks Corporation,2020,1,2020-01-28,1897940,Kevin Johnson,Kevin Johnson,100.0,1,6,2566,025434_2020_Q1_1897940.txt,,True
+025434,Starbucks Corporation,2020,2,2020-04-28,2017527,Kevin Johnson,Kevin Johnson,100.0,1,17,4280,025434_2020_Q2_2017527.txt,,True
+025434,Starbucks Corporation,2020,3,2020-07-28,2077858,Kevin Johnson,Kevin Johnson,100.0,1,13,5348,025434_2020_Q3_2077858.txt,,True
+025434,Starbucks Corporation,2020,4,2020-10-29,2154245,Kevin Johnson,Kevin Johnson,100.0,1,15,4321,025434_2020_Q4_2154245.txt,,True
+025434,Starbucks Corporation,2021,1,2021-01-26,2181807,Kevin Johnson,Kevin Johnson,100.0,1,10,4458,025434_2021_Q1_2181807.txt,,True
+025434,Starbucks Corporation,2021,2,2021-04-27,2259898,Kevin Johnson,Kevin Johnson,100.0,1,14,5092,025434_2021_Q2_2259898.txt,,True
+025434,Starbucks Corporation,2021,3,2021-07-27,2352182,Kevin Johnson,Kevin Johnson,100.0,1,11,3150,025434_2021_Q3_2352182.txt,,True
+025434,Starbucks Corporation,2021,4,2021-10-28,2417583,Kevin Johnson,Kevin Johnson,100.0,1,10,4830,025434_2021_Q4_2417583.txt,,True
+015855,Gen Digital Inc.,2018,3,2018-01-31,1402023,Gregory Clark,Gregory Clark,100.0,2,11,4280,015855_2018_Q3_1402023.txt,,True
+015855,Gen Digital Inc.,2018,4,2018-05-10,2493469,Gregory Clark,Gregory Clark,100.0,2,0,1316,015855_2018_Q4_2493469.txt,,True
+015855,Gen Digital Inc.,2019,1,2018-08-02,1563051,Gregory Clark,Gregory Clark,100.0,2,14,3136,015855_2019_Q1_1563051.txt,,True
+015855,Gen Digital Inc.,2019,2,2018-11-01,1590430,Gregory Clark,Gregory Clark,100.0,2,12,3437,015855_2019_Q2_1590430.txt,,True
+015855,Gen Digital Inc.,2019,3,2019-01-31,1645723,Gregory Clark,Gregory Clark,100.0,2,11,4316,015855_2019_Q3_1645723.txt,,True
+015855,Gen Digital Inc.,2020,1,2019-08-08,1831751,Vincent Pilette,Vincent Pilette,100.0,2,9,2920,015855_2020_Q1_1831751.txt,,True
+015855,Gen Digital Inc.,2020,2,2019-11-07,1874164,Vincent Pilette,Vincent Pilette,100.0,3,16,3524,015855_2020_Q2_1874164.txt,,True
+015855,Gen Digital Inc.,2020,3,2020-02-06,1904594,Vincent Pilette,Vincent Pilette,100.0,2,10,2341,015855_2020_Q3_1904594.txt,,True
+015855,Gen Digital Inc.,2020,4,2020-05-14,1992641,Vincent Pilette,Vincent Pilette,100.0,2,10,3300,015855_2020_Q4_1992641.txt,,True
+015855,Gen Digital Inc.,2021,1,2020-08-06,2096793,Vincent Pilette,Vincent Pilette,100.0,2,10,3703,015855_2021_Q1_2096793.txt,,True
+015855,Gen Digital Inc.,2021,2,2020-11-05,2176356,Vincent Pilette,Vincent Pilette,100.0,1,7,2516,015855_2021_Q2_2176356.txt,,True
+015855,Gen Digital Inc.,2021,3,2021-02-04,2240549,Vincent Pilette,Vincent Pilette,100.0,1,17,3965,015855_2021_Q3_2240549.txt,,True
+015855,Gen Digital Inc.,2022,1,2021-07-27,2352196,Vincent Pilette,Vincent Pilette,100.0,1,9,3208,015855_2022_Q1_2352196.txt,,True
+015855,Gen Digital Inc.,2022,2,2021-11-04,2426709,Vincent Pilette,Vincent Pilette,100.0,1,5,1939,015855_2022_Q2_2426709.txt,,True
+015855,Gen Digital Inc.,2022,3,2022-02-03,2484841,Vincent Pilette,Vincent Pilette,100.0,1,7,2875,015855_2022_Q3_2484841.txt,,True
+015855,Gen Digital Inc.,2022,4,2022-05-05,2555969,Vincent Pilette,Vincent Pilette,100.0,1,6,2651,015855_2022_Q4_2555969.txt,,True
+061483,DaVita Inc.,2018,1,2018-05-03,1451475,Kent Thiry,Kent Thiry,100.0,2,8,1013,061483_2018_Q1_1451475.txt,,True
+061483,DaVita Inc.,2018,3,2018-11-07,1612317,Kent Thiry,Kent Thiry,100.0,2,18,2311,061483_2018_Q3_1612317.txt,,True
+061483,DaVita Inc.,2018,4,2019-02-14,1659326,Kent Thiry,Kent Thiry,100.0,2,16,2372,061483_2018_Q4_1659326.txt,,True
+061483,DaVita Inc.,2019,1,2019-05-07,1724262,Javier Rodriguez,Javier Rodriguez,100.0,1,10,1729,061483_2019_Q1_1724262.txt,,True
+061483,DaVita Inc.,2019,2,2019-08-01,1794025,Javier Rodriguez,Javier Rodriguez,100.0,2,27,2869,061483_2019_Q2_1794025.txt,,True
+061483,DaVita Inc.,2019,3,2019-11-05,1858490,Javier Rodriguez,Javier Rodriguez,100.0,1,12,2153,061483_2019_Q3_1858490.txt,,True
+061483,DaVita Inc.,2019,4,2020-02-10,1908377,Javier Rodriguez,Javier Rodriguez,100.0,1,18,2565,061483_2019_Q4_1908377.txt,,True
+061483,DaVita Inc.,2020,1,2020-05-05,2005685,Javier Rodriguez,Javier Rodriguez,100.0,1,27,3836,061483_2020_Q1_2005685.txt,,True
+061483,DaVita Inc.,2020,2,2020-07-30,2078776,Javier Rodriguez,Javier Rodriguez,100.0,1,28,4122,061483_2020_Q2_2078776.txt,,True
+061483,DaVita Inc.,2020,3,2020-10-29,2154412,Javier Rodriguez,Javier Rodriguez,100.0,1,18,2179,061483_2020_Q3_2154412.txt,,True
+061483,DaVita Inc.,2020,4,2021-02-11,2246741,Javier Rodriguez,Javier Rodriguez,100.0,1,20,3307,061483_2020_Q4_2246741.txt,,True
+061483,DaVita Inc.,2021,1,2021-04-29,2263792,Javier Rodriguez,Javier Rodriguez,100.0,2,4,1599,061483_2021_Q1_2263792.txt,,True
+061483,DaVita Inc.,2021,2,2021-08-03,2361617,Javier Rodriguez,Javier Rodriguez,100.0,1,10,2516,061483_2021_Q2_2361617.txt,,True
+061483,DaVita Inc.,2021,3,2021-10-28,2417183,Javier Rodriguez,Javier Rodriguez,100.0,1,12,1927,061483_2021_Q3_2417183.txt,,True
+061483,DaVita Inc.,2021,4,2022-02-10,2496489,Javier Rodriguez,Javier Rodriguez,100.0,1,16,3122,061483_2021_Q4_2496489.txt,,True
+061483,DaVita Inc.,2022,1,2022-05-05,2555823,Javier Rodriguez,Javier Rodriguez,100.0,1,5,1381,061483_2022_Q1_2555823.txt,,True
+061483,DaVita Inc.,2022,2,2022-08-01,2611325,Javier Rodriguez,Javier Rodriguez,100.0,1,13,2354,061483_2022_Q2_2611325.txt,,True
+061483,DaVita Inc.,2022,3,2022-10-28,2668164,Javier Rodriguez,Javier Rodriguez,100.0,1,12,2744,061483_2022_Q3_2668164.txt,,True
+178704,"Ulta Beauty, Inc.",2019,1,2018-05-31,1485119,Mary Dillon,Mary Dillon,100.0,1,11,3620,178704_2019_Q1_1485119.txt,,True
+178704,"Ulta Beauty, Inc.",2019,2,2018-08-30,1552266,Mary Dillon,Mary Dillon,100.0,1,11,4380,178704_2019_Q2_1552266.txt,,True
+178704,"Ulta Beauty, Inc.",2019,3,2018-12-06,1632221,Mary Dillon,Mary Dillon,100.0,1,10,3283,178704_2019_Q3_1632221.txt,,True
+178704,"Ulta Beauty, Inc.",2019,4,2019-03-14,1690099,Mary Dillon,Mary Dillon,100.0,1,10,4357,178704_2019_Q4_1690099.txt,,True
+178704,"Ulta Beauty, Inc.",2020,1,2019-05-30,1755983,Mary Dillon,Mary Dillon,100.0,1,12,4245,178704_2020_Q1_1755983.txt,,True
+178704,"Ulta Beauty, Inc.",2020,2,2019-08-29,1814780,Mary Dillon,Mary Dillon,100.0,2,11,5131,178704_2020_Q2_1814780.txt,,True
+178704,"Ulta Beauty, Inc.",2020,3,2019-12-05,1886028,Mary Dillon,Mary Dillon,100.0,1,8,5179,178704_2020_Q3_1886028.txt,,True
+178704,"Ulta Beauty, Inc.",2020,4,2020-03-12,1937923,Mary Dillon,Mary Dillon,100.0,1,9,4526,178704_2020_Q4_1937923.txt,,True
+178704,"Ulta Beauty, Inc.",2021,1,2020-05-28,2030077,David Kimbell,David Kimbell,100.0,0,6,1294,178704_2021_Q1_2030077.txt,,True
+178704,"Ulta Beauty, Inc.",2021,4,2021-03-11,2236097,David Kimbell,David Kimbell,100.0,1,9,3410,178704_2021_Q4_2236097.txt,,True
+178704,"Ulta Beauty, Inc.",2022,1,2021-05-27,2303133,David Kimbell,David Kimbell,100.0,1,7,4036,178704_2022_Q1_2303133.txt,,True
+178704,"Ulta Beauty, Inc.",2022,2,2021-08-25,2386357,David Kimbell,David Kimbell,100.0,1,7,4533,178704_2022_Q2_2386357.txt,,True
+178704,"Ulta Beauty, Inc.",2022,3,2021-12-02,2454785,David Kimbell,David Kimbell,100.0,2,6,4339,178704_2022_Q3_2454785.txt,,True
+178704,"Ulta Beauty, Inc.",2022,4,2022-03-10,2522808,David Kimbell,David Kimbell,100.0,1,7,4941,178704_2022_Q4_2522808.txt,,True
+010115,Stryker Corporation,2018,1,2018-04-26,1441875,Kevin Lobo,Kevin Lobo,100.0,1,28,2844,010115_2018_Q1_1441875.txt,,True
+010115,Stryker Corporation,2018,2,2018-07-24,1506740,Kevin Lobo,Kevin Lobo,100.0,1,11,1737,010115_2018_Q2_1506740.txt,,True
+010115,Stryker Corporation,2018,3,2018-10-25,1590880,Kevin Lobo,Kevin Lobo,100.0,1,21,3216,010115_2018_Q3_1590880.txt,,True
+010115,Stryker Corporation,2018,4,2019-01-29,1642463,Kevin Lobo,Kevin Lobo,100.0,1,21,3762,010115_2018_Q4_1642463.txt,,True
+010115,Stryker Corporation,2019,1,2019-04-23,1703071,Kevin Lobo,Kevin Lobo,100.0,1,21,2619,010115_2019_Q1_1703071.txt,,True
+010115,Stryker Corporation,2019,2,2019-07-25,1781568,Kevin Lobo,Kevin Lobo,100.0,1,16,2353,010115_2019_Q2_1781568.txt,,True
+010115,Stryker Corporation,2019,3,2019-10-29,1850444,Kevin Lobo,Kevin Lobo,100.0,1,14,1760,010115_2019_Q3_1850444.txt,,True
+010115,Stryker Corporation,2019,4,2020-01-28,1897156,Kevin Lobo,Kevin Lobo,100.0,1,26,4026,010115_2019_Q4_1897156.txt,,True
+010115,Stryker Corporation,2020,1,2020-04-30,2024239,Kevin Lobo,Kevin Lobo,100.0,1,25,5277,010115_2020_Q1_2024239.txt,,True
+010115,Stryker Corporation,2020,2,2020-07-30,2085517,Kevin Lobo,Kevin Lobo,100.0,1,24,5294,010115_2020_Q2_2085517.txt,,True
+010115,Stryker Corporation,2020,3,2020-10-29,2154634,Kevin Lobo,Kevin Lobo,100.0,1,22,4534,010115_2020_Q3_2154634.txt,,True
+010115,Stryker Corporation,2020,4,2021-01-27,2251565,Kevin Lobo,Kevin Lobo,100.0,1,15,3550,010115_2020_Q4_2251565.txt,,True
+010115,Stryker Corporation,2021,1,2021-04-27,2260462,Kevin Lobo,Kevin Lobo,100.0,1,19,3336,010115_2021_Q1_2260462.txt,,True
+010115,Stryker Corporation,2021,2,2021-07-27,2352172,Kevin Lobo,Kevin Lobo,100.0,1,36,5306,010115_2021_Q2_2352172.txt,,True
+010115,Stryker Corporation,2021,3,2021-10-28,2417356,Kevin Lobo,Kevin Lobo,100.0,1,10,2206,010115_2021_Q3_2417356.txt,,True
+010115,Stryker Corporation,2021,4,2022-01-27,2479217,Kevin Lobo,Kevin Lobo,100.0,1,13,2787,010115_2021_Q4_2479217.txt,,True
+010115,Stryker Corporation,2022,1,2022-04-28,2547617,Kevin Lobo,Kevin Lobo,100.0,1,11,2116,010115_2022_Q1_2547617.txt,,True
+010115,Stryker Corporation,2022,2,2022-07-26,2604765,Kevin Lobo,Kevin Lobo,100.0,1,25,5397,010115_2022_Q2_2604765.txt,,True
+010115,Stryker Corporation,2022,3,2022-10-31,2669498,Kevin Lobo,Kevin Lobo,100.0,1,21,4607,010115_2022_Q3_2669498.txt,,True
+007985,Northrop Grumman Corporation,2018,1,2018-04-25,1437176,Wesley Bush,Wesley Bush,100.0,1,12,3182,007985_2018_Q1_1437176.txt,,True
+007985,Northrop Grumman Corporation,2018,2,2018-07-25,1508484,Wesley Bush,Wesley Bush,100.0,1,8,2758,007985_2018_Q2_1508484.txt,,True
+007985,Northrop Grumman Corporation,2018,3,2018-10-24,1576978,Wesley Bush,Wesley Bush,100.0,1,9,1526,007985_2018_Q3_1576978.txt,,True
+007985,Northrop Grumman Corporation,2019,1,2019-04-24,1750167,Kathy Warden,Kathy Warden,100.0,1,12,3385,007985_2019_Q1_1750167.txt,,True
+007985,Northrop Grumman Corporation,2019,2,2019-07-24,1780270,Kathy Warden,Kathy Warden,100.0,1,15,3844,007985_2019_Q2_1780270.txt,,True
+007985,Northrop Grumman Corporation,2019,3,2019-10-24,1886452,Kathy Warden,Kathy Warden,100.0,1,10,3247,007985_2019_Q3_1886452.txt,,True
+007985,Northrop Grumman Corporation,2019,4,2020-01-30,1898033,Kathy Warden,Kathy Warden,100.0,1,12,3504,007985_2019_Q4_1898033.txt,,True
+007985,Northrop Grumman Corporation,2020,1,2020-04-29,2018269,Kathy Warden,Kathy Warden,100.0,1,15,4195,007985_2020_Q1_2018269.txt,,True
+007985,Northrop Grumman Corporation,2020,2,2020-07-30,2092565,Kathy Warden,Kathy Warden,100.0,1,14,4282,007985_2020_Q2_2092565.txt,,True
+007985,Northrop Grumman Corporation,2020,3,2020-10-22,2165757,Kathy Warden,Kathy Warden,100.0,1,11,4598,007985_2020_Q3_2165757.txt,,True
+007985,Northrop Grumman Corporation,2020,4,2021-01-28,2252756,Kathy Warden,Kathy Warden,100.0,1,12,3389,007985_2020_Q4_2252756.txt,,True
+007985,Northrop Grumman Corporation,2021,1,2021-04-29,2268517,Kathy Warden,Kathy Warden,100.0,1,11,3466,007985_2021_Q1_2268517.txt,,True
+007985,Northrop Grumman Corporation,2021,2,2021-07-29,2354384,Kathy Warden,Kathy Warden,100.0,1,13,3941,007985_2021_Q2_2354384.txt,,True
+007985,Northrop Grumman Corporation,2021,3,2021-10-28,2415772,Kathy Warden,Kathy Warden,100.0,2,12,3342,007985_2021_Q3_2415772.txt,,True
+007985,Northrop Grumman Corporation,2021,4,2022-01-27,2478733,Kathy Warden,Kathy Warden,100.0,2,14,3851,007985_2021_Q4_2478733.txt,,True
+007985,Northrop Grumman Corporation,2022,1,2022-04-28,2546449,Kathy Warden,Kathy Warden,100.0,1,18,4752,007985_2022_Q1_2546449.txt,,True
+007985,Northrop Grumman Corporation,2022,2,2022-07-28,2608416,Kathy Warden,Kathy Warden,100.0,2,17,4379,007985_2022_Q2_2608416.txt,,True
+007985,Northrop Grumman Corporation,2022,3,2022-10-27,2665469,Kathy Warden,Kathy Warden,100.0,1,12,3855,007985_2022_Q3_2665469.txt,,True
+025340,"D.R. Horton, Inc.",2018,1,2018-01-31,1378240,David Auld,David Auld,100.0,4,12,1495,025340_2018_Q1_1378240.txt,,True
+025340,"D.R. Horton, Inc.",2018,2,2018-04-26,1439762,David Auld,David Auld,100.0,4,14,1661,025340_2018_Q2_1439762.txt,,True
+025340,"D.R. Horton, Inc.",2018,4,2018-11-08,1611803,David Auld,David Auld,100.0,4,15,1933,025340_2018_Q4_1611803.txt,,True
+025340,"D.R. Horton, Inc.",2019,1,2019-01-25,1641544,David Auld,David Auld,100.0,4,15,2137,025340_2019_Q1_1641544.txt,,True
+025340,"D.R. Horton, Inc.",2019,2,2019-04-25,1712382,David Auld,David Auld,100.0,5,12,1416,025340_2019_Q2_1712382.txt,,True
+025340,"D.R. Horton, Inc.",2019,3,2019-07-30,1809190,David Auld,David Auld,100.0,4,15,1926,025340_2019_Q3_1809190.txt,,True
+025340,"D.R. Horton, Inc.",2019,4,2019-11-12,1867962,David Auld,David Auld,100.0,4,11,1495,025340_2019_Q4_1867962.txt,,True
+025340,"D.R. Horton, Inc.",2020,1,2020-01-27,1895035,David Auld,David Auld,100.0,4,11,1295,025340_2020_Q1_1895035.txt,,True
+025340,"D.R. Horton, Inc.",2020,2,2020-04-28,2015992,David Auld,David Auld,100.0,4,6,1516,025340_2020_Q2_2015992.txt,,True
+025340,"D.R. Horton, Inc.",2020,3,2020-07-28,2095804,David Auld,David Auld,100.0,3,17,2081,025340_2020_Q3_2095804.txt,,True
+025340,"D.R. Horton, Inc.",2020,4,2020-11-10,2136788,David Auld,David Auld,100.0,3,12,1804,025340_2020_Q4_2136788.txt,,True
+025340,"D.R. Horton, Inc.",2021,1,2021-01-26,2181464,David Auld,David Auld,100.0,3,14,1614,025340_2021_Q1_2181464.txt,,True
+025340,"D.R. Horton, Inc.",2021,2,2021-04-22,2255558,David Auld,David Auld,100.0,3,11,1691,025340_2021_Q2_2255558.txt,,True
+025340,"D.R. Horton, Inc.",2021,3,2021-07-22,2481767,David Auld,David Auld,100.0,3,15,2976,025340_2021_Q3_2481767.txt,,True
+025340,"D.R. Horton, Inc.",2021,4,2021-11-09,2430973,David Auld,David Auld,100.0,4,17,2344,025340_2021_Q4_2430973.txt,,True
+025340,"D.R. Horton, Inc.",2022,1,2022-02-02,2493520,David Auld,David Auld,100.0,2,13,2225,025340_2022_Q1_2493520.txt,,True
+025340,"D.R. Horton, Inc.",2022,2,2022-04-26,2543399,David Auld,David Auld,100.0,2,8,1555,025340_2022_Q2_2543399.txt,,True
+025340,"D.R. Horton, Inc.",2022,3,2022-07-21,2602417,David Auld,David Auld,100.0,2,9,1557,025340_2022_Q3_2602417.txt,,True
+025340,"D.R. Horton, Inc.",2022,4,2022-11-09,2681175,David Auld,David Auld,100.0,2,9,1352,025340_2022_Q4_2681175.txt,,True
+006066,International Business Machines Corporation,2020,1,2020-04-20,2012299,Arvind Krishna,Arvind Krishna,100.0,2,8,3643,006066_2020_Q1_2012299.txt,,True
+006066,International Business Machines Corporation,2020,2,2020-07-20,2059945,Arvind Krishna,Arvind Krishna,100.0,2,8,3723,006066_2020_Q2_2059945.txt,,True
+006066,International Business Machines Corporation,2020,3,2020-10-19,2145396,Arvind Krishna,Arvind Krishna,100.0,2,7,3618,006066_2020_Q3_2145396.txt,,True
+006066,International Business Machines Corporation,2020,4,2021-01-21,2250658,Arvind Krishna,Arvind Krishna,100.0,1,7,4156,006066_2020_Q4_2250658.txt,,True
+006066,International Business Machines Corporation,2021,1,2021-04-19,2253389,Arvind Krishna,Arvind Krishna,100.0,1,6,3691,006066_2021_Q1_2253389.txt,,True
+006066,International Business Machines Corporation,2021,2,2021-07-19,2347766,Arvind Krishna,Arvind Krishna,100.0,1,5,3614,006066_2021_Q2_2347766.txt,,True
+006066,International Business Machines Corporation,2021,3,2021-10-20,2408386,Arvind Krishna,Arvind Krishna,100.0,1,6,3047,006066_2021_Q3_2408386.txt,,True
+006066,International Business Machines Corporation,2021,4,2022-01-24,2476525,Arvind Krishna,Arvind Krishna,100.0,1,5,3090,006066_2021_Q4_2476525.txt,,True
+006066,International Business Machines Corporation,2022,1,2022-04-19,2540100,Arvind Krishna,Arvind Krishna,100.0,1,6,3008,006066_2022_Q1_2540100.txt,,True
+006066,International Business Machines Corporation,2022,2,2022-07-18,2600554,Arvind Krishna,Arvind Krishna,100.0,1,4,2105,006066_2022_Q2_2600554.txt,,True
+006066,International Business Machines Corporation,2022,3,2022-10-19,2659290,Arvind Krishna,Arvind Krishna,100.0,1,6,2698,006066_2022_Q3_2659290.txt,,True
+157855,"Salesforce, Inc.",2019,1,2018-05-29,1479181,Marc Benioff,Marc Benioff,100.0,1,17,4043,157855_2019_Q1_1479181.txt,,True
+157855,"Salesforce, Inc.",2019,2,2018-08-29,1551739,Marc Benioff,Marc Benioff,100.0,2,11,3386,157855_2019_Q2_1551739.txt,,True
+157855,"Salesforce, Inc.",2019,3,2018-11-27,1619788,Marc Benioff,Marc Benioff,100.0,1,12,4343,157855_2019_Q3_1619788.txt,,True
+157855,"Salesforce, Inc.",2019,4,2019-03-04,1679679,Marc Benioff,Marc Benioff,100.0,1,7,3265,157855_2019_Q4_1679679.txt,,True
+157855,"Salesforce, Inc.",2020,1,2019-06-04,1756660,Keith Block,Keith Block,100.0,7,11,3033,157855_2020_Q1_1756660.txt,,True
+157855,"Salesforce, Inc.",2020,2,2019-08-22,1819080,Keith Block,Keith Block,100.0,1,5,2266,157855_2020_Q2_1819080.txt,,True
+157855,"Salesforce, Inc.",2020,3,2019-12-03,1882100,Keith Block,Keith Block,100.0,1,2,1722,157855_2020_Q3_1882100.txt,,True
+157855,"Salesforce, Inc.",2020,4,2020-02-25,1931930,Keith Block,Keith Block,100.0,1,4,1511,157855_2020_Q4_1931930.txt,,True
+157855,"Salesforce, Inc.",2021,1,2020-05-28,2033232,Marc Benioff,Marc Benioff,100.0,1,11,5455,157855_2021_Q1_2033232.txt,,True
+157855,"Salesforce, Inc.",2021,2,2020-08-25,2105896,Marc Benioff,Marc Benioff,100.0,1,10,4191,157855_2021_Q2_2105896.txt,,True
+157855,"Salesforce, Inc.",2021,3,2020-12-01,2156466,Marc Benioff,Marc Benioff,100.0,1,7,5265,157855_2021_Q3_2156466.txt,,True
+157855,"Salesforce, Inc.",2021,4,2021-02-25,2224539,Marc Benioff,Marc Benioff,100.0,1,7,3818,157855_2021_Q4_2224539.txt,,True
+157855,"Salesforce, Inc.",2022,2,2021-08-25,2390205,Bret Taylor,Bret Taylor,100.0,1,3,1719,157855_2022_Q2_2390205.txt,,True
+157855,"Salesforce, Inc.",2022,3,2021-11-30,2466892,Bret Taylor,Bret Taylor,100.0,18,4,2415,157855_2022_Q3_2466892.txt,,True
+157855,"Salesforce, Inc.",2022,4,2022-03-01,2513627,Bret Taylor,Bret Taylor,100.0,4,12,1805,157855_2022_Q4_2513627.txt,,True
+001891,"Automatic Data Processing, Inc.",2018,2,2018-01-31,1377092,Carlos Rodriguez,Carlos Rodriguez,100.0,1,20,6829,001891_2018_Q2_1377092.txt,,True
+001891,"Automatic Data Processing, Inc.",2018,3,2018-05-02,1448204,Carlos Rodriguez,Carlos Rodriguez,100.0,1,19,5185,001891_2018_Q3_1448204.txt,,True
+001891,"Automatic Data Processing, Inc.",2018,4,2018-08-01,1526174,Carlos Rodriguez,Carlos Rodriguez,100.0,1,27,6571,001891_2018_Q4_1526174.txt,,True
+001891,"Automatic Data Processing, Inc.",2019,1,2018-10-31,1595067,Carlos Rodriguez,Carlos Rodriguez,100.0,1,22,5556,001891_2019_Q1_1595067.txt,,True
+001891,"Automatic Data Processing, Inc.",2019,2,2019-01-30,1644778,Carlos Rodriguez,Carlos Rodriguez,100.0,1,23,6251,001891_2019_Q2_1644778.txt,,True
+001891,"Automatic Data Processing, Inc.",2019,3,2019-05-01,1719882,Carlos Rodriguez,Carlos Rodriguez,100.0,1,23,6517,001891_2019_Q3_1719882.txt,,True
+001891,"Automatic Data Processing, Inc.",2019,4,2019-07-31,1790842,Carlos Rodriguez,Carlos Rodriguez,100.0,1,29,7951,001891_2019_Q4_1790842.txt,,True
+001891,"Automatic Data Processing, Inc.",2020,1,2019-10-30,1849551,Carlos Rodriguez,Carlos Rodriguez,100.0,1,22,6469,001891_2020_Q1_1849551.txt,,True
+001891,"Automatic Data Processing, Inc.",2020,2,2020-01-29,1898034,Carlos Rodriguez,Carlos Rodriguez,100.0,1,30,7216,001891_2020_Q2_1898034.txt,,True
+001891,"Automatic Data Processing, Inc.",2020,3,2020-04-29,2018317,Carlos Rodriguez,Carlos Rodriguez,100.0,2,18,7962,001891_2020_Q3_2018317.txt,,True
+001891,"Automatic Data Processing, Inc.",2020,4,2020-07-29,2085748,Carlos Rodriguez,Carlos Rodriguez,100.0,1,21,8152,001891_2020_Q4_2085748.txt,,True
+001891,"Automatic Data Processing, Inc.",2021,1,2020-10-28,2153304,Carlos Rodriguez,Carlos Rodriguez,100.0,1,28,6556,001891_2021_Q1_2153304.txt,,True
+001891,"Automatic Data Processing, Inc.",2021,2,2021-01-27,2182155,Carlos Rodriguez,Carlos Rodriguez,100.0,1,14,7964,001891_2021_Q2_2182155.txt,,True
+001891,"Automatic Data Processing, Inc.",2021,3,2021-04-28,2260871,Carlos Rodriguez,Carlos Rodriguez,100.0,1,21,7458,001891_2021_Q3_2260871.txt,,True
+001891,"Automatic Data Processing, Inc.",2021,4,2021-07-28,2352716,Carlos Rodriguez,Carlos Rodriguez,100.0,1,29,7838,001891_2021_Q4_2352716.txt,,True
+001891,"Automatic Data Processing, Inc.",2022,1,2021-10-27,2414509,Carlos Rodriguez,Carlos Rodriguez,100.0,1,14,7364,001891_2022_Q1_2414509.txt,,True
+001891,"Automatic Data Processing, Inc.",2022,2,2022-01-26,2477733,Carlos Rodriguez,Carlos Rodriguez,100.0,1,25,6495,001891_2022_Q2_2477733.txt,,True
+001891,"Automatic Data Processing, Inc.",2022,3,2022-04-27,2544941,Carlos Rodriguez,Carlos Rodriguez,100.0,1,19,5144,001891_2022_Q3_2544941.txt,,True
+001891,"Automatic Data Processing, Inc.",2022,4,2022-07-27,2605392,Carlos Rodriguez,Carlos Rodriguez,100.0,1,15,4146,001891_2022_Q4_2605392.txt,,True
+012635,"Fiserv, Inc.",2020,1,2020-05-07,2016855,Frank Bisignano,Frank Bisignano,100.0,1,7,2374,012635_2020_Q1_2016855.txt,,True
+012635,"Fiserv, Inc.",2020,2,2020-08-05,2102681,Frank Bisignano,Frank Bisignano,100.0,2,15,3948,012635_2020_Q2_2102681.txt,,True
+012635,"Fiserv, Inc.",2020,3,2020-10-27,2150198,Frank Bisignano,Frank Bisignano,100.0,2,16,3899,012635_2020_Q3_2150198.txt,,True
+012635,"Fiserv, Inc.",2020,4,2021-02-09,2201192,Frank Bisignano,Frank Bisignano,100.0,2,7,3637,012635_2020_Q4_2201192.txt,,True
+012635,"Fiserv, Inc.",2021,1,2021-04-27,2259130,Frank Bisignano,Frank Bisignano,100.0,2,11,3690,012635_2021_Q1_2259130.txt,,True
+012635,"Fiserv, Inc.",2021,2,2021-07-27,2351728,Frank Bisignano,Frank Bisignano,100.0,2,12,4137,012635_2021_Q2_2351728.txt,,True
+012635,"Fiserv, Inc.",2021,3,2021-10-27,2414121,Frank Bisignano,Frank Bisignano,100.0,2,6,3561,012635_2021_Q3_2414121.txt,,True
+012635,"Fiserv, Inc.",2021,4,2022-02-08,2487552,Frank Bisignano,Frank Bisignano,100.0,2,9,3353,012635_2021_Q4_2487552.txt,,True
+012635,"Fiserv, Inc.",2022,1,2022-04-27,2544784,Frank Bisignano,Frank Bisignano,100.0,2,11,4094,012635_2022_Q1_2544784.txt,,True
+012635,"Fiserv, Inc.",2022,2,2022-07-26,2604277,Frank Bisignano,Frank Bisignano,100.0,2,8,3271,012635_2022_Q2_2604277.txt,,True
+012635,"Fiserv, Inc.",2022,3,2022-10-27,2665311,Frank Bisignano,Frank Bisignano,100.0,2,8,3719,012635_2022_Q3_2665311.txt,,True
+199356,"Tripadvisor, Inc.",2018,1,2018-05-09,1460805,Stephen Kaufer,Stephen Kaufer,100.0,1,15,3170,199356_2018_Q1_1460805.txt,,True
+199356,"Tripadvisor, Inc.",2018,2,2018-08-02,1532915,Stephen Kaufer,Stephen Kaufer,100.0,1,19,4292,199356_2018_Q2_1532915.txt,,True
+199356,"Tripadvisor, Inc.",2018,3,2018-11-08,1613877,Stephen Kaufer,Stephen Kaufer,100.0,1,9,2300,199356_2018_Q3_1613877.txt,,True
+199356,"Tripadvisor, Inc.",2018,4,2019-02-13,1657916,Stephen Kaufer,Stephen Kaufer,100.0,1,9,2637,199356_2018_Q4_1657916.txt,,True
+199356,"Tripadvisor, Inc.",2019,1,2019-05-08,1738896,Stephen Kaufer,Stephen Kaufer,100.0,1,11,3099,199356_2019_Q1_1738896.txt,,True
+199356,"Tripadvisor, Inc.",2019,2,2019-08-08,1803258,Stephen Kaufer,Stephen Kaufer,100.0,1,14,2871,199356_2019_Q2_1803258.txt,,True
+199356,"Tripadvisor, Inc.",2019,3,2019-11-07,1860848,Stephen Kaufer,Stephen Kaufer,100.0,1,14,3123,199356_2019_Q3_1860848.txt,,True
+199356,"Tripadvisor, Inc.",2019,4,2020-02-13,1911612,Stephen Kaufer,Stephen Kaufer,100.0,1,16,2881,199356_2019_Q4_1911612.txt,,True
+199356,"Tripadvisor, Inc.",2020,1,2020-05-08,1990447,Stephen Kaufer,Stephen Kaufer,100.0,1,15,3933,199356_2020_Q1_1990447.txt,,True
+199356,"Tripadvisor, Inc.",2020,2,2020-08-07,2159683,Stephen Kaufer,Stephen Kaufer,100.0,1,17,5365,199356_2020_Q2_2159683.txt,,True
+199356,"Tripadvisor, Inc.",2020,3,2020-11-06,2132713,Stephen Kaufer,Stephen Kaufer,100.0,1,11,4056,199356_2020_Q3_2132713.txt,,True
+199356,"Tripadvisor, Inc.",2020,4,2021-02-19,2257791,Stephen Kaufer,Stephen Kaufer,100.0,1,16,5851,199356_2020_Q4_2257791.txt,,True
+199356,"Tripadvisor, Inc.",2021,1,2021-05-07,2304993,Stephen Kaufer,Stephen Kaufer,100.0,1,15,5230,199356_2021_Q1_2304993.txt,,True
+199356,"Tripadvisor, Inc.",2021,2,2021-08-06,2367155,Stephen Kaufer,Stephen Kaufer,100.0,1,11,3271,199356_2021_Q2_2367155.txt,,True
+199356,"Tripadvisor, Inc.",2021,3,2021-11-09,2476029,Stephen Kaufer,Stephen Kaufer,100.0,1,16,4058,199356_2021_Q3_2476029.txt,,True
+199356,"Tripadvisor, Inc.",2021,4,2022-02-17,2497384,Stephen Kaufer,Stephen Kaufer,100.0,1,9,1696,199356_2021_Q4_2497384.txt,,True
+199356,"Tripadvisor, Inc.",2022,2,2022-08-05,2620194,Matthew Goldberg,Matthew Goldberg,100.0,1,12,3706,199356_2022_Q2_2620194.txt,,True
+199356,"Tripadvisor, Inc.",2022,3,2022-11-08,2678928,Matthew Goldberg,Matthew Goldberg,100.0,1,15,4650,199356_2022_Q3_2678928.txt,,True
+003226,Comcast Corporation,2018,1,2018-04-25,1437293,Brian Roberts,Brian Roberts,100.0,1,5,2335,003226_2018_Q1_1437293.txt,,True
+003226,Comcast Corporation,2018,2,2018-07-26,1509145,Brian Roberts,Brian Roberts,100.0,1,7,2379,003226_2018_Q2_1509145.txt,,True
+003226,Comcast Corporation,2018,3,2018-10-25,1579224,Brian Roberts,Brian Roberts,100.0,3,7,2845,003226_2018_Q3_1579224.txt,,True
+003226,Comcast Corporation,2018,4,2019-01-23,1641461,Brian Roberts,Brian Roberts,100.0,1,4,2613,003226_2018_Q4_1641461.txt,,True
+003226,Comcast Corporation,2019,1,2019-04-25,1708641,Brian Roberts,Brian Roberts,100.0,1,7,2042,003226_2019_Q1_1708641.txt,,True
+003226,Comcast Corporation,2019,2,2019-07-25,1781743,Brian Roberts,Brian Roberts,100.0,1,6,1563,003226_2019_Q2_1781743.txt,,True
+003226,Comcast Corporation,2019,3,2019-10-24,1839434,Brian Roberts,Brian Roberts,100.0,1,5,1260,003226_2019_Q3_1839434.txt,,True
+003226,Comcast Corporation,2019,4,2020-01-23,1894634,Brian Roberts,Brian Roberts,100.0,1,3,1573,003226_2019_Q4_1894634.txt,,True
+003226,Comcast Corporation,2020,1,2020-04-30,2020090,Brian Roberts,Brian Roberts,100.0,1,9,3168,003226_2020_Q1_2020090.txt,,True
+003226,Comcast Corporation,2020,2,2020-07-30,2084703,Brian Roberts,Brian Roberts,100.0,1,4,1248,003226_2020_Q2_2084703.txt,,True
+003226,Comcast Corporation,2020,3,2020-10-29,2154267,Brian Roberts,Brian Roberts,100.0,1,8,3508,003226_2020_Q3_2154267.txt,,True
+003226,Comcast Corporation,2020,4,2021-01-28,2252285,Brian Roberts,Brian Roberts,100.0,1,11,3024,003226_2020_Q4_2252285.txt,,True
+003226,Comcast Corporation,2021,1,2021-04-29,2262844,Brian Roberts,Brian Roberts,100.0,1,4,1845,003226_2021_Q1_2262844.txt,,True
+003226,Comcast Corporation,2021,3,2021-10-28,2416199,Brian Roberts,Brian Roberts,100.0,1,5,2530,003226_2021_Q3_2416199.txt,,True
+003226,Comcast Corporation,2021,4,2022-01-27,2478728,Brian Roberts,Brian Roberts,100.0,1,6,2465,003226_2021_Q4_2478728.txt,,True
+003226,Comcast Corporation,2022,1,2022-04-28,2546784,Brian Roberts,Brian Roberts,100.0,1,5,2823,003226_2022_Q1_2546784.txt,,True
+003226,Comcast Corporation,2022,2,2022-07-28,2607054,Brian Roberts,Brian Roberts,100.0,1,3,2115,003226_2022_Q2_2607054.txt,,True
+003226,Comcast Corporation,2022,3,2022-10-27,2665363,Brian Roberts,Brian Roberts,100.0,1,5,2543,003226_2022_Q3_2665363.txt,,True
+005047,General Electric Company,2018,1,2018-04-20,1433505,John Flannery,John Flannery,100.0,2,9,4358,005047_2018_Q1_1433505.txt,,True
+005047,General Electric Company,2018,2,2018-07-20,1504575,John Flannery,John Flannery,100.0,2,10,3371,005047_2018_Q2_1504575.txt,,True
+001209,"Air Products and Chemicals, Inc.",2018,1,2018-01-26,1375342,Seifollah Ghasemi,Seifollah Ghasemi,100.0,2,35,3969,001209_2018_Q1_1375342.txt,,True
+001209,"Air Products and Chemicals, Inc.",2018,2,2018-04-26,1443923,Seifollah Ghasemi,Seifollah Ghasemi,100.0,2,38,3940,001209_2018_Q2_1443923.txt,,True
+001209,"Air Products and Chemicals, Inc.",2018,3,2018-07-26,1515711,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,30,4639,001209_2018_Q3_1515711.txt,,True
+001209,"Air Products and Chemicals, Inc.",2018,4,2018-11-06,1614608,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,31,5384,001209_2018_Q4_1614608.txt,,True
+001209,"Air Products and Chemicals, Inc.",2019,1,2019-01-25,1641437,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,36,5993,001209_2019_Q1_1641437.txt,,True
+001209,"Air Products and Chemicals, Inc.",2019,2,2019-04-24,1778815,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,43,4519,001209_2019_Q2_1778815.txt,,True
+001209,"Air Products and Chemicals, Inc.",2019,3,2019-07-25,1782048,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,24,3394,001209_2019_Q3_1782048.txt,,True
+001209,"Air Products and Chemicals, Inc.",2019,4,2019-11-07,1864277,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,33,5786,001209_2019_Q4_1864277.txt,,True
+001209,"Air Products and Chemicals, Inc.",2020,1,2020-01-24,2005217,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,30,4316,001209_2020_Q1_2005217.txt,,True
+001209,"Air Products and Chemicals, Inc.",2020,2,2020-04-23,2014638,Seifollah Ghasemi,Seifollah Ghasemi,100.0,2,36,5770,001209_2020_Q2_2014638.txt,,True
+001209,"Air Products and Chemicals, Inc.",2020,3,2020-07-23,2077102,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,34,6023,001209_2020_Q3_2077102.txt,,True
+001209,"Air Products and Chemicals, Inc.",2020,4,2020-11-11,2138836,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,28,7436,001209_2020_Q4_2138836.txt,,True
+001209,"Air Products and Chemicals, Inc.",2021,1,2021-02-04,2192402,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,26,5960,001209_2021_Q1_2192402.txt,,True
+001209,"Air Products and Chemicals, Inc.",2021,2,2021-05-10,2278502,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,35,5662,001209_2021_Q2_2278502.txt,,True
+001209,"Air Products and Chemicals, Inc.",2021,3,2021-08-09,2369788,Seifollah Ghasemi,Seifollah Ghasemi,100.0,5,20,5415,001209_2021_Q3_2369788.txt,,True
+001209,"Air Products and Chemicals, Inc.",2021,4,2021-11-04,2425664,Seifollah Ghasemi,Seifollah Ghasemi,100.0,4,23,5476,001209_2021_Q4_2425664.txt,,True
+001209,"Air Products and Chemicals, Inc.",2022,1,2022-02-04,2485562,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,28,5280,001209_2022_Q1_2485562.txt,,True
+001209,"Air Products and Chemicals, Inc.",2022,2,2022-05-05,2555317,Seifollah Ghasemi,Seifollah Ghasemi,100.0,3,25,5082,001209_2022_Q2_2555317.txt,,True
+001209,"Air Products and Chemicals, Inc.",2022,3,2022-08-04,2615895,Seifollah Ghasemi,Seifollah Ghasemi,100.0,4,20,4260,001209_2022_Q3_2615895.txt,,True
+001209,"Air Products and Chemicals, Inc.",2022,4,2022-11-03,2713308,Seifollah Ghasemi,Seifollah Ghasemi,100.0,4,29,4448,001209_2022_Q4_2713308.txt,,True
+002086,Baxter International Inc.,2018,1,2018-04-26,1441765,Jose Almeida,José Almeida,91.66666666666669,1,10,2485,002086_2018_Q1_1441765.txt,,True
+002086,Baxter International Inc.,2018,2,2018-07-26,1513245,Jose Almeida,José Almeida,91.66666666666669,1,13,4487,002086_2018_Q2_1513245.txt,,True
+002086,Baxter International Inc.,2018,3,2018-10-31,1603042,Jose Almeida,José Almeida,91.66666666666669,1,10,3687,002086_2018_Q3_1603042.txt,,True
+002086,Baxter International Inc.,2018,4,2019-01-31,1668266,Jose Almeida,José Almeida,91.66666666666669,1,11,3804,002086_2018_Q4_1668266.txt,,True
+002086,Baxter International Inc.,2019,1,2019-04-25,1708582,Jose Almeida,José Almeida,91.66666666666669,1,7,3621,002086_2019_Q1_1708582.txt,,True
+002086,Baxter International Inc.,2019,2,2019-07-25,1784497,Jose Almeida,José Almeida,91.66666666666669,1,10,3750,002086_2019_Q2_1784497.txt,,True
+002086,Baxter International Inc.,2019,3,2019-10-24,1839410,Jose Almeida,José Almeida,91.66666666666669,2,18,3959,002086_2019_Q3_1839410.txt,,True
+002086,Baxter International Inc.,2019,4,2020-03-17,1950977,Jose Almeida,José Almeida,91.66666666666669,1,13,3826,002086_2019_Q4_1950977.txt,,True
+002086,Baxter International Inc.,2020,1,2020-04-30,2019975,Jose Almeida,José Almeida,91.66666666666669,1,11,3274,002086_2020_Q1_2019975.txt,,True
+002086,Baxter International Inc.,2020,2,2020-07-30,2090636,Jose Almeida,José Almeida,91.66666666666669,1,15,3752,002086_2020_Q2_2090636.txt,,True
+002086,Baxter International Inc.,2020,3,2020-10-29,2163161,Jose Almeida,José Almeida,91.66666666666669,1,14,3916,002086_2020_Q3_2163161.txt,,True
+002086,Baxter International Inc.,2020,4,2021-02-04,2192051,Jose Almeida,José Almeida,91.66666666666669,1,11,3642,002086_2020_Q4_2192051.txt,,True
+002086,Baxter International Inc.,2021,1,2021-04-29,2262482,Jose Almeida,José Almeida,91.66666666666669,1,10,2880,002086_2021_Q1_2262482.txt,,True
+002086,Baxter International Inc.,2021,2,2021-07-29,2369667,Jose Almeida,José Almeida,91.66666666666669,1,12,3524,002086_2021_Q2_2369667.txt,,True
+002086,Baxter International Inc.,2021,3,2021-10-28,2476658,Jose Almeida,José Almeida,91.66666666666669,1,9,2675,002086_2021_Q3_2476658.txt,,True
+002086,Baxter International Inc.,2021,4,2022-02-17,2497496,Jose Almeida,José Almeida,91.66666666666669,1,5,2822,002086_2021_Q4_2497496.txt,,True
+002086,Baxter International Inc.,2022,1,2022-04-28,2546393,Jose Almeida,José Almeida,91.66666666666669,1,8,2322,002086_2022_Q1_2546393.txt,,True
+002086,Baxter International Inc.,2022,2,2022-07-28,2607101,Jose Almeida,José Almeida,91.66666666666669,1,9,3014,002086_2022_Q2_2607101.txt,,True
+002086,Baxter International Inc.,2022,3,2022-10-27,2665762,Jose Almeida,José Almeida,91.66666666666669,1,11,3562,002086_2022_Q3_2665762.txt,,True
+020548,Coterra Energy Inc.,2018,1,2018-04-27,1441377,Dan Dinges,Dan Dinges,100.0,1,19,3219,020548_2018_Q1_1441377.txt,,True
+020548,Coterra Energy Inc.,2018,2,2018-07-27,1512860,Dan Dinges,Dan Dinges,100.0,1,41,4656,020548_2018_Q2_1512860.txt,,True
+020548,Coterra Energy Inc.,2018,3,2018-10-26,1581874,Dan Dinges,Dan Dinges,100.0,1,14,5778,020548_2018_Q3_1581874.txt,,True
+020548,Coterra Energy Inc.,2018,4,2019-02-22,1667610,Dan Dinges,Dan Dinges,100.0,1,18,4116,020548_2018_Q4_1667610.txt,,True
+020548,Coterra Energy Inc.,2019,1,2019-04-26,1711313,Dan Dinges,Dan Dinges,100.0,1,23,4099,020548_2019_Q1_1711313.txt,,True
+020548,Coterra Energy Inc.,2019,2,2019-07-26,1786869,Dan Dinges,Dan Dinges,100.0,1,21,3990,020548_2019_Q2_1786869.txt,,True
+020548,Coterra Energy Inc.,2019,3,2019-10-25,1842493,Dan Dinges,Dan Dinges,100.0,1,15,3263,020548_2019_Q3_1842493.txt,,True
+020548,Coterra Energy Inc.,2019,4,2020-02-21,1926416,Dan Dinges,Dan Dinges,100.0,1,19,4935,020548_2019_Q4_1926416.txt,,True
+020548,Coterra Energy Inc.,2020,1,2020-05-01,1995220,Dan Dinges,Dan Dinges,100.0,1,11,2921,020548_2020_Q1_1995220.txt,,True
+020548,Coterra Energy Inc.,2020,2,2020-07-31,2083676,Dan Dinges,Dan Dinges,100.0,1,21,3706,020548_2020_Q2_2083676.txt,,True
+020548,Coterra Energy Inc.,2020,3,2020-10-30,2168435,Dan Dinges,Dan Dinges,100.0,2,16,4274,020548_2020_Q3_2168435.txt,,True
+020548,Coterra Energy Inc.,2020,4,2021-02-24,2222359,Dan Dinges,Dan Dinges,100.0,1,17,3974,020548_2020_Q4_2222359.txt,,True
+020548,Coterra Energy Inc.,2021,1,2021-04-30,2265216,Dan Dinges,Dan Dinges,100.0,1,15,4154,020548_2021_Q1_2265216.txt,,True
+020548,Coterra Energy Inc.,2021,2,2021-07-30,2357668,Dan Dinges,Dan Dinges,100.0,1,16,3311,020548_2021_Q2_2357668.txt,,True
+020548,Coterra Energy Inc.,2022,1,2022-05-03,2551107,Thomas Jorden,Thomas Jorden,100.0,1,21,3709,020548_2022_Q1_2551107.txt,,True
+020548,Coterra Energy Inc.,2022,2,2022-08-03,2614028,Thomas Jorden,Thomas Jorden,100.0,1,14,2635,020548_2022_Q2_2614028.txt,,True
+020548,Coterra Energy Inc.,2022,3,2022-11-04,2676094,Thomas Jorden,Thomas Jorden,100.0,1,21,4588,020548_2022_Q3_2676094.txt,,True
+002663,The Campbell's Company,2019,2,2019-02-27,1677020,Mark Clouse,Mark Clouse,100.0,2,11,4753,002663_2019_Q2_1677020.txt,,True
+002663,The Campbell's Company,2019,3,2019-06-05,1757788,Mark Clouse,Mark Clouse,100.0,2,12,4297,002663_2019_Q3_1757788.txt,,True
+002663,The Campbell's Company,2019,4,2019-08-30,1825280,Mark Clouse,Mark Clouse,100.0,1,10,5541,002663_2019_Q4_1825280.txt,,True
+002663,The Campbell's Company,2020,1,2019-12-04,1933575,Mark Clouse,Mark Clouse,100.0,2,12,5832,002663_2020_Q1_1933575.txt,,True
+002663,The Campbell's Company,2020,2,2020-03-04,1936085,Mark Clouse,Mark Clouse,100.0,2,10,5496,002663_2020_Q2_1936085.txt,,True
+002663,The Campbell's Company,2020,3,2020-06-03,2031940,Mark Clouse,Mark Clouse,100.0,2,0,3594,002663_2020_Q3_2031940.txt,,True
+002663,The Campbell's Company,2020,4,2020-09-03,2107739,Mark Clouse,Mark Clouse,100.0,2,0,3922,002663_2020_Q4_2107739.txt,,True
+002663,The Campbell's Company,2021,1,2020-12-09,2161053,Mark Clouse,Mark Clouse,100.0,1,17,6306,002663_2021_Q1_2161053.txt,,True
+002663,The Campbell's Company,2021,2,2021-03-10,2233987,Mark Clouse,Mark Clouse,100.0,2,7,5509,002663_2021_Q2_2233987.txt,,True
+002663,The Campbell's Company,2021,3,2021-06-09,2314438,Mark Clouse,Mark Clouse,100.0,2,17,5596,002663_2021_Q3_2314438.txt,,True
+002663,The Campbell's Company,2021,4,2021-09-01,2390364,Mark Clouse,Mark Clouse,100.0,2,13,5320,002663_2021_Q4_2390364.txt,,True
+002663,The Campbell's Company,2022,1,2021-12-08,2457029,Mark Clouse,Mark Clouse,100.0,1,12,5526,002663_2022_Q1_2457029.txt,,True
+002663,The Campbell's Company,2022,2,2022-03-09,2520666,Mark Clouse,Mark Clouse,100.0,2,10,5648,002663_2022_Q2_2520666.txt,,True
+002663,The Campbell's Company,2022,3,2022-06-08,2586178,Mark Clouse,Mark Clouse,100.0,1,7,5193,002663_2022_Q3_2586178.txt,,True
+002663,The Campbell's Company,2022,4,2022-09-01,2640703,Mark Clouse,Mark Clouse,100.0,1,11,5657,002663_2022_Q4_2640703.txt,,True
+013498,Carnival Corporation Ltd.,2018,1,2018-03-22,2059775,Arnold Donald,Arnold Donald,100.0,2,31,4939,013498_2018_Q1_2059775.txt,,True
+013498,Carnival Corporation Ltd.,2018,2,2018-06-25,1503859,Arnold Donald,Arnold Donald,100.0,2,19,4101,013498_2018_Q2_1503859.txt,,True
+013498,Carnival Corporation Ltd.,2018,3,2018-09-27,2059767,Arnold Donald,Arnold Donald,100.0,2,17,3968,013498_2018_Q3_2059767.txt,,True
+013498,Carnival Corporation Ltd.,2018,4,2018-12-20,2059754,Arnold Donald,Arnold Donald,100.0,2,25,4767,013498_2018_Q4_2059754.txt,,True
+013498,Carnival Corporation Ltd.,2019,1,2019-03-26,1693850,Arnold Donald,Arnold Donald,100.0,2,21,4479,013498_2019_Q1_1693850.txt,,True
+013498,Carnival Corporation Ltd.,2019,2,2019-06-20,2059736,Arnold Donald,Arnold Donald,100.0,2,42,4733,013498_2019_Q2_2059736.txt,,True
+013498,Carnival Corporation Ltd.,2019,3,2019-09-26,1829645,Arnold Donald,Arnold Donald,100.0,2,26,5122,013498_2019_Q3_1829645.txt,,True
+013498,Carnival Corporation Ltd.,2019,4,2019-12-20,2059733,Arnold Donald,Arnold Donald,100.0,2,27,4298,013498_2019_Q4_2059733.txt,,True
+013498,Carnival Corporation Ltd.,2020,2,2020-07-10,2062178,Arnold Donald,Arnold Donald,100.0,2,24,5097,013498_2020_Q2_2062178.txt,,True
+013498,Carnival Corporation Ltd.,2020,4,2021-01-11,3414098,Arnold Donald,Arnold Donald,100.0,2,22,3602,013498_2020_Q4_3414098.txt,,True
+013498,Carnival Corporation Ltd.,2021,1,2021-04-07,2248061,Arnold Donald,Arnold Donald,100.0,2,14,5081,013498_2021_Q1_2248061.txt,,True
+013498,Carnival Corporation Ltd.,2021,2,2021-06-24,2329070,Arnold Donald,Arnold Donald,100.0,2,16,3916,013498_2021_Q2_2329070.txt,,True
+013498,Carnival Corporation Ltd.,2021,3,2021-09-24,2406497,Arnold Donald,Arnold Donald,100.0,2,14,3221,013498_2021_Q3_2406497.txt,,True
+013498,Carnival Corporation Ltd.,2021,4,2021-12-20,2463050,Arnold Donald,Arnold Donald,100.0,2,16,4305,013498_2021_Q4_2463050.txt,,True
+013498,Carnival Corporation Ltd.,2022,1,2022-03-22,2528817,Arnold Donald,Arnold Donald,100.0,2,14,3587,013498_2022_Q1_2528817.txt,,True
+013498,Carnival Corporation Ltd.,2022,2,2022-06-24,2592699,Arnold Donald,Arnold Donald,100.0,3,10,2989,013498_2022_Q2_2592699.txt,,True
+002884,"Lumen Technologies, Inc.",2018,1,2018-05-09,1462344,Jeffrey Storey,Jeffrey Storey,100.0,1,9,2680,002884_2018_Q1_1462344.txt,,True
+002884,"Lumen Technologies, Inc.",2018,2,2018-08-08,1572323,Jeffrey Storey,Jeffrey Storey,100.0,2,13,3808,002884_2018_Q2_1572323.txt,,True
+002884,"Lumen Technologies, Inc.",2018,3,2018-11-08,1612479,Jeffrey Storey,Jeffrey Storey,100.0,2,12,4023,002884_2018_Q3_1612479.txt,,True
+002884,"Lumen Technologies, Inc.",2018,4,2019-02-13,1667004,Jeffrey Storey,Jeffrey Storey,100.0,1,12,4990,002884_2018_Q4_1667004.txt,,True
+002884,"Lumen Technologies, Inc.",2019,1,2019-05-08,1738377,Jeffrey Storey,Jeffrey Storey,100.0,2,14,4491,002884_2019_Q1_1738377.txt,,True
+002884,"Lumen Technologies, Inc.",2019,2,2019-08-07,1800767,Jeffrey Storey,Jeffrey Storey,100.0,2,14,4988,002884_2019_Q2_1800767.txt,,True
+002884,"Lumen Technologies, Inc.",2019,3,2019-11-06,1871649,Jeffrey Storey,Jeffrey Storey,100.0,2,14,3084,002884_2019_Q3_1871649.txt,,True
+002884,"Lumen Technologies, Inc.",2019,4,2020-02-12,1914527,Jeffrey Storey,Jeffrey Storey,100.0,2,16,5539,002884_2019_Q4_1914527.txt,,True
+002884,"Lumen Technologies, Inc.",2020,1,2020-05-06,2016747,Jeffrey Storey,Jeffrey Storey,100.0,1,9,3649,002884_2020_Q1_2016747.txt,,True
+002884,"Lumen Technologies, Inc.",2020,2,2020-08-05,2117323,Jeffrey Storey,Jeffrey Storey,100.0,1,10,4076,002884_2020_Q2_2117323.txt,,True
+002884,"Lumen Technologies, Inc.",2020,3,2020-11-04,2129398,Jeffrey Storey,Jeffrey Storey,100.0,1,10,3942,002884_2020_Q3_2129398.txt,,True
+002884,"Lumen Technologies, Inc.",2020,4,2021-02-10,2203704,Jeffrey Storey,Jeffrey Storey,100.0,1,11,4973,002884_2020_Q4_2203704.txt,,True
+002884,"Lumen Technologies, Inc.",2021,1,2021-05-05,2271415,Jeffrey Storey,Jeffrey Storey,100.0,1,14,4394,002884_2021_Q1_2271415.txt,,True
+002884,"Lumen Technologies, Inc.",2021,2,2021-08-03,2361826,Jeffrey Storey,Jeffrey Storey,100.0,1,9,3397,002884_2021_Q2_2361826.txt,,True
+002884,"Lumen Technologies, Inc.",2021,3,2021-11-03,2428867,Jeffrey Storey,Jeffrey Storey,100.0,1,13,4346,002884_2021_Q3_2428867.txt,,True
+002884,"Lumen Technologies, Inc.",2021,4,2022-02-09,2489599,Jeffrey Storey,Jeffrey Storey,100.0,1,15,4191,002884_2021_Q4_2489599.txt,,True
+002884,"Lumen Technologies, Inc.",2022,1,2022-05-04,2553434,Jeffrey Storey,Jeffrey Storey,100.0,1,15,4417,002884_2022_Q1_2553434.txt,,True
+002884,"Lumen Technologies, Inc.",2022,2,2022-08-03,2614575,Jeffrey Storey,Jeffrey Storey,100.0,1,11,3869,002884_2022_Q2_2614575.txt,,True
+002884,"Lumen Technologies, Inc.",2022,3,2022-11-02,2672642,Jeffrey Storey,Jeffrey Storey,100.0,1,13,3765,002884_2022_Q3_2672642.txt,,True
+003062,Cintas Corporation,2021,1,2020-09-23,2136359,Todd Schneider,Todd Schneider,100.0,1,11,2529,003062_2021_Q1_2136359.txt,,True
+003062,Cintas Corporation,2021,2,2020-12-22,2164645,Todd Schneider,Todd Schneider,100.0,1,9,2350,003062_2021_Q2_2164645.txt,,True
+003062,Cintas Corporation,2021,3,2021-03-17,2238878,Todd Schneider,Todd Schneider,100.0,1,7,1418,003062_2021_Q3_2238878.txt,,True
+003062,Cintas Corporation,2021,4,2021-07-15,2346143,Todd Schneider,Todd Schneider,100.0,1,18,4092,003062_2021_Q4_2346143.txt,,True
+003062,Cintas Corporation,2022,1,2021-09-29,2402791,Todd Schneider,Todd Schneider,100.0,1,15,3728,003062_2022_Q1_2402791.txt,,True
+003062,Cintas Corporation,2022,2,2021-12-22,2463738,Todd Schneider,Todd Schneider,100.0,1,15,3429,003062_2022_Q2_2463738.txt,,True
+003062,Cintas Corporation,2022,3,2022-03-23,2529647,Todd Schneider,Todd Schneider,100.0,1,16,4047,003062_2022_Q3_2529647.txt,,True
+003062,Cintas Corporation,2022,4,2022-07-14,2599445,Todd Schneider,Todd Schneider,100.0,1,13,3637,003062_2022_Q4_2599445.txt,,True
+003650,Cummins Inc.,2018,1,2018-05-01,1446523,Norman Linebarger,N. Linebarger,86.95652173913044,1,13,4594,003650_2018_Q1_1446523.txt,,True
+003650,Cummins Inc.,2018,2,2018-07-31,1523441,Norman Linebarger,N. Linebarger,86.95652173913044,1,14,5502,003650_2018_Q2_1523441.txt,,True
+003650,Cummins Inc.,2018,3,2018-10-30,1594437,Norman Linebarger,N. Linebarger,86.95652173913044,1,13,5574,003650_2018_Q3_1594437.txt,,True
+003650,Cummins Inc.,2018,4,2019-02-06,1662751,Norman Linebarger,N. Linebarger,86.95652173913044,1,16,4766,003650_2018_Q4_1662751.txt,,True
+003650,Cummins Inc.,2019,1,2019-04-30,1718708,Norman Linebarger,N. Linebarger,86.95652173913044,2,14,5415,003650_2019_Q1_1718708.txt,,True
+003650,Cummins Inc.,2019,2,2019-07-30,1788809,Norman Linebarger,N. Linebarger,86.95652173913044,2,9,5854,003650_2019_Q2_1788809.txt,,True
+003650,Cummins Inc.,2019,3,2019-10-29,3022045,Norman Linebarger,N. Linebarger,86.95652173913044,2,14,6500,003650_2019_Q3_3022045.txt,,True
+003650,Cummins Inc.,2019,4,2020-02-04,1902035,Norman Linebarger,N. Linebarger,86.95652173913044,1,8,5575,003650_2019_Q4_1902035.txt,,True
+003650,Cummins Inc.,2020,1,2020-04-28,2017294,Norman Linebarger,N. Linebarger,86.95652173913044,1,11,4896,003650_2020_Q1_2017294.txt,,True
+003650,Cummins Inc.,2020,2,2020-07-28,3306283,Norman Linebarger,N. Linebarger,86.95652173913044,1,8,4698,003650_2020_Q2_3306283.txt,,True
+003650,Cummins Inc.,2020,3,2020-10-27,2153573,Norman Linebarger,N. Linebarger,86.95652173913044,1,11,3778,003650_2020_Q3_2153573.txt,,True
+003650,Cummins Inc.,2020,4,2021-02-04,2238540,Norman Linebarger,N. Linebarger,86.95652173913044,1,7,4567,003650_2020_Q4_2238540.txt,,True
+003650,Cummins Inc.,2021,1,2021-05-04,2294654,Norman Linebarger,N. Linebarger,86.95652173913044,1,9,4044,003650_2021_Q1_2294654.txt,,True
+003650,Cummins Inc.,2021,2,2021-08-03,2360921,Norman Linebarger,N. Linebarger,86.95652173913044,1,10,5391,003650_2021_Q2_2360921.txt,,True
+003650,Cummins Inc.,2021,3,2021-11-02,2421421,Norman Linebarger,N. Linebarger,86.95652173913044,1,11,4052,003650_2021_Q3_2421421.txt,,True
+003650,Cummins Inc.,2021,4,2022-02-03,2484478,Norman Linebarger,N. Linebarger,86.95652173913044,1,14,4216,003650_2021_Q4_2484478.txt,,True
+003650,Cummins Inc.,2022,2,2022-08-02,2612276,Jennifer Rumsey,Jennifer Rumsey,100.0,1,10,3860,003650_2022_Q2_2612276.txt,,True
+003650,Cummins Inc.,2022,3,2022-11-03,2673765,Jennifer Rumsey,Jennifer Rumsey,100.0,1,13,3568,003650_2022_Q3_2673765.txt,,True
+014934,Devon Energy Corporation,2018,1,2018-05-02,1452622,David Hager,David Hager,100.0,1,13,3053,014934_2018_Q1_1452622.txt,,True
+014934,Devon Energy Corporation,2018,2,2018-08-01,1531308,David Hager,David Hager,100.0,1,11,3261,014934_2018_Q2_1531308.txt,,True
+014934,Devon Energy Corporation,2018,3,2018-11-07,1613396,David Hager,David Hager,100.0,1,16,2530,014934_2018_Q3_1613396.txt,,True
+014934,Devon Energy Corporation,2018,4,2019-02-20,1664542,David Hager,David Hager,100.0,1,18,4449,014934_2018_Q4_1664542.txt,,True
+014934,Devon Energy Corporation,2019,1,2019-05-01,1722810,David Hager,David Hager,100.0,1,13,2746,014934_2019_Q1_1722810.txt,,True
+014934,Devon Energy Corporation,2019,2,2019-08-07,2090317,David Hager,David Hager,100.0,1,13,2964,014934_2019_Q2_2090317.txt,,True
+014934,Devon Energy Corporation,2019,3,2019-11-06,1861390,David Hager,David Hager,100.0,1,14,3175,014934_2019_Q3_1861390.txt,,True
+014934,Devon Energy Corporation,2019,4,2020-02-19,1922724,David Hager,David Hager,100.0,1,10,3205,014934_2019_Q4_1922724.txt,,True
+014934,Devon Energy Corporation,2020,1,2020-05-06,2003735,David Hager,David Hager,100.0,1,13,3760,014934_2020_Q1_2003735.txt,,True
+014934,Devon Energy Corporation,2020,2,2020-08-05,2083230,David Hager,David Hager,100.0,0,18,1968,014934_2020_Q2_2083230.txt,,True
+014934,Devon Energy Corporation,2020,3,2020-10-30,2168515,David Hager,David Hager,100.0,1,11,3775,014934_2020_Q3_2168515.txt,,True
+014934,Devon Energy Corporation,2021,1,2021-05-05,2296633,Richard Muncrief,Richard Muncrief,100.0,2,17,3109,014934_2021_Q1_2296633.txt,,True
+014934,Devon Energy Corporation,2021,2,2021-08-04,2362813,Richard Muncrief,Richard Muncrief,100.0,2,6,2383,014934_2021_Q2_2362813.txt,,True
+014934,Devon Energy Corporation,2021,3,2021-11-03,2423340,Richard Muncrief,Richard Muncrief,100.0,2,8,2706,014934_2021_Q3_2423340.txt,,True
+014934,Devon Energy Corporation,2021,4,2022-02-16,2496106,Richard Muncrief,Richard Muncrief,100.0,2,5,1897,014934_2021_Q4_2496106.txt,,True
+014934,Devon Energy Corporation,2022,1,2022-05-03,2596047,Richard Muncrief,Richard Muncrief,100.0,2,6,2604,014934_2022_Q1_2596047.txt,,True
+014934,Devon Energy Corporation,2022,2,2022-08-02,2612233,Richard Muncrief,Richard Muncrief,100.0,2,7,3180,014934_2022_Q2_2612233.txt,,True
+014934,Devon Energy Corporation,2022,3,2022-11-02,2672347,Richard Muncrief,Richard Muncrief,100.0,2,4,2058,014934_2022_Q3_2672347.txt,,True
+004321,Emerson Electric Co.,2018,1,2018-02-06,1381692,David Farr,David Farr,100.0,1,38,9095,004321_2018_Q1_1381692.txt,,True
+004321,Emerson Electric Co.,2018,2,2018-05-01,1446697,David Farr,David Farr,100.0,1,35,8487,004321_2018_Q2_1446697.txt,,True
+004321,Emerson Electric Co.,2018,3,2018-08-07,1538076,David Farr,David Farr,100.0,1,53,7004,004321_2018_Q3_1538076.txt,,True
+004321,Emerson Electric Co.,2018,4,2018-11-06,1613059,David Farr,David Farr,100.0,1,40,7446,004321_2018_Q4_1613059.txt,,True
+004321,Emerson Electric Co.,2019,1,2019-02-05,1647693,David Farr,David Farr,100.0,2,38,8726,004321_2019_Q1_1647693.txt,,True
+004321,Emerson Electric Co.,2019,2,2019-05-07,1732880,David Farr,David Farr,100.0,2,43,6549,004321_2019_Q2_1732880.txt,,True
+004321,Emerson Electric Co.,2019,3,2019-08-06,1803030,David Farr,David Farr,100.0,2,44,9592,004321_2019_Q3_1803030.txt,,True
+004321,Emerson Electric Co.,2019,4,2019-11-05,1861146,David Farr,David Farr,100.0,1,50,8168,004321_2019_Q4_1861146.txt,,True
+004321,Emerson Electric Co.,2020,1,2020-02-04,1904620,David Farr,David Farr,100.0,4,34,7297,004321_2020_Q1_1904620.txt,,True
+004321,Emerson Electric Co.,2020,2,2020-04-21,2013052,David Farr,David Farr,100.0,4,52,10722,004321_2020_Q2_2013052.txt,,True
+004321,Emerson Electric Co.,2020,3,2020-08-04,2086378,David Farr,David Farr,100.0,8,44,7711,004321_2020_Q3_2086378.txt,,True
+004321,Emerson Electric Co.,2020,4,2020-11-03,2127757,David Farr,David Farr,100.0,4,34,6982,004321_2020_Q4_2127757.txt,,True
+004321,Emerson Electric Co.,2021,1,2021-02-02,2189084,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,3,24,1543,004321_2021_Q1_2189084.txt,,True
+004321,Emerson Electric Co.,2021,2,2021-05-05,2270654,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,2,20,3594,004321_2021_Q2_2270654.txt,,True
+004321,Emerson Electric Co.,2021,3,2021-08-04,2362541,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,2,25,4861,004321_2021_Q3_2362541.txt,,True
+004321,Emerson Electric Co.,2021,4,2021-11-03,2423138,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,2,16,3774,004321_2021_Q4_2423138.txt,,True
+004321,Emerson Electric Co.,2022,1,2022-02-02,2488190,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,2,15,3096,004321_2022_Q1_2488190.txt,,True
+004321,Emerson Electric Co.,2022,2,2022-05-04,2552669,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,1,14,2911,004321_2022_Q2_2552669.txt,,True
+004321,Emerson Electric Co.,2022,3,2022-08-09,2643040,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,1,10,2661,004321_2022_Q3_2643040.txt,,True
+004321,Emerson Electric Co.,2022,4,2022-10-31,2669371,Surendralal Karsanbhai,Surendralal Karsanbhai,100.0,4,12,2138,004321_2022_Q4_2669371.txt,,True
+005959,Trane Technologies plc,2018,1,2018-04-25,1437351,Michael Lamach,Michael Lamach,100.0,2,25,5807,005959_2018_Q1_1437351.txt,,True
+005959,Trane Technologies plc,2018,2,2018-07-25,1514961,Michael Lamach,Michael Lamach,100.0,2,40,4774,005959_2018_Q2_1514961.txt,,True
+005959,Trane Technologies plc,2018,3,2018-10-24,1577018,Michael Lamach,Michael Lamach,100.0,2,33,5834,005959_2018_Q3_1577018.txt,,True
+005959,Trane Technologies plc,2018,4,2019-01-30,1643714,Michael Lamach,Michael Lamach,100.0,2,27,5359,005959_2018_Q4_1643714.txt,,True
+005959,Trane Technologies plc,2019,1,2019-04-30,1950383,Michael Lamach,Michael Lamach,100.0,2,26,4332,005959_2019_Q1_1950383.txt,,True
+005959,Trane Technologies plc,2019,2,2019-07-30,1790265,Michael Lamach,Michael Lamach,100.0,2,24,4932,005959_2019_Q2_1790265.txt,,True
+005959,Trane Technologies plc,2019,3,2019-10-29,1846254,Michael Lamach,Michael Lamach,100.0,2,26,5225,005959_2019_Q3_1846254.txt,,True
+005959,Trane Technologies plc,2019,4,2020-01-29,3189707,Michael Lamach,Michael Lamach,100.0,2,16,5477,005959_2019_Q4_3189707.txt,,True
+005959,Trane Technologies plc,2020,1,2020-05-05,1998982,Michael Lamach,Michael Lamach,100.0,2,12,4115,005959_2020_Q1_1998982.txt,,True
+005959,Trane Technologies plc,2020,2,2020-07-29,2092244,Michael Lamach,Michael Lamach,100.0,2,17,4409,005959_2020_Q2_2092244.txt,,True
+005959,Trane Technologies plc,2020,3,2020-10-28,2482986,Michael Lamach,Michael Lamach,100.0,2,17,5597,005959_2020_Q3_2482986.txt,,True
+005959,Trane Technologies plc,2020,4,2021-02-05,2194812,Michael Lamach,Michael Lamach,100.0,2,21,4859,005959_2020_Q4_2194812.txt,,True
+005959,Trane Technologies plc,2021,1,2021-05-05,2304827,David Regnery,David Regnery,100.0,3,11,2984,005959_2021_Q1_2304827.txt,,True
+005959,Trane Technologies plc,2021,2,2021-08-04,2362623,David Regnery,David Regnery,100.0,4,18,5038,005959_2021_Q2_2362623.txt,,True
+005959,Trane Technologies plc,2021,3,2021-11-03,2423464,David Regnery,David Regnery,100.0,3,26,6188,005959_2021_Q3_2423464.txt,,True
+005959,Trane Technologies plc,2021,4,2022-01-31,2481803,David Regnery,David Regnery,100.0,3,28,5657,005959_2021_Q4_2481803.txt,,True
+005959,Trane Technologies plc,2022,1,2022-05-04,2552685,David Regnery,David Regnery,100.0,3,20,4611,005959_2022_Q1_2552685.txt,,True
+005959,Trane Technologies plc,2022,2,2022-08-03,2613910,David Regnery,David Regnery,100.0,3,22,4442,005959_2022_Q2_2613910.txt,,True
+005959,Trane Technologies plc,2022,3,2022-11-02,2672126,David Regnery,David Regnery,100.0,3,24,4531,005959_2022_Q3_2672126.txt,,True
+006216,Jacobs Solutions Inc.,2018,1,2018-02-07,1382431,Steven Demetriou,Steven Demetriou,100.0,2,12,5464,006216_2018_Q1_1382431.txt,,True
+006216,Jacobs Solutions Inc.,2018,2,2018-05-08,1453925,Steven Demetriou,Steven Demetriou,100.0,2,14,5193,006216_2018_Q2_1453925.txt,,True
+006216,Jacobs Solutions Inc.,2018,3,2018-08-06,1537679,Steven Demetriou,Steven Demetriou,100.0,2,16,4966,006216_2018_Q3_1537679.txt,,True
+006216,Jacobs Solutions Inc.,2018,4,2018-11-20,1612816,Steven Demetriou,Steven Demetriou,100.0,2,10,4697,006216_2018_Q4_1612816.txt,,True
+006216,Jacobs Solutions Inc.,2019,1,2019-02-06,1649252,Steven Demetriou,Steven Demetriou,100.0,2,11,3886,006216_2019_Q1_1649252.txt,,True
+006216,Jacobs Solutions Inc.,2019,2,2019-05-07,1732006,Steven Demetriou,Steven Demetriou,100.0,2,12,4504,006216_2019_Q2_1732006.txt,,True
+006216,Jacobs Solutions Inc.,2019,3,2019-08-05,1793355,Steven Demetriou,Steven Demetriou,100.0,2,11,5714,006216_2019_Q3_1793355.txt,,True
+006216,Jacobs Solutions Inc.,2019,4,2019-11-25,1876283,Steven Demetriou,Steven Demetriou,100.0,2,8,3982,006216_2019_Q4_1876283.txt,,True
+006216,Jacobs Solutions Inc.,2020,1,2020-02-04,1900957,Steven Demetriou,Steven Demetriou,100.0,2,8,2381,006216_2020_Q1_1900957.txt,,True
+006216,Jacobs Solutions Inc.,2020,2,2020-05-06,2005633,Steven Demetriou,Steven Demetriou,100.0,2,9,3484,006216_2020_Q2_2005633.txt,,True
+006216,Jacobs Solutions Inc.,2020,3,2020-08-03,2080199,Steven Demetriou,Steven Demetriou,100.0,2,11,3090,006216_2020_Q3_2080199.txt,,True
+006216,Jacobs Solutions Inc.,2020,4,2020-11-24,2180683,Steven Demetriou,Steven Demetriou,100.0,2,6,1992,006216_2020_Q4_2180683.txt,,True
+006216,Jacobs Solutions Inc.,2021,1,2021-02-09,2244104,Steven Demetriou,Steven Demetriou,100.0,2,8,2631,006216_2021_Q1_2244104.txt,,True
+006216,Jacobs Solutions Inc.,2021,2,2021-05-10,2301619,Steven Demetriou,Steven Demetriou,100.0,2,9,2267,006216_2021_Q2_2301619.txt,,True
+006216,Jacobs Solutions Inc.,2021,3,2021-08-03,2391452,Steven Demetriou,Steven Demetriou,100.0,2,5,2071,006216_2021_Q3_2391452.txt,,True
+006216,Jacobs Solutions Inc.,2021,4,2021-11-23,2447698,Steven Demetriou,Steven Demetriou,100.0,2,7,1478,006216_2021_Q4_2447698.txt,,True
+006216,Jacobs Solutions Inc.,2022,1,2022-02-08,2487853,Steven Demetriou,Steven Demetriou,100.0,2,7,2134,006216_2022_Q1_2487853.txt,,True
+006216,Jacobs Solutions Inc.,2022,2,2022-05-03,2551380,Steven Demetriou,Steven Demetriou,100.0,2,9,1651,006216_2022_Q2_2551380.txt,,True
+006216,Jacobs Solutions Inc.,2022,3,2022-08-01,2610947,Steven Demetriou,Steven Demetriou,100.0,2,7,1864,006216_2022_Q3_2610947.txt,,True
+006216,Jacobs Solutions Inc.,2022,4,2022-11-21,2695376,Steven Demetriou,Steven Demetriou,100.0,1,2,1075,006216_2022_Q4_2695376.txt,,True
+006304,KLA Corporation,2018,2,2018-01-25,1374662,Richard Wallace,Richard Wallace,100.0,1,8,1854,006304_2018_Q2_1374662.txt,,True
+006304,KLA Corporation,2018,3,2018-04-26,1441638,Richard Wallace,Richard Wallace,100.0,1,13,2780,006304_2018_Q3_1441638.txt,,True
+006304,KLA Corporation,2018,4,2018-07-30,1524592,Richard Wallace,Richard Wallace,100.0,1,15,2568,006304_2018_Q4_1524592.txt,,True
+006304,KLA Corporation,2019,1,2018-10-29,1586106,Richard Wallace,Richard Wallace,100.0,1,13,2141,006304_2019_Q1_1586106.txt,,True
+006304,KLA Corporation,2019,2,2019-01-29,1642458,Richard Wallace,Richard Wallace,100.0,1,6,1173,006304_2019_Q2_1642458.txt,,True
+006304,KLA Corporation,2019,3,2019-05-06,1729747,Richard Wallace,Richard Wallace,100.0,1,11,1962,006304_2019_Q3_1729747.txt,,True
+006304,KLA Corporation,2019,4,2019-08-05,1800271,Richard Wallace,Richard Wallace,100.0,1,17,2613,006304_2019_Q4_1800271.txt,,True
+006304,KLA Corporation,2020,1,2019-10-30,1851915,Richard Wallace,Richard Wallace,100.0,1,11,2758,006304_2020_Q1_1851915.txt,,True
+006304,KLA Corporation,2020,2,2020-02-04,1904670,Richard Wallace,Richard Wallace,100.0,1,17,3302,006304_2020_Q2_1904670.txt,,True
+006304,KLA Corporation,2020,3,2020-05-05,2001247,Richard Wallace,Richard Wallace,100.0,1,8,3399,006304_2020_Q3_2001247.txt,,True
+006304,KLA Corporation,2020,4,2020-08-03,2109110,Richard Wallace,Richard Wallace,100.0,1,18,4199,006304_2020_Q4_2109110.txt,,True
+006304,KLA Corporation,2021,1,2020-10-28,2154361,Richard Wallace,Richard Wallace,100.0,1,7,2744,006304_2021_Q1_2154361.txt,,True
+006304,KLA Corporation,2021,2,2021-02-03,2190464,Richard Wallace,Richard Wallace,100.0,1,8,3031,006304_2021_Q2_2190464.txt,,True
+006304,KLA Corporation,2021,3,2021-04-29,2263845,Richard Wallace,Richard Wallace,100.0,1,14,5173,006304_2021_Q3_2263845.txt,,True
+006304,KLA Corporation,2021,4,2021-07-29,2357105,Richard Wallace,Richard Wallace,100.0,1,13,3676,006304_2021_Q4_2357105.txt,,True
+006304,KLA Corporation,2022,1,2021-10-27,2442929,Richard Wallace,Richard Wallace,100.0,1,12,3300,006304_2022_Q1_2442929.txt,,True
+006304,KLA Corporation,2022,2,2022-01-27,2484902,Richard Wallace,Richard Wallace,100.0,1,11,4028,006304_2022_Q2_2484902.txt,,True
+006304,KLA Corporation,2022,3,2022-04-28,2551755,Richard Wallace,Richard Wallace,100.0,1,13,3583,006304_2022_Q3_2551755.txt,,True
+006304,KLA Corporation,2022,4,2022-07-28,2608372,Richard Wallace,Richard Wallace,100.0,1,7,1742,006304_2022_Q4_2608372.txt,,True
+006435,Kimberly-Clark Corporation,2018,1,2018-04-23,1434104,Thomas Falk,Thomas Falk,100.0,0,34,2787,006435_2018_Q1_1434104.txt,,True
+006435,Kimberly-Clark Corporation,2018,2,2018-07-24,1506840,Thomas Falk,Thomas Falk,100.0,0,28,2966,006435_2018_Q2_1506840.txt,,True
+006435,Kimberly-Clark Corporation,2018,3,2018-10-22,1574328,Thomas Falk,Thomas Falk,100.0,1,10,1184,006435_2018_Q3_1574328.txt,,True
+006435,Kimberly-Clark Corporation,2019,1,2019-04-22,1702682,Michael Hsu,Michael Hsu,100.0,1,25,3993,006435_2019_Q1_1702682.txt,,True
+006435,Kimberly-Clark Corporation,2019,2,2019-07-23,1778035,Michael Hsu,Michael Hsu,100.0,1,29,4999,006435_2019_Q2_1778035.txt,,True
+006435,Kimberly-Clark Corporation,2019,3,2019-10-22,1837795,Michael Hsu,Michael Hsu,100.0,1,22,4358,006435_2019_Q3_1837795.txt,,True
+006435,Kimberly-Clark Corporation,2019,4,2020-01-23,1894310,Michael Hsu,Michael Hsu,100.0,1,12,2774,006435_2019_Q4_1894310.txt,,True
+006435,Kimberly-Clark Corporation,2020,1,2020-04-22,2013756,Michael Hsu,Michael Hsu,100.0,2,29,6102,006435_2020_Q1_2013756.txt,,True
+006435,Kimberly-Clark Corporation,2020,2,2020-07-23,2077115,Michael Hsu,Michael Hsu,100.0,1,25,5404,006435_2020_Q2_2077115.txt,,True
+006435,Kimberly-Clark Corporation,2020,3,2020-10-22,2147912,Michael Hsu,Michael Hsu,100.0,1,15,3532,006435_2020_Q3_2147912.txt,,True
+006435,Kimberly-Clark Corporation,2020,4,2021-01-25,2181013,Michael Hsu,Michael Hsu,100.0,1,23,4920,006435_2020_Q4_2181013.txt,,True
+006435,Kimberly-Clark Corporation,2021,1,2021-04-23,2256489,Michael Hsu,Michael Hsu,100.0,1,18,3330,006435_2021_Q1_2256489.txt,,True
+006435,Kimberly-Clark Corporation,2021,2,2021-07-23,2350531,Michael Hsu,Michael Hsu,100.0,1,18,6022,006435_2021_Q2_2350531.txt,,True
+006435,Kimberly-Clark Corporation,2021,3,2021-10-25,2449242,Michael Hsu,Michael Hsu,100.0,1,20,4254,006435_2021_Q3_2449242.txt,,True
+006435,Kimberly-Clark Corporation,2021,4,2022-01-26,2477822,Michael Hsu,Michael Hsu,100.0,1,16,3685,006435_2021_Q4_2477822.txt,,True
+006435,Kimberly-Clark Corporation,2022,1,2022-04-22,2541923,Michael Hsu,Michael Hsu,100.0,1,16,3369,006435_2022_Q1_2541923.txt,,True
+006435,Kimberly-Clark Corporation,2022,2,2022-07-26,2604406,Michael Hsu,Michael Hsu,100.0,1,18,3972,006435_2022_Q2_2604406.txt,,True
+006435,Kimberly-Clark Corporation,2022,3,2022-10-25,2662628,Michael Hsu,Michael Hsu,100.0,1,21,4766,006435_2022_Q3_2662628.txt,,True
+007343,"Micron Technology, Inc.",2018,2,2018-03-22,1423783,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,19,4070,007343_2018_Q2_1423783.txt,,True
+007343,"Micron Technology, Inc.",2018,3,2018-06-20,1493711,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,15,3798,007343_2018_Q3_1493711.txt,,True
+007343,"Micron Technology, Inc.",2018,4,2018-09-20,1560246,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,15,4351,007343_2018_Q4_1560246.txt,,True
+007343,"Micron Technology, Inc.",2019,1,2018-12-18,1633629,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,12,4527,007343_2019_Q1_1633629.txt,,True
+007343,"Micron Technology, Inc.",2019,2,2019-03-20,1692312,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,10,4090,007343_2019_Q2_1692312.txt,,True
+007343,"Micron Technology, Inc.",2019,3,2019-06-25,3029007,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,16,4440,007343_2019_Q3_3029007.txt,,True
+007343,"Micron Technology, Inc.",2019,4,2019-09-26,1829379,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,8,4225,007343_2019_Q4_1829379.txt,,True
+007343,"Micron Technology, Inc.",2020,1,2019-12-18,1887272,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,12,5009,007343_2020_Q1_1887272.txt,,True
+007343,"Micron Technology, Inc.",2020,2,2020-03-25,1947501,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,12,5099,007343_2020_Q2_1947501.txt,,True
+007343,"Micron Technology, Inc.",2020,3,2020-06-29,2035816,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,10,5324,007343_2020_Q3_2035816.txt,,True
+007343,"Micron Technology, Inc.",2020,4,2020-09-29,2141238,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,8,4533,007343_2020_Q4_2141238.txt,,True
+007343,"Micron Technology, Inc.",2021,1,2021-01-07,2232450,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,8,4711,007343_2021_Q1_2232450.txt,,True
+007343,"Micron Technology, Inc.",2021,2,2021-03-31,2245629,Sanjay Mehrotra,Sanjay Mehrotra,100.0,2,8,4552,007343_2021_Q2_2245629.txt,,True
+008543,"Altria Group, Inc.",2020,1,2020-04-30,2020127,"William Gifford, Jr.",William Gifford,85.71428571428571,1,42,6841,008543_2020_Q1_2020127.txt,,True
+008543,"Altria Group, Inc.",2020,2,2020-07-28,2088577,"William Gifford, Jr.",William Gifford,85.71428571428571,1,28,6804,008543_2020_Q2_2088577.txt,,True
+008543,"Altria Group, Inc.",2020,3,2020-10-30,2154565,"William Gifford, Jr.",William Gifford,85.71428571428571,1,22,5267,008543_2020_Q3_2154565.txt,,True
+008543,"Altria Group, Inc.",2020,4,2021-01-28,2252343,"William Gifford, Jr.",William Gifford,85.71428571428571,1,26,5697,008543_2020_Q4_2252343.txt,,True
+008543,"Altria Group, Inc.",2021,1,2021-04-29,2263308,"William Gifford, Jr.",William Gifford,85.71428571428571,1,25,5103,008543_2021_Q1_2263308.txt,,True
+008543,"Altria Group, Inc.",2021,2,2021-07-29,2354422,"William Gifford, Jr.",William Gifford,85.71428571428571,1,21,4245,008543_2021_Q2_2354422.txt,,True
+008543,"Altria Group, Inc.",2021,3,2021-10-28,2415679,"William Gifford, Jr.",William Gifford,85.71428571428571,1,12,2647,008543_2021_Q3_2415679.txt,,True
+008543,"Altria Group, Inc.",2021,4,2022-01-27,2478873,"William Gifford, Jr.",William Gifford,85.71428571428571,1,13,4224,008543_2021_Q4_2478873.txt,,True
+008543,"Altria Group, Inc.",2022,1,2022-04-28,2546439,"William Gifford, Jr.",William Gifford,85.71428571428571,1,14,3156,008543_2022_Q1_2546439.txt,,True
+008543,"Altria Group, Inc.",2022,2,2022-07-28,2608197,"William Gifford, Jr.",William Gifford,85.71428571428571,1,12,3924,008543_2022_Q2_2608197.txt,,True
+008543,"Altria Group, Inc.",2022,3,2022-10-27,2665409,"William Gifford, Jr.",William Gifford,85.71428571428571,1,19,4216,008543_2022_Q3_2665409.txt,,True
+009777,The J. M. Smucker Company,2018,3,2018-02-16,1394200,Mark Smucker,Mark Smucker,100.0,1,11,1717,009777_2018_Q3_1394200.txt,,True
+009777,The J. M. Smucker Company,2018,4,2018-06-07,1486603,Mark Smucker,Mark Smucker,100.0,1,11,3987,009777_2018_Q4_1486603.txt,,True
+009777,The J. M. Smucker Company,2019,1,2018-08-21,1547225,Mark Smucker,Mark Smucker,100.0,1,6,1945,009777_2019_Q1_1547225.txt,,True
+009777,The J. M. Smucker Company,2019,2,2018-11-28,1621824,Mark Smucker,Mark Smucker,100.0,1,9,2928,009777_2019_Q2_1621824.txt,,True
+009777,The J. M. Smucker Company,2019,3,2019-02-26,1670050,Mark Smucker,Mark Smucker,100.0,1,6,2052,009777_2019_Q3_1670050.txt,,True
+009777,The J. M. Smucker Company,2019,4,2019-06-06,1757957,Mark Smucker,Mark Smucker,100.0,1,8,3154,009777_2019_Q4_1757957.txt,,True
+009777,The J. M. Smucker Company,2020,1,2019-08-27,1812946,Mark Smucker,Mark Smucker,100.0,1,17,4459,009777_2020_Q1_1812946.txt,,True
+009777,The J. M. Smucker Company,2020,2,2019-11-22,1876247,Mark Smucker,Mark Smucker,100.0,1,18,4022,009777_2020_Q2_1876247.txt,,True
+009777,The J. M. Smucker Company,2020,3,2020-02-26,1932721,Mark Smucker,Mark Smucker,100.0,1,13,3227,009777_2020_Q3_1932721.txt,,True
+009777,The J. M. Smucker Company,2020,4,2020-06-04,2024033,Mark Smucker,Mark Smucker,100.0,1,17,5145,009777_2020_Q4_2024033.txt,,True
+009777,The J. M. Smucker Company,2021,1,2020-08-25,2117168,Mark Smucker,Mark Smucker,100.0,1,14,3095,009777_2021_Q1_2117168.txt,,True
+009777,The J. M. Smucker Company,2021,2,2020-11-24,2152757,Mark Smucker,Mark Smucker,100.0,1,15,3560,009777_2021_Q2_2152757.txt,,True
+009777,The J. M. Smucker Company,2021,3,2021-02-25,2223596,Mark Smucker,Mark Smucker,100.0,1,12,2906,009777_2021_Q3_2223596.txt,,True
+009777,The J. M. Smucker Company,2021,4,2021-06-03,2308858,Mark Smucker,Mark Smucker,100.0,1,11,3698,009777_2021_Q4_2308858.txt,,True
+009777,The J. M. Smucker Company,2022,1,2021-08-26,2399736,Mark Smucker,Mark Smucker,100.0,0,11,1692,009777_2022_Q1_2399736.txt,,True
+009777,The J. M. Smucker Company,2022,2,2021-11-23,2447615,Mark Smucker,Mark Smucker,100.0,0,13,2701,009777_2022_Q2_2447615.txt,,True
+009777,The J. M. Smucker Company,2022,3,2022-03-01,2533262,Mark Smucker,Mark Smucker,100.0,0,8,1416,009777_2022_Q3_2533262.txt,,True
+009777,The J. M. Smucker Company,2022,4,2022-06-07,2585831,Mark Smucker,Mark Smucker,100.0,1,0,1859,009777_2022_Q4_2585831.txt,,True
+010867,Union Pacific Corporation,2018,1,2018-04-26,1445573,Lance Fritz,Lance Fritz,100.0,2,14,1953,010867_2018_Q1_1445573.txt,,True
+010867,Union Pacific Corporation,2018,2,2018-07-19,1504079,Lance Fritz,Lance Fritz,100.0,2,20,2521,010867_2018_Q2_1504079.txt,,True
+010867,Union Pacific Corporation,2018,3,2018-10-25,1582436,Lance Fritz,Lance Fritz,100.0,2,23,3689,010867_2018_Q3_1582436.txt,,True
+010867,Union Pacific Corporation,2018,4,2019-01-24,1641049,Lance Fritz,Lance Fritz,100.0,2,23,2411,010867_2018_Q4_1641049.txt,,True
+010867,Union Pacific Corporation,2019,1,2019-04-18,1701786,Lance Fritz,Lance Fritz,100.0,2,18,1692,010867_2019_Q1_1701786.txt,,True
+010867,Union Pacific Corporation,2019,2,2019-07-18,1774099,Lance Fritz,Lance Fritz,100.0,2,13,1566,010867_2019_Q2_1774099.txt,,True
+010867,Union Pacific Corporation,2019,3,2019-10-17,1834892,Lance Fritz,Lance Fritz,100.0,2,19,2776,010867_2019_Q3_1834892.txt,,True
+010867,Union Pacific Corporation,2019,4,2020-01-23,1894296,Lance Fritz,Lance Fritz,100.0,2,26,2969,010867_2019_Q4_1894296.txt,,True
+010867,Union Pacific Corporation,2020,1,2020-04-23,2014349,Lance Fritz,Lance Fritz,100.0,2,23,2161,010867_2020_Q1_2014349.txt,,True
+010867,Union Pacific Corporation,2020,2,2020-07-23,2086019,Lance Fritz,Lance Fritz,100.0,2,18,2409,010867_2020_Q2_2086019.txt,,True
+010867,Union Pacific Corporation,2020,3,2020-10-22,2162931,Lance Fritz,Lance Fritz,100.0,2,22,2618,010867_2020_Q3_2162931.txt,,True
+010867,Union Pacific Corporation,2020,4,2021-01-21,2189437,Lance Fritz,Lance Fritz,100.0,2,16,2698,010867_2020_Q4_2189437.txt,,True
+010867,Union Pacific Corporation,2021,1,2021-04-22,2255430,Lance Fritz,Lance Fritz,100.0,2,23,3666,010867_2021_Q1_2255430.txt,,True
+010867,Union Pacific Corporation,2021,2,2021-07-22,2351760,Lance Fritz,Lance Fritz,100.0,2,18,2003,010867_2021_Q2_2351760.txt,,True
+010867,Union Pacific Corporation,2021,3,2021-10-21,2408980,Lance Fritz,Lance Fritz,100.0,2,19,2394,010867_2021_Q3_2408980.txt,,True
+010867,Union Pacific Corporation,2021,4,2022-01-20,2475309,Lance Fritz,Lance Fritz,100.0,2,27,3481,010867_2021_Q4_2475309.txt,,True
+010867,Union Pacific Corporation,2022,1,2022-04-21,2551148,Lance Fritz,Lance Fritz,100.0,2,26,3762,010867_2022_Q1_2551148.txt,,True
+010867,Union Pacific Corporation,2022,2,2022-07-21,2602292,Lance Fritz,Lance Fritz,100.0,2,26,3330,010867_2022_Q2_2602292.txt,,True
+010867,Union Pacific Corporation,2022,3,2022-10-20,2659851,Lance Fritz,Lance Fritz,100.0,2,18,2376,010867_2022_Q3_2659851.txt,,True
+011259,Walmart Inc.,2021,1,2020-05-19,2010929,C. McMillon,Doug McMillon,84.21052631578948,1,12,4366,011259_2021_Q1_2010929.txt,,True
+011259,Walmart Inc.,2021,2,2020-08-18,2101957,C. McMillon,Doug McMillon,84.21052631578948,1,14,3161,011259_2021_Q2_2101957.txt,,True
+011259,Walmart Inc.,2021,3,2020-11-17,2144572,C. McMillon,Doug McMillon,84.21052631578948,1,12,3085,011259_2021_Q3_2144572.txt,,True
+011259,Walmart Inc.,2021,4,2021-02-18,2250164,C. McMillon,Doug McMillon,84.21052631578948,23,21,9558,011259_2021_Q4_2250164.txt,,True
+011259,Walmart Inc.,2022,1,2021-05-18,2290563,C. McMillon,Doug McMillon,84.21052631578948,1,9,2968,011259_2022_Q1_2290563.txt,,True
+011259,Walmart Inc.,2022,2,2021-08-17,2379931,C. McMillon,Doug McMillon,84.21052631578948,1,9,3361,011259_2022_Q2_2379931.txt,,True
+011259,Walmart Inc.,2022,3,2021-11-16,2441023,C. McMillon,Doug McMillon,84.21052631578948,1,13,3513,011259_2022_Q3_2441023.txt,,True
+011259,Walmart Inc.,2022,4,2022-02-17,2497512,C. McMillon,Doug McMillon,84.21052631578948,1,10,3817,011259_2022_Q4_2497512.txt,,True
+027786,Expand Energy Corporation,2018,1,2018-05-02,1449300,Robert Lawler,Robert Lawler,100.0,1,4,1317,027786_2018_Q1_1449300.txt,,True
+027786,Expand Energy Corporation,2018,2,2018-08-01,1525484,Robert Lawler,Robert Lawler,100.0,1,4,1976,027786_2018_Q2_1525484.txt,,True
+027786,Expand Energy Corporation,2018,3,2018-10-30,1594202,Robert Lawler,Robert Lawler,100.0,1,12,2217,027786_2018_Q3_1594202.txt,,True
+027786,Expand Energy Corporation,2018,4,2019-02-27,1675918,Robert Lawler,Robert Lawler,100.0,1,9,2544,027786_2018_Q4_1675918.txt,,True
+027786,Expand Energy Corporation,2019,1,2019-05-08,1750077,Robert Lawler,Robert Lawler,100.0,1,11,1919,027786_2019_Q1_1750077.txt,,True
+027786,Expand Energy Corporation,2019,2,2019-08-06,1800277,Robert Lawler,Robert Lawler,100.0,1,8,2292,027786_2019_Q2_1800277.txt,,True
+027786,Expand Energy Corporation,2019,3,2019-11-05,1870821,Robert Lawler,Robert Lawler,100.0,1,9,2538,027786_2019_Q3_1870821.txt,,True
+027786,Expand Energy Corporation,2019,4,2020-02-26,1931905,Robert Lawler,Robert Lawler,100.0,1,9,2876,027786_2019_Q4_1931905.txt,,True
+027786,Expand Energy Corporation,2021,1,2021-05-12,2282575,Michael Wichterich,Michael Wichterich,100.0,1,16,3437,027786_2021_Q1_2282575.txt,,True
+027786,Expand Energy Corporation,2021,2,2021-08-11,2373344,Michael Wichterich,Michael Wichterich,100.0,1,15,2750,027786_2021_Q2_2373344.txt,,True
+027786,Expand Energy Corporation,2022,1,2022-05-05,2555563,"Domenic Dell'Osso, Jr.",Domenic Dell'Osso,87.17948717948718,1,10,3280,027786_2022_Q1_2555563.txt,,True
+027786,Expand Energy Corporation,2022,2,2022-08-03,2613721,"Domenic Dell'Osso, Jr.",Domenic Dell'Osso,87.17948717948718,1,12,3859,027786_2022_Q2_2613721.txt,,True
+027786,Expand Energy Corporation,2022,3,2022-11-02,2671815,"Domenic Dell'Osso, Jr.",Domenic Dell'Osso,87.17948717948718,1,11,3333,027786_2022_Q3_2671815.txt,,True
+028180,"O'Reilly Automotive, Inc.",2019,2,2019-07-25,1781418,Gregory Johnson,Gregory Johnson,100.0,1,10,1927,028180_2019_Q2_1781418.txt,,True
+028180,"O'Reilly Automotive, Inc.",2019,3,2019-10-24,1840563,Gregory Johnson,Gregory Johnson,100.0,1,10,2274,028180_2019_Q3_1840563.txt,,True
+028180,"O'Reilly Automotive, Inc.",2019,4,2020-02-06,1904449,Gregory Johnson,Gregory Johnson,100.0,1,11,2993,028180_2019_Q4_1904449.txt,,True
+028180,"O'Reilly Automotive, Inc.",2020,1,2020-04-23,2014722,Gregory Johnson,Gregory Johnson,100.0,1,12,2818,028180_2020_Q1_2014722.txt,,True
+028180,"O'Reilly Automotive, Inc.",2020,2,2020-07-30,2079975,Gregory Johnson,Gregory Johnson,100.0,1,17,3403,028180_2020_Q2_2079975.txt,,True
+028180,"O'Reilly Automotive, Inc.",2020,3,2020-10-29,2168748,Gregory Johnson,Gregory Johnson,100.0,1,9,3229,028180_2020_Q3_2168748.txt,,True
+028180,"O'Reilly Automotive, Inc.",2020,4,2021-02-11,2206607,Gregory Johnson,Gregory Johnson,100.0,1,10,3375,028180_2020_Q4_2206607.txt,,True
+028180,"O'Reilly Automotive, Inc.",2021,1,2021-04-29,2263158,Gregory Johnson,Gregory Johnson,100.0,1,13,3034,028180_2021_Q1_2263158.txt,,True
+028180,"O'Reilly Automotive, Inc.",2021,2,2021-07-29,2387674,Gregory Johnson,Gregory Johnson,100.0,1,12,2913,028180_2021_Q2_2387674.txt,,True
+028180,"O'Reilly Automotive, Inc.",2021,3,2021-10-28,2416030,Gregory Johnson,Gregory Johnson,100.0,1,10,3512,028180_2021_Q3_2416030.txt,,True
+028180,"O'Reilly Automotive, Inc.",2021,4,2022-02-10,2490928,Gregory Johnson,Gregory Johnson,100.0,1,11,3466,028180_2021_Q4_2490928.txt,,True
+028180,"O'Reilly Automotive, Inc.",2022,1,2022-04-28,2546645,Gregory Johnson,Gregory Johnson,100.0,1,15,3288,028180_2022_Q1_2546645.txt,,True
+028180,"O'Reilly Automotive, Inc.",2022,2,2022-07-28,2608177,Gregory Johnson,Gregory Johnson,100.0,1,11,3147,028180_2022_Q2_2608177.txt,,True
+028180,"O'Reilly Automotive, Inc.",2022,3,2022-10-27,2665916,Gregory Johnson,Gregory Johnson,100.0,1,10,2524,028180_2022_Q3_2665916.txt,,True
+029736,Tractor Supply Company,2018,1,2018-04-26,1444552,Gregory Sandfort,Gregory Sandfort,100.0,2,5,2078,029736_2018_Q1_1444552.txt,,True
+029736,Tractor Supply Company,2018,2,2018-07-26,1520419,Gregory Sandfort,Gregory Sandfort,100.0,2,5,1958,029736_2018_Q2_1520419.txt,,True
+029736,Tractor Supply Company,2018,3,2018-10-25,1580477,Gregory Sandfort,Gregory Sandfort,100.0,2,5,1916,029736_2018_Q3_1580477.txt,,True
+029736,Tractor Supply Company,2018,4,2019-01-31,1646640,Gregory Sandfort,Gregory Sandfort,100.0,2,4,1886,029736_2018_Q4_1646640.txt,,True
+029736,Tractor Supply Company,2019,1,2019-04-25,1708911,Gregory Sandfort,Gregory Sandfort,100.0,2,2,1159,029736_2019_Q1_1708911.txt,,True
+029736,Tractor Supply Company,2019,2,2019-07-25,1789000,Gregory Sandfort,Gregory Sandfort,100.0,2,2,1307,029736_2019_Q2_1789000.txt,,True
+029736,Tractor Supply Company,2019,3,2019-10-24,1842044,Gregory Sandfort,Gregory Sandfort,100.0,2,6,3388,029736_2019_Q3_1842044.txt,,True
+029736,Tractor Supply Company,2019,4,2020-01-30,1899398,Gregory Sandfort,Gregory Sandfort,100.0,2,3,1332,029736_2019_Q4_1899398.txt,,True
+029736,Tractor Supply Company,2020,1,2020-04-23,2014662,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,6,5014,029736_2020_Q1_2014662.txt,,True
+029736,Tractor Supply Company,2020,2,2020-07-23,2084552,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,8,6951,029736_2020_Q2_2084552.txt,,True
+029736,Tractor Supply Company,2020,3,2020-10-22,2116507,"Harry Lawton, III",Harry Lawton,82.75862068965517,4,20,6317,029736_2020_Q3_2116507.txt,,True
+029736,Tractor Supply Company,2020,4,2021-01-28,2252782,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,13,5714,029736_2020_Q4_2252782.txt,,True
+029736,Tractor Supply Company,2021,1,2021-04-22,2255853,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,13,4778,029736_2021_Q1_2255853.txt,,True
+029736,Tractor Supply Company,2021,2,2021-07-19,2347635,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,8,5420,029736_2021_Q2_2347635.txt,,True
+029736,Tractor Supply Company,2021,3,2021-10-21,2409151,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,7,4954,029736_2021_Q3_2409151.txt,,True
+029736,Tractor Supply Company,2021,4,2022-01-27,2479269,"Harry Lawton, III",Harry Lawton,82.75862068965517,3,20,9299,029736_2021_Q4_2479269.txt,,True
+029736,Tractor Supply Company,2022,1,2022-04-21,2541167,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,8,4455,029736_2022_Q1_2541167.txt,,True
+029736,Tractor Supply Company,2022,2,2022-07-21,2602388,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,9,4909,029736_2022_Q2_2602388.txt,,True
+029736,Tractor Supply Company,2022,3,2022-10-20,2660014,"Harry Lawton, III",Harry Lawton,82.75862068965517,2,9,4926,029736_2022_Q3_2660014.txt,,True
+031846,"Darden Restaurants, Inc.",2018,3,2018-03-22,1423810,"Eugene Lee, Jr.",Eugene Lee,80.0,1,21,4884,031846_2018_Q3_1423810.txt,,True
+031846,"Darden Restaurants, Inc.",2018,4,2018-06-21,1493415,"Eugene Lee, Jr.",Eugene Lee,80.0,1,28,6052,031846_2018_Q4_1493415.txt,,True
+031846,"Darden Restaurants, Inc.",2019,1,2018-09-20,1560648,"Eugene Lee, Jr.",Eugene Lee,80.0,1,16,3765,031846_2019_Q1_1560648.txt,,True
+031846,"Darden Restaurants, Inc.",2019,2,2018-12-18,1635004,"Eugene Lee, Jr.",Eugene Lee,80.0,1,23,4900,031846_2019_Q2_1635004.txt,,True
+031846,"Darden Restaurants, Inc.",2019,3,2019-03-21,1692678,"Eugene Lee, Jr.",Eugene Lee,80.0,1,26,4277,031846_2019_Q3_1692678.txt,,True
+031846,"Darden Restaurants, Inc.",2019,4,2019-06-20,1765536,"Eugene Lee, Jr.",Eugene Lee,80.0,1,22,4703,031846_2019_Q4_1765536.txt,,True
+031846,"Darden Restaurants, Inc.",2020,1,2019-09-19,1832062,"Eugene Lee, Jr.",Eugene Lee,80.0,1,23,4963,031846_2020_Q1_1832062.txt,,True
+031846,"Darden Restaurants, Inc.",2020,2,2019-12-19,1887278,"Eugene Lee, Jr.",Eugene Lee,80.0,1,29,6456,031846_2020_Q2_1887278.txt,,True
+031846,"Darden Restaurants, Inc.",2020,3,2020-03-19,1945837,"Eugene Lee, Jr.",Eugene Lee,80.0,1,18,2406,031846_2020_Q3_1945837.txt,,True
+031846,"Darden Restaurants, Inc.",2020,4,2020-06-25,2036701,"Eugene Lee, Jr.",Eugene Lee,80.0,2,31,7474,031846_2020_Q4_2036701.txt,,True
+031846,"Darden Restaurants, Inc.",2021,1,2020-09-24,2136019,"Eugene Lee, Jr.",Eugene Lee,80.0,1,31,6944,031846_2021_Q1_2136019.txt,,True
+031846,"Darden Restaurants, Inc.",2021,2,2020-12-18,2164849,"Eugene Lee, Jr.",Eugene Lee,80.0,2,22,6888,031846_2021_Q2_2164849.txt,,True
+031846,"Darden Restaurants, Inc.",2021,3,2021-03-25,2242321,"Eugene Lee, Jr.",Eugene Lee,80.0,1,20,4507,031846_2021_Q3_2242321.txt,,True
+031846,"Darden Restaurants, Inc.",2021,4,2021-06-24,2377446,"Eugene Lee, Jr.",Eugene Lee,80.0,1,21,3702,031846_2021_Q4_2377446.txt,,True
+031846,"Darden Restaurants, Inc.",2022,1,2021-09-23,2400565,"Ricardo Cardenas, CPA",Ricardo Cardenas,86.48648648648648,1,9,2232,031846_2022_Q1_2400565.txt,,True
+031846,"Darden Restaurants, Inc.",2022,2,2021-12-17,2479310,"Ricardo Cardenas, CPA",Ricardo Cardenas,86.48648648648648,1,17,3149,031846_2022_Q2_2479310.txt,,True
+031846,"Darden Restaurants, Inc.",2022,3,2022-03-24,2530634,"Ricardo Cardenas, CPA",Ricardo Cardenas,86.48648648648648,1,25,4539,031846_2022_Q3_2530634.txt,,True
+031846,"Darden Restaurants, Inc.",2022,4,2022-06-23,2592299,"Ricardo Cardenas, CPA",Ricardo Cardenas,86.48648648648648,2,21,5403,031846_2022_Q4_2592299.txt,,True
+064166,Quest Diagnostics Incorporated,2018,1,2018-04-19,1433251,Stephen Rusckowski,Stephen Rusckowski,100.0,2,14,4737,064166_2018_Q1_1433251.txt,,True
+064166,Quest Diagnostics Incorporated,2018,2,2018-07-24,1506732,Stephen Rusckowski,Stephen Rusckowski,100.0,2,22,4779,064166_2018_Q2_1506732.txt,,True
+064166,Quest Diagnostics Incorporated,2018,3,2018-10-23,1575413,Stephen Rusckowski,Stephen Rusckowski,100.0,2,15,4262,064166_2018_Q3_1575413.txt,,True
+064166,Quest Diagnostics Incorporated,2018,4,2019-02-14,1660094,Stephen Rusckowski,Stephen Rusckowski,100.0,2,12,3505,064166_2018_Q4_1660094.txt,,True
+064166,Quest Diagnostics Incorporated,2019,1,2019-04-23,1703158,Stephen Rusckowski,Stephen Rusckowski,100.0,2,18,3948,064166_2019_Q1_1703158.txt,,True
+064166,Quest Diagnostics Incorporated,2019,2,2019-07-23,1778134,Stephen Rusckowski,Stephen Rusckowski,100.0,2,20,4335,064166_2019_Q2_1778134.txt,,True
+064166,Quest Diagnostics Incorporated,2019,3,2019-10-22,1837724,Stephen Rusckowski,Stephen Rusckowski,100.0,2,15,4062,064166_2019_Q3_1837724.txt,,True
+064166,Quest Diagnostics Incorporated,2019,4,2020-01-30,1899913,Stephen Rusckowski,Stephen Rusckowski,100.0,2,21,5325,064166_2019_Q4_1899913.txt,,True
+064166,Quest Diagnostics Incorporated,2020,1,2020-04-22,2013540,Stephen Rusckowski,Stephen Rusckowski,100.0,2,23,5825,064166_2020_Q1_2013540.txt,,True
+064166,Quest Diagnostics Incorporated,2020,2,2020-07-23,2085815,Stephen Rusckowski,Stephen Rusckowski,100.0,2,17,5084,064166_2020_Q2_2085815.txt,,True
+064166,Quest Diagnostics Incorporated,2020,3,2020-10-22,2161664,Stephen Rusckowski,Stephen Rusckowski,100.0,2,15,5006,064166_2020_Q3_2161664.txt,,True
+064166,Quest Diagnostics Incorporated,2020,4,2021-02-04,2251880,Stephen Rusckowski,Stephen Rusckowski,100.0,2,15,4706,064166_2020_Q4_2251880.txt,,True
+064166,Quest Diagnostics Incorporated,2021,1,2021-04-22,2255621,Stephen Rusckowski,Stephen Rusckowski,100.0,2,15,4393,064166_2021_Q1_2255621.txt,,True
+064166,Quest Diagnostics Incorporated,2021,2,2021-07-22,2350557,Stephen Rusckowski,Stephen Rusckowski,100.0,2,12,3460,064166_2021_Q2_2350557.txt,,True
+064166,Quest Diagnostics Incorporated,2021,3,2021-10-21,2409008,Stephen Rusckowski,Stephen Rusckowski,100.0,2,18,3488,064166_2021_Q3_2409008.txt,,True
+064166,Quest Diagnostics Incorporated,2021,4,2022-02-03,2484611,Stephen Rusckowski,Stephen Rusckowski,100.0,4,23,7321,064166_2021_Q4_2484611.txt,,True
+064166,Quest Diagnostics Incorporated,2022,1,2022-04-21,2558438,Stephen Rusckowski,Stephen Rusckowski,100.0,3,19,3978,064166_2022_Q1_2558438.txt,,True
+064166,Quest Diagnostics Incorporated,2022,2,2022-07-21,2602225,Stephen Rusckowski,Stephen Rusckowski,100.0,3,12,2337,064166_2022_Q2_2602225.txt,,True
+064166,Quest Diagnostics Incorporated,2022,3,2022-10-20,2659728,Stephen Rusckowski,Stephen Rusckowski,100.0,2,9,1369,064166_2022_Q3_2659728.txt,,True
+002285,The Boeing Company,2018,1,2018-04-25,1436438,Dennis Muilenburg,Dennis Muilenburg,100.0,2,14,5475,002285_2018_Q1_1436438.txt,,True
+002285,The Boeing Company,2018,2,2018-07-25,1508387,Dennis Muilenburg,Dennis Muilenburg,100.0,2,14,6617,002285_2018_Q2_1508387.txt,,True
+002285,The Boeing Company,2018,3,2018-10-24,1576914,Dennis Muilenburg,Dennis Muilenburg,100.0,2,14,6397,002285_2018_Q3_1576914.txt,,True
+002285,The Boeing Company,2018,4,2019-01-30,1643708,Dennis Muilenburg,Dennis Muilenburg,100.0,2,17,6447,002285_2018_Q4_1643708.txt,,True
+002285,The Boeing Company,2019,1,2019-04-24,1751027,Dennis Muilenburg,Dennis Muilenburg,100.0,2,11,6624,002285_2019_Q1_1751027.txt,,True
+002285,The Boeing Company,2019,2,2019-07-24,1830979,Dennis Muilenburg,Dennis Muilenburg,100.0,2,16,7567,002285_2019_Q2_1830979.txt,,True
+002285,The Boeing Company,2019,3,2019-10-23,1839335,Dennis Muilenburg,Dennis Muilenburg,100.0,2,12,6704,002285_2019_Q3_1839335.txt,,True
+002285,The Boeing Company,2020,1,2020-04-29,2018563,David Calhoun,David Calhoun,100.0,2,11,5607,002285_2020_Q1_2018563.txt,,True
+002285,The Boeing Company,2020,2,2020-07-29,2088615,David Calhoun,David Calhoun,100.0,2,4,4360,002285_2020_Q2_2088615.txt,,True
+002285,The Boeing Company,2020,3,2020-10-28,2153184,David Calhoun,David Calhoun,100.0,2,7,4551,002285_2020_Q3_2153184.txt,,True
+002285,The Boeing Company,2020,4,2021-01-27,2182400,David Calhoun,David Calhoun,100.0,2,12,4908,002285_2020_Q4_2182400.txt,,True
+002285,The Boeing Company,2021,1,2021-04-28,2260997,David Calhoun,David Calhoun,100.0,2,13,5112,002285_2021_Q1_2260997.txt,,True
+002285,The Boeing Company,2021,2,2021-07-28,2353071,David Calhoun,David Calhoun,100.0,2,18,7228,002285_2021_Q2_2353071.txt,,True
+002285,The Boeing Company,2021,3,2021-10-27,2414339,David Calhoun,David Calhoun,100.0,2,17,5850,002285_2021_Q3_2414339.txt,,True
+002285,The Boeing Company,2021,4,2022-01-26,2477775,David Calhoun,David Calhoun,100.0,2,17,3517,002285_2021_Q4_2477775.txt,,True
+002285,The Boeing Company,2022,1,2022-04-27,2544975,David Calhoun,David Calhoun,100.0,2,9,4198,002285_2022_Q1_2544975.txt,,True
+002285,The Boeing Company,2022,2,2022-07-27,2640862,David Calhoun,David Calhoun,100.0,2,14,3691,002285_2022_Q2_2640862.txt,,True
+002285,The Boeing Company,2022,3,2022-10-26,2663948,David Calhoun,David Calhoun,100.0,2,16,3887,002285_2022_Q3_2663948.txt,,True
+111864,Cognizant Technology Solutions Corporation,2018,1,2018-05-07,1487047,Francisco D'Souza,Francisco D'Souza,100.0,1,6,2774,111864_2018_Q1_1487047.txt,,True
+111864,Cognizant Technology Solutions Corporation,2018,2,2018-08-02,1533179,Francisco D'Souza,Francisco D'Souza,100.0,1,6,2436,111864_2018_Q2_1533179.txt,,True
+111864,Cognizant Technology Solutions Corporation,2018,3,2018-10-30,1589585,Francisco D'Souza,Francisco D'Souza,100.0,1,6,2441,111864_2018_Q3_1589585.txt,,True
+111864,Cognizant Technology Solutions Corporation,2018,4,2019-02-06,1649749,Francisco D'Souza,Francisco D'Souza,100.0,1,10,3278,111864_2018_Q4_1649749.txt,,True
+111864,Cognizant Technology Solutions Corporation,2019,1,2019-05-02,1724313,Brian Humphries,Brian Humphries,100.0,2,8,4105,111864_2019_Q1_1724313.txt,,True
+111864,Cognizant Technology Solutions Corporation,2019,2,2019-07-31,1813241,Brian Humphries,Brian Humphries,100.0,1,7,5806,111864_2019_Q2_1813241.txt,,True
+111864,Cognizant Technology Solutions Corporation,2019,3,2019-10-30,1849597,Brian Humphries,Brian Humphries,100.0,1,6,5180,111864_2019_Q3_1849597.txt,,True
+111864,Cognizant Technology Solutions Corporation,2019,4,2020-02-05,1902349,Brian Humphries,Brian Humphries,100.0,1,8,4641,111864_2019_Q4_1902349.txt,,True
+111864,Cognizant Technology Solutions Corporation,2020,1,2020-05-07,2204947,Brian Humphries,Brian Humphries,100.0,2,8,4833,111864_2020_Q1_2204947.txt,,True
+111864,Cognizant Technology Solutions Corporation,2020,2,2020-07-29,2078216,Brian Humphries,Brian Humphries,100.0,1,8,5622,111864_2020_Q2_2078216.txt,,True
+111864,Cognizant Technology Solutions Corporation,2020,3,2020-10-28,2154312,Brian Humphries,Brian Humphries,100.0,1,7,6212,111864_2020_Q3_2154312.txt,,True
+111864,Cognizant Technology Solutions Corporation,2020,4,2021-02-03,2190414,Brian Humphries,Brian Humphries,100.0,1,8,5198,111864_2020_Q4_2190414.txt,,True
+111864,Cognizant Technology Solutions Corporation,2021,1,2021-05-05,2271524,Brian Humphries,Brian Humphries,100.0,1,10,5700,111864_2021_Q1_2271524.txt,,True
+111864,Cognizant Technology Solutions Corporation,2021,2,2021-07-28,2353461,Brian Humphries,Brian Humphries,100.0,1,11,4637,111864_2021_Q2_2353461.txt,,True
+111864,Cognizant Technology Solutions Corporation,2021,3,2021-10-27,2414929,Brian Humphries,Brian Humphries,100.0,1,10,4932,111864_2021_Q3_2414929.txt,,True
+111864,Cognizant Technology Solutions Corporation,2021,4,2022-02-02,2483399,Brian Humphries,Brian Humphries,100.0,1,9,4947,111864_2021_Q4_2483399.txt,,True
+111864,Cognizant Technology Solutions Corporation,2022,1,2022-05-04,2554460,Brian Humphries,Brian Humphries,100.0,1,13,5323,111864_2022_Q1_2554460.txt,,True
+111864,Cognizant Technology Solutions Corporation,2022,2,2022-07-27,2606122,Brian Humphries,Brian Humphries,100.0,1,11,4225,111864_2022_Q2_2606122.txt,,True
+111864,Cognizant Technology Solutions Corporation,2022,3,2022-11-02,2672899,Brian Humphries,Brian Humphries,100.0,1,12,4693,111864_2022_Q3_2672899.txt,,True
+002136,Verizon Communications Inc.,2019,1,2019-04-23,1702447,Hans Vestberg,Hans Vestberg,100.0,2,9,2863,002136_2019_Q1_1702447.txt,,True
+002136,Verizon Communications Inc.,2019,2,2019-08-01,1790843,Hans Vestberg,Hans Vestberg,100.0,1,15,4663,002136_2019_Q2_1790843.txt,,True
+002136,Verizon Communications Inc.,2019,3,2019-10-25,1841852,Hans Vestberg,Hans Vestberg,100.0,1,12,4434,002136_2019_Q3_1841852.txt,,True
+002136,Verizon Communications Inc.,2019,4,2020-01-30,2105098,Hans Vestberg,Hans Vestberg,100.0,1,10,4339,002136_2019_Q4_2105098.txt,,True
+002136,Verizon Communications Inc.,2020,1,2020-04-24,2987703,Hans Vestberg,Hans Vestberg,100.0,2,10,4518,002136_2020_Q1_2987703.txt,,True
+002136,Verizon Communications Inc.,2020,2,2020-07-24,2086743,Hans Vestberg,Hans Vestberg,100.0,2,9,4580,002136_2020_Q2_2086743.txt,,True
+002136,Verizon Communications Inc.,2020,3,2020-10-21,2148419,Hans Vestberg,Hans Vestberg,100.0,2,10,4644,002136_2020_Q3_2148419.txt,,True
+002136,Verizon Communications Inc.,2020,4,2021-01-26,2251204,Hans Vestberg,Hans Vestberg,100.0,2,10,4248,002136_2020_Q4_2251204.txt,,True
+002136,Verizon Communications Inc.,2021,1,2021-04-21,2254550,Hans Vestberg,Hans Vestberg,100.0,2,11,4120,002136_2021_Q1_2254550.txt,,True
+002136,Verizon Communications Inc.,2021,2,2021-07-21,2348697,Hans Vestberg,Hans Vestberg,100.0,2,13,3659,002136_2021_Q2_2348697.txt,,True
+002136,Verizon Communications Inc.,2021,3,2021-10-20,2408165,Hans Vestberg,Hans Vestberg,100.0,2,9,4326,002136_2021_Q3_2408165.txt,,True
+002136,Verizon Communications Inc.,2021,4,2022-01-25,2476851,Hans Vestberg,Hans Vestberg,100.0,2,11,4488,002136_2021_Q4_2476851.txt,,True
+002136,Verizon Communications Inc.,2022,1,2022-04-22,2549604,Hans Vestberg,Hans Vestberg,100.0,2,8,4246,002136_2022_Q1_2549604.txt,,True
+002136,Verizon Communications Inc.,2022,2,2022-07-22,2603013,Hans Vestberg,Hans Vestberg,100.0,2,13,4765,002136_2022_Q2_2603013.txt,,True
+002136,Verizon Communications Inc.,2022,3,2022-10-21,2660853,Hans Vestberg,Hans Vestberg,100.0,2,11,4176,002136_2022_Q3_2660853.txt,,True
+140541,"Tapestry, Inc.",2018,2,2018-02-06,1381594,Victor Luis,Victor Luis,100.0,1,11,4749,140541_2018_Q2_1381594.txt,,True
+140541,"Tapestry, Inc.",2018,3,2018-05-01,1446364,Victor Luis,Victor Luis,100.0,1,13,4884,140541_2018_Q3_1446364.txt,,True
+140541,"Tapestry, Inc.",2018,4,2018-08-14,1544082,Victor Luis,Victor Luis,100.0,1,16,2630,140541_2018_Q4_1544082.txt,,True
+140541,"Tapestry, Inc.",2019,1,2018-10-30,1591933,Victor Luis,Victor Luis,100.0,1,13,5284,140541_2019_Q1_1591933.txt,,True
+140541,"Tapestry, Inc.",2019,2,2019-02-07,1651841,Victor Luis,Victor Luis,100.0,1,12,6872,140541_2019_Q2_1651841.txt,,True
+140541,"Tapestry, Inc.",2019,3,2019-05-09,1739359,Victor Luis,Victor Luis,100.0,1,9,6359,140541_2019_Q3_1739359.txt,,True
+140541,"Tapestry, Inc.",2019,4,2019-08-15,1807994,Victor Luis,Victor Luis,100.0,2,7,5952,140541_2019_Q4_1807994.txt,,True
+140541,"Tapestry, Inc.",2020,1,2019-11-05,1857650,Jide Zeitlin,Jide Zeitlin,100.0,1,13,4366,140541_2020_Q1_1857650.txt,,True
+140541,"Tapestry, Inc.",2020,2,2020-02-06,1908456,Jide Zeitlin,Jide Zeitlin,100.0,1,13,5064,140541_2020_Q2_1908456.txt,,True
+140541,"Tapestry, Inc.",2020,3,2020-04-30,3080571,Jide Zeitlin,Jide Zeitlin,100.0,1,11,4372,140541_2020_Q3_3080571.txt,,True
+140541,"Tapestry, Inc.",2021,1,2020-10-29,2158505,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,14,5243,140541_2021_Q1_2158505.txt,,True
+140541,"Tapestry, Inc.",2021,2,2021-02-04,2191852,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,10,5888,140541_2021_Q2_2191852.txt,,True
+140541,"Tapestry, Inc.",2021,3,2021-05-06,2272519,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,9,5646,140541_2021_Q3_2272519.txt,,True
+140541,"Tapestry, Inc.",2021,4,2021-08-19,2382466,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,8,4206,140541_2021_Q4_2382466.txt,,True
+140541,"Tapestry, Inc.",2022,1,2021-11-11,2435252,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,9,4129,140541_2022_Q1_2435252.txt,,True
+140541,"Tapestry, Inc.",2022,2,2022-02-10,2493732,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,12,5330,140541_2022_Q2_2493732.txt,,True
+140541,"Tapestry, Inc.",2022,3,2022-05-12,2565247,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,11,4773,140541_2022_Q3_2565247.txt,,True
+140541,"Tapestry, Inc.",2022,4,2022-08-18,2634382,Joanne Crevoiserat,Joanne Crevoiserat,100.0,1,10,5090,140541_2022_Q4_2634382.txt,,True
+004818,Fluor Corporation,2018,1,2018-05-03,1451346,David Seaton,David Seaton,100.0,1,24,5046,004818_2018_Q1_1451346.txt,,True
+004818,Fluor Corporation,2018,2,2018-08-02,1567075,David Seaton,David Seaton,100.0,1,18,4169,004818_2018_Q2_1567075.txt,,True
+004818,Fluor Corporation,2018,3,2018-11-01,1596343,David Seaton,David Seaton,100.0,1,14,2916,004818_2018_Q3_1596343.txt,,True
+004818,Fluor Corporation,2018,4,2019-02-21,1667177,David Seaton,David Seaton,100.0,1,14,4334,004818_2018_Q4_1667177.txt,,True
+004818,Fluor Corporation,2019,1,2019-05-02,1724292,"Carlos Hernandez, J.D.",Carlos Hernandez,84.21052631578948,1,11,2018,004818_2019_Q1_1724292.txt,,True
+004818,Fluor Corporation,2019,2,2019-08-01,1794216,"Carlos Hernandez, J.D.",Carlos Hernandez,84.21052631578948,1,13,3640,004818_2019_Q2_1794216.txt,,True
+004818,Fluor Corporation,2019,3,2019-10-31,1850016,"Carlos Hernandez, J.D.",Carlos Hernandez,84.21052631578948,1,17,2997,004818_2019_Q3_1850016.txt,,True
+004818,Fluor Corporation,2019,4,2020-02-18,1919032,"Carlos Hernandez, J.D.",Carlos Hernandez,84.21052631578948,1,10,2331,004818_2019_Q4_1919032.txt,,True
+004818,Fluor Corporation,2021,1,2021-05-07,2275733,"David Constable, B.Sc.",David Constable,81.08108108108108,1,15,3946,004818_2021_Q1_2275733.txt,,True
+004818,Fluor Corporation,2021,2,2021-08-06,2367377,"David Constable, B.Sc.",David Constable,81.08108108108108,1,14,4800,004818_2021_Q2_2367377.txt,,True
+004818,Fluor Corporation,2021,3,2021-11-05,2427400,"David Constable, B.Sc.",David Constable,81.08108108108108,1,13,4484,004818_2021_Q3_2427400.txt,,True
+004818,Fluor Corporation,2021,4,2022-02-22,2501975,"David Constable, B.Sc.",David Constable,81.08108108108108,1,12,3789,004818_2021_Q4_2501975.txt,,True
+004818,Fluor Corporation,2022,1,2022-05-06,2557644,"David Constable, B.Sc.",David Constable,81.08108108108108,1,12,3636,004818_2022_Q1_2557644.txt,,True
+004818,Fluor Corporation,2022,2,2022-08-05,2621366,"David Constable, B.Sc.",David Constable,81.08108108108108,1,16,4312,004818_2022_Q2_2621366.txt,,True
+004818,Fluor Corporation,2022,3,2022-11-04,2717141,"David Constable, B.Sc.",David Constable,81.08108108108108,1,11,3688,004818_2022_Q3_2717141.txt,,True
+143357,Accenture plc,2018,2,2018-03-22,1423439,Pierre Nanterme,Pierre Nanterme,100.0,2,8,3263,143357_2018_Q2_1423439.txt,,True
+143357,Accenture plc,2018,3,2018-06-28,1495978,Pierre Nanterme,Pierre Nanterme,100.0,2,11,3464,143357_2018_Q3_1495978.txt,,True
+143357,Accenture plc,2018,4,2018-09-27,1563682,Pierre Nanterme,Pierre Nanterme,100.0,2,11,3222,143357_2018_Q4_1563682.txt,,True
+143357,Accenture plc,2019,1,2018-12-20,1635385,David Rowland,David Rowland,100.0,2,13,3201,143357_2019_Q1_1635385.txt,,True
+143357,Accenture plc,2019,2,2019-03-28,1694792,David Rowland,David Rowland,100.0,2,15,4035,143357_2019_Q2_1694792.txt,,True
+143357,Accenture plc,2019,3,2019-06-27,1768176,David Rowland,David Rowland,100.0,2,11,3343,143357_2019_Q3_1768176.txt,,True
+143357,Accenture plc,2020,1,2019-12-19,1886923,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,10,4181,143357_2020_Q1_1886923.txt,,True
+143357,Accenture plc,2020,2,2020-03-19,1943288,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,9,4685,143357_2020_Q2_1943288.txt,,True
+143357,Accenture plc,2020,3,2020-06-25,2072126,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,11,4963,143357_2020_Q3_2072126.txt,,True
+143357,Accenture plc,2020,4,2020-09-24,2204928,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,8,3600,143357_2020_Q4_2204928.txt,,True
+143357,Accenture plc,2021,1,2020-12-17,2204923,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,7,3580,143357_2021_Q1_2204923.txt,,True
+143357,Accenture plc,2021,2,2021-03-18,2239525,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,11,4350,143357_2021_Q2_2239525.txt,,True
+143357,Accenture plc,2021,3,2021-06-24,2326904,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,9,3625,143357_2021_Q3_2326904.txt,,True
+143357,Accenture plc,2021,4,2021-09-23,2400506,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,10,4328,143357_2021_Q4_2400506.txt,,True
+143357,Accenture plc,2022,1,2021-12-16,2464407,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,13,4145,143357_2022_Q1_2464407.txt,,True
+143357,Accenture plc,2022,2,2022-03-17,3001973,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,5,14,4732,143357_2022_Q2_3001973.txt,,True
+143357,Accenture plc,2022,3,2022-06-23,2592285,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,10,4535,143357_2022_Q3_2592285.txt,,True
+143357,Accenture plc,2022,4,2022-09-22,2650368,"Julie T. Sweet, J.D.",Julie T. Sweet,82.35294117647058,2,12,3888,143357_2022_Q4_2650368.txt,,True
+001300,Honeywell International Inc.,2018,1,2018-04-20,1434481,Darius Adamczyk,Darius Adamczyk,100.0,1,19,3478,001300_2018_Q1_1434481.txt,,True
+001300,Honeywell International Inc.,2018,2,2018-07-20,1505006,Darius Adamczyk,Darius Adamczyk,100.0,1,24,4048,001300_2018_Q2_1505006.txt,,True
+001300,Honeywell International Inc.,2018,3,2018-10-19,1573641,Darius Adamczyk,Darius Adamczyk,100.0,2,21,4707,001300_2018_Q3_1573641.txt,,True
+001300,Honeywell International Inc.,2018,4,2019-02-01,1647169,Darius Adamczyk,Darius Adamczyk,100.0,2,22,4788,001300_2018_Q4_1647169.txt,,True
+001300,Honeywell International Inc.,2019,1,2019-04-18,1701777,Darius Adamczyk,Darius Adamczyk,100.0,2,28,4199,001300_2019_Q1_1701777.txt,,True
+001300,Honeywell International Inc.,2019,2,2019-07-18,1774097,Darius Adamczyk,Darius Adamczyk,100.0,2,22,4393,001300_2019_Q2_1774097.txt,,True
+001300,Honeywell International Inc.,2019,3,2019-10-17,1836420,Darius Adamczyk,Darius Adamczyk,100.0,2,14,3361,001300_2019_Q3_1836420.txt,,True
+001300,Honeywell International Inc.,2019,4,2020-01-31,1901654,Darius Adamczyk,Darius Adamczyk,100.0,2,15,3019,001300_2019_Q4_1901654.txt,,True
+001300,Honeywell International Inc.,2020,1,2020-05-01,1981650,Darius Adamczyk,Darius Adamczyk,100.0,2,22,5520,001300_2020_Q1_1981650.txt,,True
+001300,Honeywell International Inc.,2020,2,2020-07-24,2090264,Darius Adamczyk,Darius Adamczyk,100.0,2,24,4498,001300_2020_Q2_2090264.txt,,True
+001300,Honeywell International Inc.,2020,3,2020-10-30,2154530,Darius Adamczyk,Darius Adamczyk,100.0,2,15,4262,001300_2020_Q3_2154530.txt,,True
+001300,Honeywell International Inc.,2020,4,2021-01-29,2253176,Darius Adamczyk,Darius Adamczyk,100.0,2,15,4155,001300_2020_Q4_2253176.txt,,True
+001300,Honeywell International Inc.,2021,1,2021-04-23,2256490,Darius Adamczyk,Darius Adamczyk,100.0,2,16,4132,001300_2021_Q1_2256490.txt,,True
+001300,Honeywell International Inc.,2021,2,2021-07-23,2383870,Darius Adamczyk,Darius Adamczyk,100.0,2,16,4297,001300_2021_Q2_2383870.txt,,True
+001300,Honeywell International Inc.,2021,3,2021-10-22,2410081,Darius Adamczyk,Darius Adamczyk,100.0,2,16,3959,001300_2021_Q3_2410081.txt,,True
+001300,Honeywell International Inc.,2021,4,2022-02-03,2484166,Darius Adamczyk,Darius Adamczyk,100.0,2,17,4686,001300_2021_Q4_2484166.txt,,True
+001300,Honeywell International Inc.,2022,1,2022-04-29,2563175,Darius Adamczyk,Darius Adamczyk,100.0,2,17,3981,001300_2022_Q1_2563175.txt,,True
+001300,Honeywell International Inc.,2022,2,2022-07-28,2607042,Darius Adamczyk,Darius Adamczyk,100.0,2,17,4231,001300_2022_Q2_2607042.txt,,True
+001300,Honeywell International Inc.,2022,3,2022-10-27,2665726,Darius Adamczyk,Darius Adamczyk,100.0,2,14,3911,001300_2022_Q3_2665726.txt,,True
+030923,TechnipFMC plc,2018,1,2018-05-10,1463013,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,13,3967,030923_2018_Q1_1463013.txt,,True
+030923,TechnipFMC plc,2018,2,2018-07-26,1515680,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,13,4649,030923_2018_Q2_1515680.txt,,True
+030923,TechnipFMC plc,2018,3,2018-10-25,1586406,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,15,4677,030923_2018_Q3_1586406.txt,,True
+030923,TechnipFMC plc,2018,4,2019-02-21,2102358,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,16,4248,030923_2018_Q4_2102358.txt,,True
+030923,TechnipFMC plc,2019,1,2019-04-26,1711306,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,14,5212,030923_2019_Q1_1711306.txt,,True
+030923,TechnipFMC plc,2019,2,2019-07-25,1781866,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,12,4737,030923_2019_Q2_1781866.txt,,True
+030923,TechnipFMC plc,2019,3,2019-10-24,2091823,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,15,4391,030923_2019_Q3_2091823.txt,,True
+030923,TechnipFMC plc,2019,4,2020-02-27,1932043,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,14,5023,030923_2019_Q4_1932043.txt,,True
+030923,TechnipFMC plc,2020,1,2020-04-23,2014300,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,10,6586,030923_2020_Q1_2014300.txt,,True
+030923,TechnipFMC plc,2020,2,2020-07-30,2079731,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,10,4436,030923_2020_Q2_2079731.txt,,True
+030923,TechnipFMC plc,2020,3,2020-10-22,2115541,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,13,5626,030923_2020_Q3_2115541.txt,,True
+030923,TechnipFMC plc,2020,4,2021-02-25,2223250,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,11,5278,030923_2020_Q4_2223250.txt,,True
+030923,TechnipFMC plc,2021,1,2021-04-28,2260926,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,16,5841,030923_2021_Q1_2260926.txt,,True
+030923,TechnipFMC plc,2021,2,2021-07-22,2349551,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,18,5001,030923_2021_Q2_2349551.txt,,True
+030923,TechnipFMC plc,2021,3,2021-10-21,2408835,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,9,3997,030923_2021_Q3_2408835.txt,,True
+030923,TechnipFMC plc,2021,4,2022-02-24,2505874,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,11,4922,030923_2021_Q4_2505874.txt,,True
+030923,TechnipFMC plc,2022,1,2022-04-28,2546644,Douglas Pferdehirt,Douglas Pferdehirt,100.0,2,9,3753,030923_2022_Q1_2546644.txt,,True
+030923,TechnipFMC plc,2022,2,2022-07-28,2607270,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,12,3208,030923_2022_Q2_2607270.txt,,True
+030923,TechnipFMC plc,2022,3,2022-10-27,2665191,Douglas Pferdehirt,Douglas Pferdehirt,100.0,1,9,2819,030923_2022_Q3_2665191.txt,,True
+146017,Acuity Inc.,2018,1,2018-01-09,1366729,Vernon Nagel,Vernon Nagel,100.0,2,18,6927,146017_2018_Q1_1366729.txt,,True
+146017,Acuity Inc.,2018,2,2018-04-04,1427686,Vernon Nagel,Vernon Nagel,100.0,2,17,6607,146017_2018_Q2_1427686.txt,,True
+146017,Acuity Inc.,2018,3,2018-07-03,1497033,Vernon Nagel,Vernon Nagel,100.0,2,20,5913,146017_2018_Q3_1497033.txt,,True
+146017,Acuity Inc.,2018,4,2018-10-03,1565252,Vernon Nagel,Vernon Nagel,100.0,2,20,6671,146017_2018_Q4_1565252.txt,,True
+146017,Acuity Inc.,2019,1,2019-01-09,1636025,Vernon Nagel,Vernon Nagel,100.0,2,20,6138,146017_2019_Q1_1636025.txt,,True
+146017,Acuity Inc.,2019,2,2019-04-03,1698022,Vernon Nagel,Vernon Nagel,100.0,2,17,6103,146017_2019_Q2_1698022.txt,,True
+146017,Acuity Inc.,2019,3,2019-07-02,1768830,Vernon Nagel,Vernon Nagel,100.0,2,14,6383,146017_2019_Q3_1768830.txt,,True
+146017,Acuity Inc.,2019,4,2019-10-02,1831044,Vernon Nagel,Vernon Nagel,100.0,2,13,7550,146017_2019_Q4_1831044.txt,,True
+146017,Acuity Inc.,2020,2,2020-04-02,1950109,Neil Ashe,Neil Ashe,100.0,2,18,5047,146017_2020_Q2_1950109.txt,,True
+146017,Acuity Inc.,2020,3,2020-06-30,2030550,Neil Ashe,Neil Ashe,100.0,2,13,3228,146017_2020_Q3_2030550.txt,,True
+146017,Acuity Inc.,2020,4,2020-10-08,2146453,Neil Ashe,Neil Ashe,100.0,2,15,3964,146017_2020_Q4_2146453.txt,,True
+146017,Acuity Inc.,2021,1,2021-01-07,2247254,Neil Ashe,Neil Ashe,100.0,2,16,3424,146017_2021_Q1_2247254.txt,,True
+146017,Acuity Inc.,2021,2,2021-03-31,2245324,Neil Ashe,Neil Ashe,100.0,1,15,5267,146017_2021_Q2_2245324.txt,,True
+146017,Acuity Inc.,2021,4,2021-10-06,2404490,Neil Ashe,Neil Ashe,100.0,1,11,3150,146017_2021_Q4_2404490.txt,,True
+146017,Acuity Inc.,2022,1,2022-01-07,2468575,Neil Ashe,Neil Ashe,100.0,1,18,4086,146017_2022_Q1_2468575.txt,,True
+146017,Acuity Inc.,2022,2,2022-04-05,2535250,Neil Ashe,Neil Ashe,100.0,1,11,2950,146017_2022_Q2_2535250.txt,,True
+146017,Acuity Inc.,2022,3,2022-06-30,2594492,Neil Ashe,Neil Ashe,100.0,1,12,2936,146017_2022_Q3_2594492.txt,,True
+146017,Acuity Inc.,2022,4,2022-10-04,2658111,Neil Ashe,Neil Ashe,100.0,1,20,4365,146017_2022_Q4_2658111.txt,,True
+001327,"Skyworks Solutions, Inc.",2018,1,2018-02-05,1380480,Liam Griffin,Liam K. Griffin,100.0,2,20,3202,001327_2018_Q1_1380480.txt,,True
+001327,"Skyworks Solutions, Inc.",2018,2,2018-05-03,1453516,Liam Griffin,Liam K. Griffin,100.0,2,18,3418,001327_2018_Q2_1453516.txt,,True
+001327,"Skyworks Solutions, Inc.",2018,3,2018-07-19,1545497,Liam Griffin,Liam K. Griffin,100.0,2,16,2942,001327_2018_Q3_1545497.txt,,True
+001327,"Skyworks Solutions, Inc.",2018,4,2018-11-08,1607779,Liam Griffin,Liam K. Griffin,100.0,2,20,4146,001327_2018_Q4_1607779.txt,,True
+001327,"Skyworks Solutions, Inc.",2019,1,2019-02-05,1649233,Liam Griffin,Liam K. Griffin,100.0,2,17,3827,001327_2019_Q1_1649233.txt,,True
+001327,"Skyworks Solutions, Inc.",2019,2,2019-05-02,1724356,Liam Griffin,Liam K. Griffin,100.0,2,20,4281,001327_2019_Q2_1724356.txt,,True
+001327,"Skyworks Solutions, Inc.",2019,3,2019-08-07,1805743,Liam Griffin,Liam K. Griffin,100.0,2,16,3128,001327_2019_Q3_1805743.txt,,True
+001327,"Skyworks Solutions, Inc.",2019,4,2019-11-12,1877918,Liam Griffin,Liam K. Griffin,100.0,2,16,4022,001327_2019_Q4_1877918.txt,,True
+001327,"Skyworks Solutions, Inc.",2020,1,2020-01-23,1894688,Liam Griffin,Liam K. Griffin,100.0,2,18,3972,001327_2020_Q1_1894688.txt,,True
+001327,"Skyworks Solutions, Inc.",2020,2,2020-05-04,1995366,Liam Griffin,Liam K. Griffin,100.0,2,15,3908,001327_2020_Q2_1995366.txt,,True
+001327,"Skyworks Solutions, Inc.",2020,3,2020-07-23,2091711,Liam Griffin,Liam K. Griffin,100.0,2,19,4593,001327_2020_Q3_2091711.txt,,True
+001327,"Skyworks Solutions, Inc.",2020,4,2020-11-02,2126387,Liam Griffin,Liam K. Griffin,100.0,2,13,3382,001327_2020_Q4_2126387.txt,,True
+001327,"Skyworks Solutions, Inc.",2021,1,2021-01-28,2184801,Liam Griffin,Liam K. Griffin,100.0,2,16,3963,001327_2021_Q1_2184801.txt,,True
+001327,"Skyworks Solutions, Inc.",2021,2,2021-04-29,2263770,Liam Griffin,Liam K. Griffin,100.0,2,16,3935,001327_2021_Q2_2263770.txt,,True
+001327,"Skyworks Solutions, Inc.",2021,3,2021-07-29,2355703,Liam Griffin,Liam K. Griffin,100.0,2,13,3425,001327_2021_Q3_2355703.txt,,True
+001327,"Skyworks Solutions, Inc.",2021,4,2021-11-04,2426363,Liam Griffin,Liam K. Griffin,100.0,2,11,2921,001327_2021_Q4_2426363.txt,,True
+001327,"Skyworks Solutions, Inc.",2022,1,2022-02-03,2489187,Liam Griffin,Liam K. Griffin,100.0,2,13,3557,001327_2022_Q1_2489187.txt,,True
+001327,"Skyworks Solutions, Inc.",2022,2,2022-05-03,2551673,Liam Griffin,Liam K. Griffin,100.0,2,12,4003,001327_2022_Q2_2551673.txt,,True
+001327,"Skyworks Solutions, Inc.",2022,3,2022-08-04,2617107,Liam Griffin,Liam K. Griffin,100.0,2,15,3665,001327_2022_Q3_2617107.txt,,True
+001327,"Skyworks Solutions, Inc.",2022,4,2022-11-03,2674742,Liam Griffin,Liam K. Griffin,100.0,2,14,2872,001327_2022_Q4_2674742.txt,,True
+149318,"Wynn Resorts, Limited",2018,1,2018-04-24,1435478,Matthew Maddox,Matt Maddox,88.0,1,25,4009,149318_2018_Q1_1435478.txt,,True
+149318,"Wynn Resorts, Limited",2018,2,2018-08-01,1530312,Matthew Maddox,Matt Maddox,88.0,1,28,3252,149318_2018_Q2_1530312.txt,,True
+149318,"Wynn Resorts, Limited",2018,3,2018-11-07,1602990,Matthew Maddox,Matt Maddox,88.0,1,13,3209,149318_2018_Q3_1602990.txt,,True
+149318,"Wynn Resorts, Limited",2018,4,2019-01-30,1643441,Matthew Maddox,Matt Maddox,88.0,2,18,2978,149318_2018_Q4_1643441.txt,,True
+149318,"Wynn Resorts, Limited",2019,1,2019-05-09,1738892,Matthew Maddox,Matt Maddox,88.0,1,15,2584,149318_2019_Q1_1738892.txt,,True
+149318,"Wynn Resorts, Limited",2019,2,2019-08-06,1817094,Matthew Maddox,Matt Maddox,88.0,1,16,2389,149318_2019_Q2_1817094.txt,,True
+149318,"Wynn Resorts, Limited",2019,3,2019-11-06,1872098,Matthew Maddox,Matt Maddox,88.0,1,20,3040,149318_2019_Q3_1872098.txt,,True
+149318,"Wynn Resorts, Limited",2019,4,2020-02-06,1919093,Matthew Maddox,Matt Maddox,88.0,1,4,1378,149318_2019_Q4_1919093.txt,,True
+149318,"Wynn Resorts, Limited",2020,1,2020-05-06,2016769,Matthew Maddox,Matt Maddox,88.0,1,15,3523,149318_2020_Q1_2016769.txt,,True
+149318,"Wynn Resorts, Limited",2020,2,2020-08-04,2067886,Matthew Maddox,Matt Maddox,88.0,1,13,2110,149318_2020_Q2_2067886.txt,,True
+149318,"Wynn Resorts, Limited",2020,3,2020-11-05,2131450,Matthew Maddox,Matt Maddox,88.0,1,11,3023,149318_2020_Q3_2131450.txt,,True
+149318,"Wynn Resorts, Limited",2020,4,2021-02-04,2193011,Matthew Maddox,Matt Maddox,88.0,1,9,2722,149318_2020_Q4_2193011.txt,,True
+149318,"Wynn Resorts, Limited",2021,1,2021-05-10,2278794,Matthew Maddox,Matt Maddox,88.0,1,10,2157,149318_2021_Q1_2278794.txt,,True
+149318,"Wynn Resorts, Limited",2021,2,2021-08-04,2363306,Matthew Maddox,Matt Maddox,88.0,1,9,1653,149318_2021_Q2_2363306.txt,,True
+149318,"Wynn Resorts, Limited",2021,3,2021-11-09,2431936,Matthew Maddox,Matt Maddox,88.0,2,9,2039,149318_2021_Q3_2431936.txt,,True
+149318,"Wynn Resorts, Limited",2022,1,2022-05-10,3193087,Craig Billings,Craig Billings,100.0,1,15,2610,149318_2022_Q1_3193087.txt,,True
+149318,"Wynn Resorts, Limited",2022,2,2022-08-09,2656712,Craig Billings,Craig Billings,100.0,1,17,2638,149318_2022_Q2_2656712.txt,,True
+149318,"Wynn Resorts, Limited",2022,3,2022-11-09,2682431,Craig Billings,Craig Billings,100.0,1,18,2795,149318_2022_Q3_2682431.txt,,True
+180405,"Activision Blizzard, Inc.",2019,1,2019-05-02,1724740,Robert Kotick,Robert Kotick,100.0,1,3,1449,180405_2019_Q1_1724740.txt,,True
+180405,"Activision Blizzard, Inc.",2019,3,2019-11-07,1861862,Robert Kotick,Robert Kotick,100.0,1,1,1169,180405_2019_Q3_1861862.txt,,True
+180405,"Activision Blizzard, Inc.",2019,4,2020-02-06,1905805,Robert Kotick,Robert Kotick,100.0,1,1,1086,180405_2019_Q4_1905805.txt,,True
+180405,"Activision Blizzard, Inc.",2020,1,2020-05-05,1999950,Robert Kotick,Robert Kotick,100.0,1,1,1181,180405_2020_Q1_1999950.txt,,True
+180405,"Activision Blizzard, Inc.",2020,3,2020-10-29,2154209,Robert Kotick,Robert Kotick,100.0,1,1,1393,180405_2020_Q3_2154209.txt,,True
+180405,"Activision Blizzard, Inc.",2020,4,2021-02-04,2193355,Robert Kotick,Robert Kotick,100.0,1,8,1433,180405_2020_Q4_2193355.txt,,True
+180405,"Activision Blizzard, Inc.",2021,1,2021-05-04,2269272,Robert Kotick,Robert Kotick,100.0,1,1,1404,180405_2021_Q1_2269272.txt,,True
+180405,"Activision Blizzard, Inc.",2021,3,2021-11-02,2467459,Robert Kotick,Robert Kotick,100.0,1,1,1421,180405_2021_Q3_2467459.txt,,True
+179621,Philip Morris International Inc.,2020,1,2020-04-21,2013033,Andre Calantzopoulos,André Calantzopoulos,95.0,2,23,4532,179621_2020_Q1_2013033.txt,,True
+179621,Philip Morris International Inc.,2020,4,2021-02-04,2399400,Andre Calantzopoulos,André Calantzopoulos,95.0,0,7,1867,179621_2020_Q4_2399400.txt,,True
+179621,Philip Morris International Inc.,2022,1,2022-04-21,2542034,Jacek Olczak,Jacek Olczak,100.0,2,17,3953,179621_2022_Q1_2542034.txt,,True
+179621,Philip Morris International Inc.,2022,3,2022-10-20,2660060,Jacek Olczak,Jacek Olczak,100.0,0,7,1195,179621_2022_Q3_2660060.txt,,True
+165993,"Fidelity National Information Services, Inc.",2018,1,2018-05-01,1446701,Gary Norcross,Gary Norcross,100.0,1,13,3132,165993_2018_Q1_1446701.txt,,True
+165993,"Fidelity National Information Services, Inc.",2018,2,2018-07-31,1525594,Gary Norcross,Gary Norcross,100.0,1,21,3951,165993_2018_Q2_1525594.txt,,True
+165993,"Fidelity National Information Services, Inc.",2018,3,2018-10-30,1591956,Gary Norcross,Gary Norcross,100.0,1,10,2999,165993_2018_Q3_1591956.txt,,True
+165993,"Fidelity National Information Services, Inc.",2018,4,2019-02-12,1661111,Gary Norcross,Gary Norcross,100.0,1,19,5172,165993_2018_Q4_1661111.txt,,True
+165993,"Fidelity National Information Services, Inc.",2019,1,2019-04-30,1718544,Gary Norcross,Gary Norcross,100.0,1,20,4494,165993_2019_Q1_1718544.txt,,True
+165993,"Fidelity National Information Services, Inc.",2019,2,2019-08-06,1799001,Gary Norcross,Gary Norcross,100.0,2,27,4888,165993_2019_Q2_1799001.txt,,True
+165993,"Fidelity National Information Services, Inc.",2019,3,2019-11-05,1859646,Gary Norcross,Gary Norcross,100.0,1,22,4383,165993_2019_Q3_1859646.txt,,True
+165993,"Fidelity National Information Services, Inc.",2019,4,2020-02-13,1912419,Gary Norcross,Gary Norcross,100.0,1,17,4884,165993_2019_Q4_1912419.txt,,True
+165993,"Fidelity National Information Services, Inc.",2020,1,2020-05-07,2001198,Gary Norcross,Gary Norcross,100.0,1,13,5008,165993_2020_Q1_2001198.txt,,True
+165993,"Fidelity National Information Services, Inc.",2020,2,2020-08-04,2109423,Gary Norcross,Gary Norcross,100.0,2,17,5143,165993_2020_Q2_2109423.txt,,True
+165993,"Fidelity National Information Services, Inc.",2020,3,2020-10-29,2154577,Gary Norcross,Gary Norcross,100.0,1,8,3519,165993_2020_Q3_2154577.txt,,True
+165993,"Fidelity National Information Services, Inc.",2020,4,2021-02-09,2200719,Gary Norcross,Gary Norcross,100.0,1,13,3749,165993_2020_Q4_2200719.txt,,True
+165993,"Fidelity National Information Services, Inc.",2021,1,2021-05-06,2272715,Gary Norcross,Gary Norcross,100.0,1,17,3921,165993_2021_Q1_2272715.txt,,True
+165993,"Fidelity National Information Services, Inc.",2021,2,2021-08-03,2360644,Gary Norcross,Gary Norcross,100.0,1,15,3645,165993_2021_Q2_2360644.txt,,True
+165993,"Fidelity National Information Services, Inc.",2021,3,2021-11-04,2425005,Gary Norcross,Gary Norcross,100.0,1,11,4541,165993_2021_Q3_2425005.txt,,True
+165993,"Fidelity National Information Services, Inc.",2021,4,2022-02-15,2508435,Gary Norcross,Gary Norcross,100.0,1,8,3541,165993_2021_Q4_2508435.txt,,True
+165993,"Fidelity National Information Services, Inc.",2022,1,2022-05-03,2550941,Gary Norcross,Gary Norcross,100.0,1,17,3607,165993_2022_Q1_2550941.txt,,True
+165993,"Fidelity National Information Services, Inc.",2022,2,2022-08-04,2615531,Gary Norcross,Gary Norcross,100.0,1,17,2022,165993_2022_Q2_2615531.txt,,True
+165993,"Fidelity National Information Services, Inc.",2022,3,2022-11-03,2673526,Gary Norcross,Gary Norcross,100.0,1,5,1446,165993_2022_Q3_2673526.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2018,1,2018-05-08,1462950,David Zaslav,David Zaslav,100.0,1,9,5638,164296_2018_Q1_1462950.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2018,2,2018-08-07,1538434,David Zaslav,David Zaslav,100.0,1,8,4616,164296_2018_Q2_1538434.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2018,3,2018-11-08,1613872,David Zaslav,David Zaslav,100.0,1,11,6619,164296_2018_Q3_1613872.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2018,4,2019-02-26,1671953,David Zaslav,David Zaslav,100.0,1,9,4145,164296_2018_Q4_1671953.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2019,1,2019-05-02,1726627,David Zaslav,David Zaslav,100.0,1,9,6158,164296_2019_Q1_1726627.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2019,2,2019-08-06,1800556,David Zaslav,David Zaslav,100.0,1,10,5977,164296_2019_Q2_1800556.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2019,3,2019-11-07,1861772,David Zaslav,David Zaslav,100.0,1,7,4099,164296_2019_Q3_1861772.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2019,4,2020-02-27,1933958,David Zaslav,David Zaslav,100.0,1,11,4891,164296_2019_Q4_1933958.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2020,1,2020-05-06,2004772,David Zaslav,David Zaslav,100.0,1,13,6378,164296_2020_Q1_2004772.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2020,2,2020-08-05,2086364,David Zaslav,David Zaslav,100.0,1,12,4914,164296_2020_Q2_2086364.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2020,3,2020-11-05,2211532,David Zaslav,David Zaslav,100.0,1,13,5472,164296_2020_Q3_2211532.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2020,4,2021-02-22,2218554,David Zaslav,David Zaslav,100.0,1,12,4785,164296_2020_Q4_2218554.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2021,1,2021-04-28,2260818,David Zaslav,David Zaslav,100.0,1,12,3942,164296_2021_Q1_2260818.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2021,2,2021-08-03,2391353,David Zaslav,David Zaslav,100.0,1,11,4639,164296_2021_Q2_2391353.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2021,3,2021-11-03,2423053,David Zaslav,David Zaslav,100.0,1,7,4566,164296_2021_Q3_2423053.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2021,4,2022-02-24,2506778,David Zaslav,David Zaslav,100.0,1,16,5040,164296_2021_Q4_2506778.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2022,1,2022-04-26,2543305,David Zaslav,David Zaslav,100.0,1,10,5418,164296_2022_Q1_2543305.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2022,2,2022-08-04,2617038,David Zaslav,David Zaslav,100.0,1,11,4938,164296_2022_Q2_2617038.txt,,True
+164296,"Warner Bros. Discovery, Inc.",2022,3,2022-11-03,2674889,David Zaslav,David Zaslav,100.0,1,7,6400,164296_2022_Q3_2674889.txt,,True
+148349,TransDigm Group Incorporated,2018,1,2018-02-06,1381750,Walter Howley,W. Howley,80.0,1,37,2820,148349_2018_Q1_1381750.txt,,True
+148349,TransDigm Group Incorporated,2018,2,2018-05-01,1446572,Walter Howley,W. Howley,80.0,1,32,2305,148349_2018_Q2_1446572.txt,,True
+148349,TransDigm Group Incorporated,2018,3,2018-08-07,1537874,Walter Howley,W. Howley,80.0,1,15,1664,148349_2018_Q3_1537874.txt,,True
+148349,TransDigm Group Incorporated,2018,4,2018-11-06,1622016,Walter Howley,W. Howley,80.0,1,12,1957,148349_2018_Q4_1622016.txt,,True
+170841,Phillips 66,2018,1,2018-04-27,1443357,Gregory Garland,Greg Garland,88.88888888888889,1,21,3317,170841_2018_Q1_1443357.txt,,True
+170841,Phillips 66,2018,2,2018-07-27,1522158,Gregory Garland,Greg Garland,88.88888888888889,1,23,3400,170841_2018_Q2_1522158.txt,,True
+170841,Phillips 66,2018,3,2018-10-26,1583306,Gregory Garland,Greg Garland,88.88888888888889,1,18,3606,170841_2018_Q3_1583306.txt,,True
+170841,Phillips 66,2018,4,2019-02-08,1653690,Gregory Garland,Greg Garland,88.88888888888889,1,17,2652,170841_2018_Q4_1653690.txt,,True
+170841,Phillips 66,2019,1,2019-04-30,1718025,Gregory Garland,Greg Garland,88.88888888888889,1,11,2584,170841_2019_Q1_1718025.txt,,True
+170841,Phillips 66,2019,2,2019-07-26,1782726,Gregory Garland,Greg Garland,88.88888888888889,1,14,2915,170841_2019_Q2_1782726.txt,,True
+170841,Phillips 66,2019,3,2019-10-25,1842011,Gregory Garland,Greg Garland,88.88888888888889,1,9,1691,170841_2019_Q3_1842011.txt,,True
+170841,Phillips 66,2019,4,2020-01-31,1901601,Gregory Garland,Greg Garland,88.88888888888889,1,13,3024,170841_2019_Q4_1901601.txt,,True
+170841,Phillips 66,2020,1,2020-05-01,1994485,Gregory Garland,Greg Garland,88.88888888888889,1,16,3161,170841_2020_Q1_1994485.txt,,True
+170841,Phillips 66,2020,2,2020-07-31,2092280,Gregory Garland,Greg Garland,88.88888888888889,1,9,1863,170841_2020_Q2_2092280.txt,,True
+170841,Phillips 66,2020,3,2020-10-30,2155352,Gregory Garland,Greg Garland,88.88888888888889,1,13,2872,170841_2020_Q3_2155352.txt,,True
+170841,Phillips 66,2020,4,2021-01-29,2186471,Gregory Garland,Greg Garland,88.88888888888889,1,8,2958,170841_2020_Q4_2186471.txt,,True
+170841,Phillips 66,2021,1,2021-04-30,2265713,Gregory Garland,Greg Garland,88.88888888888889,1,8,1294,170841_2021_Q1_2265713.txt,,True
+170841,Phillips 66,2021,3,2021-10-29,2418794,Gregory Garland,Greg Garland,88.88888888888889,1,15,3137,170841_2021_Q3_2418794.txt,,True
+170841,Phillips 66,2021,4,2022-01-28,3001963,Gregory Garland,Greg Garland,88.88888888888889,1,17,2707,170841_2021_Q4_3001963.txt,,True
+170841,Phillips 66,2022,1,2022-04-29,2549197,Mark Lashier,Mark Lashier,100.0,1,17,2553,170841_2022_Q1_2549197.txt,,True
+170841,Phillips 66,2022,2,2022-07-29,2609704,Mark Lashier,Mark Lashier,100.0,1,17,2913,170841_2022_Q2_2609704.txt,,True
+170841,Phillips 66,2022,3,2022-11-01,2670582,Mark Lashier,Mark Lashier,100.0,1,11,1851,170841_2022_Q3_2670582.txt,,True
+016101,AbbVie Inc.,2018,1,2018-04-26,1439740,Richard Gonzalez,Richard Gonzalez,100.0,1,13,5572,016101_2018_Q1_1439740.txt,,True
+016101,AbbVie Inc.,2018,2,2018-07-27,1541801,Richard Gonzalez,Richard Gonzalez,100.0,1,8,6049,016101_2018_Q2_1541801.txt,,True
+016101,AbbVie Inc.,2018,3,2018-11-02,1597005,Richard Gonzalez,Richard Gonzalez,100.0,2,9,3819,016101_2018_Q3_1597005.txt,,True
+016101,AbbVie Inc.,2018,4,2019-01-25,1642397,Richard Gonzalez,Richard Gonzalez,100.0,1,10,3908,016101_2018_Q4_1642397.txt,,True
+016101,AbbVie Inc.,2019,1,2019-04-25,1708683,Richard Gonzalez,Richard Gonzalez,100.0,1,8,4390,016101_2019_Q1_1708683.txt,,True
+016101,AbbVie Inc.,2019,2,2019-07-26,1782369,Richard Gonzalez,Richard Gonzalez,100.0,1,11,4496,016101_2019_Q2_1782369.txt,,True
+016101,AbbVie Inc.,2019,3,2019-11-01,1851146,Richard Gonzalez,Richard Gonzalez,100.0,1,9,3561,016101_2019_Q3_1851146.txt,,True
+016101,AbbVie Inc.,2019,4,2020-02-07,1907773,Richard Gonzalez,Richard Gonzalez,100.0,1,11,5178,016101_2019_Q4_1907773.txt,,True
+016101,AbbVie Inc.,2020,1,2020-05-01,1995276,Richard Gonzalez,Richard Gonzalez,100.0,1,10,5993,016101_2020_Q1_1995276.txt,,True
+016101,AbbVie Inc.,2020,2,2020-07-31,2085746,Richard Gonzalez,Richard Gonzalez,100.0,1,14,4726,016101_2020_Q2_2085746.txt,,True
+016101,AbbVie Inc.,2020,3,2020-10-30,3499880,Richard Gonzalez,Richard Gonzalez,100.0,1,16,5976,016101_2020_Q3_3499880.txt,,True
+016101,AbbVie Inc.,2020,4,2021-02-03,2190107,Richard Gonzalez,Richard Gonzalez,100.0,1,14,3927,016101_2020_Q4_2190107.txt,,True
+016101,AbbVie Inc.,2021,1,2021-04-30,2265775,Richard Gonzalez,Richard Gonzalez,100.0,1,10,2643,016101_2021_Q1_2265775.txt,,True
+016101,AbbVie Inc.,2021,2,2021-07-30,2358028,Richard Gonzalez,Richard Gonzalez,100.0,1,7,2318,016101_2021_Q2_2358028.txt,,True
+016101,AbbVie Inc.,2021,3,2021-10-29,2418575,Richard Gonzalez,Richard Gonzalez,100.0,1,11,2727,016101_2021_Q3_2418575.txt,,True
+016101,AbbVie Inc.,2021,4,2022-02-02,2483061,Richard Gonzalez,Richard Gonzalez,100.0,1,11,3526,016101_2021_Q4_2483061.txt,,True
+016101,AbbVie Inc.,2022,1,2022-04-29,2548987,Richard Gonzalez,Richard Gonzalez,100.0,1,5,1788,016101_2022_Q1_2548987.txt,,True
+016101,AbbVie Inc.,2022,2,2022-07-29,3069264,Richard Gonzalez,Richard Gonzalez,100.0,1,7,3796,016101_2022_Q2_3069264.txt,,True
+016101,AbbVie Inc.,2022,3,2022-10-28,2667865,Richard Gonzalez,Richard Gonzalez,100.0,1,11,3042,016101_2022_Q3_2667865.txt,,True
+013721,Zoetis Inc.,2018,1,2018-05-02,1451423,Juan Alaix,Juan Ramón Alaix,100.0,1,18,4024,013721_2018_Q1_1451423.txt,,True
+013721,Zoetis Inc.,2018,2,2018-08-02,1533212,Juan Alaix,Juan Ramón Alaix,100.0,1,15,3593,013721_2018_Q2_1533212.txt,,True
+013721,Zoetis Inc.,2018,3,2018-11-01,1602110,Juan Alaix,Juan Ramón Alaix,100.0,1,15,3359,013721_2018_Q3_1602110.txt,,True
+013721,Zoetis Inc.,2018,4,2019-02-14,1664730,Juan Alaix,Juan Ramón Alaix,100.0,1,10,3872,013721_2018_Q4_1664730.txt,,True
+013721,Zoetis Inc.,2019,1,2019-05-02,1731921,Juan Alaix,Juan Ramón Alaix,100.0,1,12,3618,013721_2019_Q1_1731921.txt,,True
+013721,Zoetis Inc.,2019,2,2019-08-06,1798831,Juan Alaix,Juan Ramón Alaix,100.0,1,16,3904,013721_2019_Q2_1798831.txt,,True
+013721,Zoetis Inc.,2019,3,2019-11-07,1862941,Juan Alaix,Juan Ramón Alaix,100.0,1,14,3146,013721_2019_Q3_1862941.txt,,True
+013721,Zoetis Inc.,2020,1,2020-05-06,2008254,Kristin Peck,Kristin Peck,100.0,1,14,5495,013721_2020_Q1_2008254.txt,,True
+013721,Zoetis Inc.,2020,2,2020-08-06,2097425,Kristin Peck,Kristin Peck,100.0,1,11,4360,013721_2020_Q2_2097425.txt,,True
+013721,Zoetis Inc.,2020,3,2020-11-05,2132277,Kristin Peck,Kristin Peck,100.0,1,12,3538,013721_2020_Q3_2132277.txt,,True
+013721,Zoetis Inc.,2020,4,2021-02-16,2212528,Kristin Peck,Kristin Peck,100.0,1,14,4910,013721_2020_Q4_2212528.txt,,True
+013721,Zoetis Inc.,2021,1,2021-05-06,2272900,Kristin Peck,Kristin Peck,100.0,1,13,4342,013721_2021_Q1_2272900.txt,,True
+013721,Zoetis Inc.,2021,2,2021-08-05,2364736,Kristin Peck,Kristin Peck,100.0,1,12,2947,013721_2021_Q2_2364736.txt,,True
+013721,Zoetis Inc.,2021,3,2021-11-04,2425737,Kristin Peck,Kristin Peck,100.0,1,11,3464,013721_2021_Q3_2425737.txt,,True
+013721,Zoetis Inc.,2021,4,2022-02-15,2494536,Kristin Peck,Kristin Peck,100.0,1,10,4378,013721_2021_Q4_2494536.txt,,True
+013721,Zoetis Inc.,2022,1,2022-05-05,3144803,Kristin Peck,Kristin Peck,100.0,1,11,3435,013721_2022_Q1_3144803.txt,,True
+013721,Zoetis Inc.,2022,2,2022-08-04,2615780,Kristin Peck,Kristin Peck,100.0,1,9,3461,013721_2022_Q2_2615780.txt,,True
+013721,Zoetis Inc.,2022,3,2022-11-03,2673701,Kristin Peck,Kristin Peck,100.0,1,11,4008,013721_2022_Q3_2673701.txt,,True
+026590,Fortive Corporation,2018,1,2018-04-26,1441420,James Lico,James Lico,100.0,1,21,6324,026590_2018_Q1_1441420.txt,,True
+026590,Fortive Corporation,2018,2,2018-07-26,1512899,James Lico,James Lico,100.0,1,23,5615,026590_2018_Q2_1512899.txt,,True
+026590,Fortive Corporation,2018,3,2018-10-25,1582311,James Lico,James Lico,100.0,1,21,6115,026590_2018_Q3_1582311.txt,,True
+026590,Fortive Corporation,2018,4,2019-02-07,1659919,James Lico,James Lico,100.0,1,26,5907,026590_2018_Q4_1659919.txt,,True
+026590,Fortive Corporation,2019,1,2019-04-25,3499962,James Lico,James Lico,100.0,1,22,6008,026590_2019_Q1_3499962.txt,,True
+026590,Fortive Corporation,2019,2,2019-07-25,1781408,James Lico,James Lico,100.0,1,23,6155,026590_2019_Q2_1781408.txt,,True
+026590,Fortive Corporation,2019,3,2019-10-24,1840610,James Lico,James Lico,100.0,1,20,6575,026590_2019_Q3_1840610.txt,,True
+026590,Fortive Corporation,2019,4,2020-02-06,1907569,James Lico,James Lico,100.0,2,16,3619,026590_2019_Q4_1907569.txt,,True
+026590,Fortive Corporation,2020,1,2020-04-30,2028558,James Lico,James Lico,100.0,1,22,6813,026590_2020_Q1_2028558.txt,,True
+026590,Fortive Corporation,2020,2,2020-07-28,2085862,James Lico,James Lico,100.0,1,26,7649,026590_2020_Q2_2085862.txt,,True
+026590,Fortive Corporation,2020,3,2020-10-27,2159830,James Lico,James Lico,100.0,1,25,6699,026590_2020_Q3_2159830.txt,,True
+026590,Fortive Corporation,2020,4,2021-02-04,2193260,James Lico,James Lico,100.0,1,23,7383,026590_2020_Q4_2193260.txt,,True
+026590,Fortive Corporation,2021,1,2021-04-29,2264445,James Lico,James Lico,100.0,2,19,6942,026590_2021_Q1_2264445.txt,,True
+026590,Fortive Corporation,2021,2,2021-07-29,2356303,James Lico,James Lico,100.0,2,25,6709,026590_2021_Q2_2356303.txt,,True
+026590,Fortive Corporation,2021,3,2021-10-28,2417148,James Lico,James Lico,100.0,2,19,5196,026590_2021_Q3_2417148.txt,,True
+026590,Fortive Corporation,2021,4,2022-02-03,2484359,James Lico,James Lico,100.0,2,18,6309,026590_2021_Q4_2484359.txt,,True
+026590,Fortive Corporation,2022,1,2022-04-28,2547286,James Lico,James Lico,100.0,2,18,7246,026590_2022_Q1_2547286.txt,,True
+026590,Fortive Corporation,2022,2,2022-07-28,2607588,James Lico,James Lico,100.0,2,19,6733,026590_2022_Q2_2607588.txt,,True
+026590,Fortive Corporation,2022,3,2022-10-26,2663843,James Lico,James Lico,100.0,2,22,6427,026590_2022_Q3_2663843.txt,,True
+014282,Amphenol Corporation,2018,1,2018-04-25,1437211,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,16,5943,014282_2018_Q1_1437211.txt,last_exact,True
+014282,Amphenol Corporation,2018,2,2018-07-25,1513965,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,17,8626,014282_2018_Q2_1513965.txt,last_exact,True
+014282,Amphenol Corporation,2018,3,2018-10-24,1582457,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,16,7582,014282_2018_Q3_1582457.txt,last_exact,True
+014282,Amphenol Corporation,2018,4,2019-01-23,1640455,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,20,9921,014282_2018_Q4_1640455.txt,last_exact,True
+014282,Amphenol Corporation,2019,1,2019-04-24,1706403,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,18,6985,014282_2019_Q1_1706403.txt,last_exact,True
+014282,Amphenol Corporation,2019,2,2019-07-24,1780232,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,20,10239,014282_2019_Q2_1780232.txt,last_exact,True
+014282,Amphenol Corporation,2019,3,2019-10-23,1850465,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,20,9155,014282_2019_Q3_1850465.txt,last_exact,True
+014282,Amphenol Corporation,2019,4,2020-01-22,1893435,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,21,8727,014282_2019_Q4_1893435.txt,last_exact,True
+014282,Amphenol Corporation,2020,1,2020-04-22,2013884,"Richard Norwitt, J.D.",R. Norwitt,100.0,2,15,9619,014282_2020_Q1_2013884.txt,last_exact,True
+014282,Amphenol Corporation,2020,2,2020-07-22,2086174,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,16,9481,014282_2020_Q2_2086174.txt,last_exact,True
+014282,Amphenol Corporation,2020,3,2020-10-21,2114784,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,15,8236,014282_2020_Q3_2114784.txt,last_exact,True
+014282,Amphenol Corporation,2020,4,2021-01-27,2182538,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,16,7762,014282_2020_Q4_2182538.txt,last_exact,True
+014282,Amphenol Corporation,2021,1,2021-04-28,2261279,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,13,6864,014282_2021_Q1_2261279.txt,last_exact,True
+014282,Amphenol Corporation,2021,2,2021-07-28,2353181,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,13,6834,014282_2021_Q2_2353181.txt,last_exact,True
+014282,Amphenol Corporation,2021,3,2021-10-27,2414527,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,14,6161,014282_2021_Q3_2414527.txt,last_exact,True
+014282,Amphenol Corporation,2021,4,2022-01-26,2484922,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,12,7346,014282_2021_Q4_2484922.txt,last_exact,True
+014282,Amphenol Corporation,2022,1,2022-04-27,2560927,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,12,6617,014282_2022_Q1_2560927.txt,last_exact,True
+014282,Amphenol Corporation,2022,2,2022-07-27,2605887,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,12,6307,014282_2022_Q2_2605887.txt,last_exact,True
+014282,Amphenol Corporation,2022,3,2022-10-26,2664067,"Richard Norwitt, J.D.",R. Norwitt,100.0,1,11,7466,014282_2022_Q3_2664067.txt,last_exact,True
+063080,"ANSYS, Inc.",2018,1,2018-05-03,1452757,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,13,5015,063080_2018_Q1_1452757.txt,fuzzy,True
+063080,"ANSYS, Inc.",2018,2,2018-08-07,1537956,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,11,4999,063080_2018_Q2_1537956.txt,fuzzy,True
+063080,"ANSYS, Inc.",2018,3,2018-11-08,1617189,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,12,4777,063080_2018_Q3_1617189.txt,fuzzy,True
+063080,"ANSYS, Inc.",2018,4,2019-02-28,1677869,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,10,4130,063080_2018_Q4_1677869.txt,fuzzy,True
+063080,"ANSYS, Inc.",2019,1,2019-05-02,1726662,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,11,4010,063080_2019_Q1_1726662.txt,fuzzy,True
+063080,"ANSYS, Inc.",2019,2,2019-08-06,1798763,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,13,4723,063080_2019_Q2_1798763.txt,fuzzy,True
+063080,"ANSYS, Inc.",2019,3,2019-11-07,1861826,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,12,4434,063080_2019_Q3_1861826.txt,fuzzy,True
+063080,"ANSYS, Inc.",2019,4,2020-02-27,1934019,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,14,5188,063080_2019_Q4_1934019.txt,fuzzy,True
+063080,"ANSYS, Inc.",2020,1,2020-05-07,1982605,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,6,4123,063080_2020_Q1_1982605.txt,fuzzy,True
+063080,"ANSYS, Inc.",2020,2,2020-08-06,2113916,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,7,2930,063080_2020_Q2_2113916.txt,fuzzy,True
+063080,"ANSYS, Inc.",2020,3,2020-11-05,2130450,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,7,2916,063080_2020_Q3_2130450.txt,fuzzy,True
+063080,"ANSYS, Inc.",2020,4,2021-02-25,2289419,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,9,4321,063080_2020_Q4_2289419.txt,fuzzy,True
+063080,"ANSYS, Inc.",2021,1,2021-05-06,2272714,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,11,3954,063080_2021_Q1_2272714.txt,fuzzy,True
+063080,"ANSYS, Inc.",2021,2,2021-08-05,2364650,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,9,4119,063080_2021_Q2_2364650.txt,fuzzy,True
+063080,"ANSYS, Inc.",2021,3,2021-11-04,2425538,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,13,4393,063080_2021_Q3_2425538.txt,fuzzy,True
+063080,"ANSYS, Inc.",2021,4,2022-02-24,2505583,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,10,3754,063080_2021_Q4_2505583.txt,fuzzy,True
+063080,"ANSYS, Inc.",2022,1,2022-05-05,2595546,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,9,4322,063080_2022_Q1_2595546.txt,fuzzy,True
+063080,"ANSYS, Inc.",2022,2,2022-08-04,2615960,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,10,3645,063080_2022_Q2_2615960.txt,fuzzy,True
+063080,"ANSYS, Inc.",2022,3,2022-11-03,2673546,"Ajei Gopal, Ph.D.",Ajei Gopal,100.0,1,9,4546,063080_2022_Q3_2673546.txt,fuzzy,True
+114524,eBay Inc.,2018,1,2018-04-25,1439711,"Devin Wenig, J.D.",Devin Wenig,100.0,1,10,3072,114524_2018_Q1_1439711.txt,last_exact,True
+114524,eBay Inc.,2018,2,2018-07-18,1502927,"Devin Wenig, J.D.",Devin Wenig,100.0,1,13,3875,114524_2018_Q2_1502927.txt,last_exact,True
+114524,eBay Inc.,2018,3,2018-10-30,1592129,"Devin Wenig, J.D.",Devin Wenig,100.0,1,10,4098,114524_2018_Q3_1592129.txt,last_exact,True
+114524,eBay Inc.,2018,4,2019-01-29,1643516,"Devin Wenig, J.D.",Devin Wenig,100.0,1,11,3936,114524_2018_Q4_1643516.txt,last_exact,True
+114524,eBay Inc.,2019,1,2019-04-23,1704069,"Devin Wenig, J.D.",Devin Wenig,100.0,1,11,3214,114524_2019_Q1_1704069.txt,last_exact,True
+114524,eBay Inc.,2019,2,2019-07-17,1773643,"Devin Wenig, J.D.",Devin Wenig,100.0,1,9,2909,114524_2019_Q2_1773643.txt,last_exact,True
+012635,"Fiserv, Inc.",2018,1,2018-05-01,1451245,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,22,4902,012635_2018_Q1_1451245.txt,last_exact,True
+012635,"Fiserv, Inc.",2018,2,2018-07-31,1525917,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,25,5012,012635_2018_Q2_1525917.txt,last_exact,True
+012635,"Fiserv, Inc.",2018,3,2018-10-31,1624817,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,23,4910,012635_2018_Q3_1624817.txt,last_exact,True
+012635,"Fiserv, Inc.",2018,4,2019-02-07,2717650,"Jeffery Yabuki, B.S., CPA",Jeffrey Yabuki,100.0,2,21,5847,012635_2018_Q4_2717650.txt,last_exact,True
+012635,"Fiserv, Inc.",2019,1,2019-04-30,1716451,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,24,5315,012635_2019_Q1_1716451.txt,last_exact,True
+012635,"Fiserv, Inc.",2019,2,2019-07-25,1781547,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,19,6056,012635_2019_Q2_1781547.txt,last_exact,True
+012635,"Fiserv, Inc.",2019,3,2019-11-06,1872037,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,20,4496,012635_2019_Q3_1872037.txt,last_exact,True
+012635,"Fiserv, Inc.",2019,4,2020-02-04,1901252,"Jeffery Yabuki, B.S., CPA",Jeffery Yabuki,100.0,2,29,5857,012635_2019_Q4_1901252.txt,last_exact,True
+001161,"Advanced Micro Devices, Inc.",2018,1,2018-04-25,1439689,"Lisa Su, Ph.D.",Lisa Su,100.0,1,23,4090,001161_2018_Q1_1439689.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2018,2,2018-07-25,1541798,"Lisa Su, Ph.D.",Lisa Su,100.0,1,29,4628,001161_2018_Q2_1541798.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2018,3,2018-10-24,1576930,"Lisa Su, Ph.D.",Lisa Su,100.0,1,30,4016,001161_2018_Q3_1576930.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2018,4,2019-01-29,1643513,"Lisa Su, Ph.D.",Lisa Su,100.0,1,20,3911,001161_2018_Q4_1643513.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2019,1,2019-04-30,1716972,"Lisa Su, Ph.D.",Lisa Su,100.0,1,21,3323,001161_2019_Q1_1716972.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2019,2,2019-07-30,1789337,"Lisa Su, Ph.D.",Lisa Su,100.0,1,29,3363,001161_2019_Q2_1789337.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2019,3,2019-10-29,1846373,"Lisa Su, Ph.D.",Lisa Su,100.0,1,19,4258,001161_2019_Q3_1846373.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2019,4,2020-01-28,1897451,"Lisa Su, Ph.D.",Lisa Su,100.0,1,23,3622,001161_2019_Q4_1897451.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2020,1,2020-04-28,2017567,"Lisa Su, Ph.D.",Lisa Su,100.0,1,26,4410,001161_2020_Q1_2017567.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2020,2,2020-07-28,2085919,"Lisa Su, Ph.D.",Lisa Su,100.0,1,26,4924,001161_2020_Q2_2085919.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2020,3,2020-10-27,2153507,"Lisa Su, Ph.D.",Lisa Su,100.0,2,21,5106,001161_2020_Q3_2153507.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2020,4,2021-01-26,2181802,"Lisa Su, Ph.D.",Lisa Su,100.0,1,30,5141,001161_2020_Q4_2181802.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2021,1,2021-04-27,2259888,"Lisa Su, Ph.D.",Lisa Su,100.0,1,20,5095,001161_2021_Q1_2259888.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2021,2,2021-07-27,2352127,"Lisa Su, Ph.D.",Lisa Su,100.0,1,16,4011,001161_2021_Q2_2352127.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2021,3,2021-10-26,2413301,"Lisa Su, Ph.D.",Lisa Su,100.0,1,21,3853,001161_2021_Q3_2413301.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2021,4,2022-02-01,2483841,"Lisa Su, Ph.D.",Lisa Su,100.0,1,20,4100,001161_2021_Q4_2483841.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2022,1,2022-05-03,2575036,"Lisa Su, Ph.D.",Lisa Su,100.0,1,21,4951,001161_2022_Q1_2575036.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2022,2,2022-08-02,2617159,"Lisa Su, Ph.D.",Lisa Su,100.0,1,17,4501,001161_2022_Q2_2617159.txt,fuzzy,True
+001161,"Advanced Micro Devices, Inc.",2022,3,2022-11-01,2671032,"Lisa Su, Ph.D.",Lisa Su,100.0,1,23,4855,001161_2022_Q3_2671032.txt,fuzzy,True
+003226,Comcast Corporation,2021,2,2021-07-29,2355809,Brian Roberts,Brian L. Roberts;Chairman and CEO,100.0,1,3,2613,003226_2021_Q2_2355809.txt,fuzzy,True
+005047,General Electric Company,2019,1,2019-04-30,1718444,"H. Culp, Jr.",H. Culp,100.0,2,14,3609,005047_2019_Q1_1718444.txt,last_exact,True
+005047,General Electric Company,2019,2,2019-07-31,1790160,"H. Culp, Jr.",H. Culp,100.0,3,9,4183,005047_2019_Q2_1790160.txt,last_exact,True
+005047,General Electric Company,2019,3,2019-10-30,1851169,"H. Culp, Jr.",H. Culp,100.0,2,11,4315,005047_2019_Q3_1851169.txt,last_exact,True
+005047,General Electric Company,2019,4,2020-01-29,1897315,"H. Culp, Jr.",H. Culp,100.0,2,15,5080,005047_2019_Q4_1897315.txt,last_exact,True
+005047,General Electric Company,2020,1,2020-04-29,2018264,"H. Culp, Jr.",H. Culp,100.0,2,30,7709,005047_2020_Q1_2018264.txt,last_exact,True
+005047,General Electric Company,2020,2,2020-07-29,2078334,"H. Culp, Jr.",H. Culp,100.0,2,11,3642,005047_2020_Q2_2078334.txt,last_exact,True
+005047,General Electric Company,2020,3,2020-10-28,2153188,"H. Culp, Jr.",H. Culp,100.0,2,10,4184,005047_2020_Q3_2153188.txt,last_exact,True
+005047,General Electric Company,2020,4,2021-01-26,2181497,"H. Culp, Jr.",H. Culp,100.0,2,8,4124,005047_2020_Q4_2181497.txt,last_exact,True
+005047,General Electric Company,2021,1,2021-04-27,2261099,"H. Culp, Jr.",H. Culp,100.0,2,9,4082,005047_2021_Q1_2261099.txt,last_exact,True
+005047,General Electric Company,2021,2,2021-07-27,2351657,"H. Culp, Jr.",H. Culp,100.0,2,5,2678,005047_2021_Q2_2351657.txt,last_exact,True
+005047,General Electric Company,2021,3,2021-10-26,2412909,"H. Culp, Jr.",H. Culp,100.0,2,10,4198,005047_2021_Q3_2412909.txt,last_exact,True
+005047,General Electric Company,2021,4,2022-01-25,2476857,"H. Culp, Jr.",H. Culp,100.0,2,6,4585,005047_2021_Q4_2476857.txt,last_exact,True
+005047,General Electric Company,2022,1,2022-04-26,2543312,"H. Culp, Jr.",H. Culp,100.0,2,8,4325,005047_2022_Q1_2543312.txt,last_exact,True
+005047,General Electric Company,2022,2,2022-07-26,2604296,"H. Culp, Jr.",H. Culp,100.0,2,7,3993,005047_2022_Q2_2604296.txt,last_exact,True
+005047,General Electric Company,2022,3,2022-10-25,2662326,"H. Culp, Jr.",H. Culp,100.0,2,9,4096,005047_2022_Q3_2662326.txt,last_exact,True
+008543,"Altria Group, Inc.",2018,2,2018-07-26,1520444,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,24,4566,008543_2018_Q2_1520444.txt,fuzzy,True
+008543,"Altria Group, Inc.",2018,3,2018-10-25,1582441,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,27,4104,008543_2018_Q3_1582441.txt,fuzzy,True
+008543,"Altria Group, Inc.",2018,4,2019-01-31,1662172,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,22,6008,008543_2018_Q4_1662172.txt,fuzzy,True
+008543,"Altria Group, Inc.",2019,1,2019-04-25,1715315,"Howard Willard, III, BA (Ho",Howard Willard,100.0,2,24,6266,008543_2019_Q1_1715315.txt,fuzzy,True
+008543,"Altria Group, Inc.",2019,2,2019-07-30,1788833,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,30,7042,008543_2019_Q2_1788833.txt,fuzzy,True
+008543,"Altria Group, Inc.",2019,3,2019-10-31,1850816,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,25,5851,008543_2019_Q3_1850816.txt,fuzzy,True
+008543,"Altria Group, Inc.",2019,4,2020-01-30,1899668,"Howard Willard, III, BA (Ho",Howard Willard,100.0,1,19,3429,008543_2019_Q4_1899668.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2019,1,2019-02-05,1648601,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,30,2811,148349_2019_Q1_1648601.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2019,2,2019-05-07,1737024,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,27,2437,148349_2019_Q2_1737024.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2019,3,2019-08-06,1800829,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,25,3607,148349_2019_Q3_1800829.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2019,4,2019-11-19,1888277,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,15,2634,148349_2019_Q4_1888277.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2020,1,2020-02-04,1905284,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,24,3059,148349_2020_Q1_1905284.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2020,2,2020-05-05,1998972,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,37,3916,148349_2020_Q2_1998972.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2020,3,2020-08-04,2109369,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,20,4059,148349_2020_Q3_2109369.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2020,4,2020-11-12,2144845,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,33,4193,148349_2020_Q4_2144845.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2021,1,2021-02-09,2200768,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,37,3195,148349_2021_Q1_2200768.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2021,2,2021-05-11,3083573,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,37,4041,148349_2021_Q2_3083573.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2021,3,2021-08-10,2371678,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,16,2609,148349_2021_Q3_2371678.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2021,4,2021-11-16,2441669,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,25,3425,148349_2021_Q4_2441669.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2022,1,2022-02-08,2494820,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,30,3520,148349_2022_Q1_2494820.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2022,2,2022-05-10,2560764,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,18,2718,148349_2022_Q2_2560764.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2022,3,2022-08-09,2650526,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,20,2431,148349_2022_Q3_2650526.txt,fuzzy,True
+148349,TransDigm Group Incorporated,2022,4,2022-11-10,2683996,"Kevin Stein, Ph.D.",Kevin Stein,100.0,1,17,2311,148349_2022_Q4_2683996.txt,fuzzy,True
