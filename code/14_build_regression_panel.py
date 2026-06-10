@@ -143,7 +143,7 @@ outcomes_t1['fyear'] = outcomes_t1['fyear_outcome'] - 1
 # 8) Merge: overconfidence(t) + controls(t) + outcomes(t+1)
 # ============================================================
 panel = (
-    ov[['gvkey', 'fyear', 'overconfidence', 'overconfidence_pca',
+    ov[['gvkey', 'fyear', 'overconfidence', 'overconfidence_pca', 'overconfidence_2comp',
         'z_net_tone', 'z_strong_modality', 'z_inverse_hedging']]
     .merge(controls_t, on=['gvkey', 'fyear'], how='inner')
     .merge(outcomes_t1[['gvkey', 'fyear',

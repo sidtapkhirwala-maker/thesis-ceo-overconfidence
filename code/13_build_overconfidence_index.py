@@ -104,6 +104,10 @@ for comp in ['net_tone', 'strong_modality', 'inverse_hedging']:
 
 # Simple-average overconfidence index
 fy['overconfidence'] = fy[['z_net_tone', 'z_strong_modality', 'z_inverse_hedging']].mean(axis=1)
+# Two-component composite (net tone + inverse hedging only)
+# Pre-registered robustness following Jonathan's supervisor feedback (June 2026)
+# Motivated by the negative cross-correlation of strong modality with the other two components
+fy['overconfidence_2comp'] = fy[['z_net_tone', 'z_inverse_hedging']].mean(axis=1)
 
 # ============================================================
 # 6) PCA aggregation (robustness alternative)
