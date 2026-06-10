@@ -162,5 +162,4 @@ with open('output/h3_regression_results.txt', 'w', encoding='utf-8') as f:
     f.write(str(m_lev.summary()))
     f.write("\n\n--- delta debt share (gross) ---\n")
     f.write(str(m_ds.summary()))
-
 print("\nSaved: output/h3_regression_results.txt")
