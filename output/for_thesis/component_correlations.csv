@@ -1,0 +1,4 @@
+,z_net_tone,z_strong_modality,z_inverse_hedging
+z_net_tone,1.0,-0.119,0.473
+z_strong_modality,-0.119,1.0,-0.129
+z_inverse_hedging,0.473,-0.129,1.0

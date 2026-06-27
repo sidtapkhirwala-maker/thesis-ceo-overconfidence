@@ -6,8 +6,8 @@ H2 BASELINE (gross issuance debt share)
 Dep. Variable:          debt_share_t1   R-squared:                        0.0591
 Estimator:                   PanelOLS   R-squared (Between):             -23.203
 No. Observations:                 324   R-squared (Within):              -0.0596
-Date:                Mon, Jun 08 2026   R-squared (Overall):             -12.503
-Time:                        22:50:56   Log-likelihood                   -53.327
+Date:                Thu, Jun 25 2026   R-squared (Overall):             -12.503
+Time:                        14:50:12   Log-likelihood                   -53.327
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      2.1272
 Entities:                          76   P-value                           0.0416
@@ -49,8 +49,8 @@ H2 ROBUSTNESS (strict net issuance debt share)
 Dep. Variable:     debt_share_strict_t1   R-squared:                        0.2277
 Estimator:                     PanelOLS   R-squared (Between):              0.4236
 No. Observations:                    26   R-squared (Within):              -0.0038
-Date:                  Mon, Jun 08 2026   R-squared (Overall):              0.2756
-Time:                          22:50:57   Log-likelihood                    18.586
+Date:                  Thu, Jun 25 2026   R-squared (Overall):              0.2756
+Time:                          14:50:13   Log-likelihood                    18.586
 Cov. Estimator:               Clustered                                           
                                           F-statistic:                      0.4790
 Entities:                            16   P-value                           0.8502

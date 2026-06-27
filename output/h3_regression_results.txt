@@ -8,8 +8,8 @@ Industry FE + delta controls, HC1 robust SEs
 Dep. Variable:     delta_book_leverage   R-squared:                       0.359
 Model:                             OLS   Adj. R-squared:                  0.039
 Method:                  Least Squares   F-statistic:                     3.509
-Date:                 Mon, 08 Jun 2026   Prob (F-statistic):            0.00228
-Time:                         22:56:41   Log-Likelihood:                 64.307
+Date:                 Thu, 25 Jun 2026   Prob (F-statistic):            0.00228
+Time:                         14:50:19   Log-Likelihood:                 64.307
 No. Observations:                   43   AIC:                            -98.61
 Df Residuals:                       28   BIC:                            -72.20
 Df Model:                           14                                         
@@ -48,8 +48,8 @@ Notes:
 Dep. Variable:       delta_debt_share   R-squared:                       0.377
 Model:                            OLS   Adj. R-squared:                 -0.029
 Method:                 Least Squares   F-statistic:                     8.871
-Date:                Mon, 08 Jun 2026   Prob (F-statistic):           1.12e-05
-Time:                        22:56:41   Log-Likelihood:                -8.3086
+Date:                Thu, 25 Jun 2026   Prob (F-statistic):           1.12e-05
+Time:                        14:50:19   Log-Likelihood:                -8.3086
 No. Observations:                  34   AIC:                             44.62
 Df Residuals:                      20   BIC:                             65.99
 Df Model:                          13                                         

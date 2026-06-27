@@ -1,0 +1,23 @@
+Table 2: CEO Linguistic Overconfidence and Debt Share of Gross External Financing (H2),,,,
+Variable,(1),(2),(3),(4)
+Overconfidence,-0.0241,-0.0155,-0.0277,+0.0694
+,(0.0551),(0.0420),(0.0431),(0.0587)
+Size (log assets),—,+0.0912***,+0.1022***,-0.2399*
+,,(0.0266),(0.0265),(0.1444)
+Profitability,—,+0.2816,+0.2057,-0.1497
+,,(0.4135),(0.4479),(0.7417)
+Market-to-book,—,-0.0351*,-0.0288,+0.0409
+,,(0.0212),(0.0223),(0.0258)
+Tangibility,—,+0.0734,+0.0839,+0.2185
+,,(0.1143),(0.1139),(0.7357)
+Cash,—,-0.5522,-0.5805,-0.3597
+,,(0.3812),(0.3808),(0.5807)
+Firm age,—,-0.0013,-0.0014,+0.0778*
+,,(0.0019),(0.0018),(0.0402)
+Financially constrained,—,-0.0408,-0.0474,-0.1005
+,,(0.0889),(0.0891),(0.1058)
+Observations,324,324,324,324
+R-squared (within),-0.0046,-0.0910,-0.0943,-0.0596
+Firm fixed effects,No,No,No,Yes
+Year fixed effects,No,No,Yes,Yes
+Notes:,"Dependent variable: debt share at t+1 (gross-issuance operationalisation, see Section 5). Firm-clustered SEs in parentheses. *** p<0.01, ** p<0.05, * p<0.10.",,,

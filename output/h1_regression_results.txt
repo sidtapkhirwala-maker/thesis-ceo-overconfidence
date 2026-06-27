@@ -7,8 +7,8 @@ Primary specification: firm + year FE, firm-clustered SEs
 Dep. Variable:       book_leverage_t1   R-squared:                        0.0610
 Estimator:                   PanelOLS   R-squared (Between):             -4.4185
 No. Observations:                 369   R-squared (Within):              -0.0751
-Date:                Mon, Jun 08 2026   R-squared (Overall):             -3.9866
-Time:                        22:44:40   Log-likelihood                    560.26
+Date:                Thu, Jun 25 2026   R-squared (Overall):             -3.9866
+Time:                        14:50:07   Log-likelihood                    560.26
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      3.0300
 Entities:                          79   P-value                           0.0069

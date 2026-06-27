@@ -1,0 +1,8 @@
+Table 6: Robustness Battery — Coefficient on Overconfidence Across Specifications,,,,
+,H1 panel (Δleverage),H2 panel (Δdebt share),H3 Δ leverage,H3 Δ debt share
+"Baseline (3-component, simple-avg)",+0.0133 (NS),+0.0694 (NS),+0.0150 (NS),+0.1850 (NS)
+PCA-aggregated index,+0.0026 (NS),+0.0540 (p≈0.09)*,+0.0010 (NS),−0.0049 (NS)
+Two-component (no strong-modal),+0.0067 (NS),+0.0813 (p≈0.08)*,+0.0048 (NS),−0.0005 (NS)
+"No-COVID sub-sample (2018, 2019, 2022)",+0.0109 (NS),−0.0395 (NS),+0.0441 (NS),−0.1407 (NS)
+"COVID-only sub-sample (2020, 2021)",+0.0058 (NS),+0.1038 (NS),—,—
+Notes:,NS = not significant. * p<0.10. Each row is the coefficient on the overconfidence index from the same panel specification estimated under the alternative index or sub-sample.,,,
