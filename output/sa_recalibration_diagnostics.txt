@@ -1,0 +1,29 @@
+SA INDEX RECALIBRATION DIAGNOSTICS
+======================================================================
+
+Sample: 2090 firm-years, 323 firms
+
+Caps used:
+  Original (Hadlock-Pierce):  size cap = log(4500) = 8.4118, age cap = 37
+  Recalibrated (95th pctile): size cap = 12.0105, age cap = 73.0000
+
+Distinct SA values:
+  Original SA index:      135
+  Recalibrated SA index:  2025
+
+% of firm-years hitting BOTH caps simultaneously:
+  Original approach:      53.8%
+  Recalibrated approach:  0.7%
+
+Sanity check — original sa_index recomputed here vs. panel's stored sa_index (should be ~identical):
+  corr(sa_orig recomputed, panel['sa_index']) = 1.0000
+  corr(fin_constrained recomputed, panel['fin_constrained']) = 1.0000
+
+Correlation between original and recalibrated constrained dummies:
+  corr(fin_constrained, constrained_recalibrated) = 0.8552
+
+Constrained-dummy cross-tab (original x recalibrated):
+constrained_recalibrated     0    1
+fin_constrained (orig)             
+0                         1313   56
+1                           80  641

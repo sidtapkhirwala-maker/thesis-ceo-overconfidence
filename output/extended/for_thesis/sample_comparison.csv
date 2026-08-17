@@ -1,0 +1,9 @@
+Metric,Primary (80 firms),Extended (327 firms)
+Firms in sample,79.0,323.0
+Firm-years (H1 panel),369.0,2076.0
+"Firm-years (H2, gross issuance)",324.0,1810.0
+"Firm-years (H2, strict net)",26.0,133.0
+Mean book leverage (t+1),0.359,0.357
+"Mean debt share (t+1, gross)",0.697,0.705
+Mean overconfidence (3-comp),0.0,0.0001
+SD overconfidence (3-comp),0.62,0.636

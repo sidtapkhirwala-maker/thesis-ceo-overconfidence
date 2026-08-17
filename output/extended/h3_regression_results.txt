@@ -1,0 +1,85 @@
+H3 - Within-firm CEO turnover (delta overconfidence -> delta outcome)
+Industry FE + delta controls, HC1 robust SEs
+======================================================================
+
+--- delta book leverage ---
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     delta_book_leverage   R-squared:                       0.075
+Model:                             OLS   Adj. R-squared:                  0.004
+Method:                  Least Squares   F-statistic:                     1.029
+Date:                 Sun, 28 Jun 2026   Prob (F-statistic):              0.427
+Time:                         01:36:17   Log-Likelihood:                 262.40
+No. Observations:                  212   AIC:                            -492.8
+Df Residuals:                      196   BIC:                            -439.1
+Df Model:                           15                                         
+Covariance Type:                   HC1                                         
+=======================================================================================
+                          coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   0.0252      0.018      1.381      0.167      -0.011       0.061
+delta_overconf         -0.0002      0.007     -0.026      0.979      -0.013       0.013
+ind_Chems              -0.0406      0.024     -1.716      0.086      -0.087       0.006
+ind_Durbl              -0.0300      0.031     -0.960      0.337      -0.091       0.031
+ind_Enrgy              -0.0899      0.034     -2.611      0.009      -0.157      -0.022
+ind_Hlth               -0.0338      0.023     -1.488      0.137      -0.078       0.011
+ind_Manuf              -0.0456      0.023     -1.984      0.047      -0.091      -0.001
+ind_NoDur              -0.0164      0.023     -0.714      0.475      -0.061       0.029
+ind_Other              -0.0254      0.023     -1.124      0.261      -0.070       0.019
+ind_Shops              -0.0352      0.021     -1.712      0.087      -0.076       0.005
+ind_Telcm              -0.0331      0.023     -1.446      0.148      -0.078       0.012
+delta_size             -0.0060      0.021     -0.285      0.776      -0.047       0.035
+delta_profitability     0.0277      0.146      0.189      0.850      -0.259       0.315
+delta_mtb               0.0017      0.012      0.148      0.883      -0.021       0.025
+delta_tangibility       0.0581      0.099      0.589      0.556      -0.135       0.251
+delta_cash             -0.0439      0.110     -0.397      0.691      -0.260       0.173
+==============================================================================
+Omnibus:                       10.039   Durbin-Watson:                   2.054
+Prob(Omnibus):                  0.007   Jarque-Bera (JB):               16.757
+Skew:                           0.233   Prob(JB):                     0.000230
+Kurtosis:                       4.296   Cond. No.                         29.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+--- delta debt share (gross) ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       delta_debt_share   R-squared:                       0.054
+Model:                            OLS   Adj. R-squared:                 -0.029
+Method:                 Least Squares   F-statistic:                    0.8813
+Date:                Sun, 28 Jun 2026   Prob (F-statistic):              0.586
+Time:                        01:36:17   Log-Likelihood:                -68.792
+No. Observations:                 187   AIC:                             169.6
+Df Residuals:                     171   BIC:                             221.3
+Df Model:                          15                                         
+Covariance Type:                  HC1                                         
+=======================================================================================
+                          coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   0.1165      0.088      1.318      0.188      -0.057       0.290
+delta_overconf          0.0019      0.036      0.054      0.957      -0.068       0.072
+ind_Chems              -0.2074      0.119     -1.742      0.082      -0.441       0.026
+ind_Durbl              -0.0882      0.125     -0.703      0.482      -0.334       0.158
+ind_Enrgy              -0.1110      0.156     -0.711      0.477      -0.417       0.195
+ind_Hlth               -0.1376      0.118     -1.163      0.245      -0.370       0.094
+ind_Manuf              -0.2255      0.104     -2.162      0.031      -0.430      -0.021
+ind_NoDur              -0.1083      0.136     -0.799      0.424      -0.374       0.157
+ind_Other              -0.0745      0.111     -0.671      0.502      -0.292       0.143
+ind_Shops              -0.0920      0.124     -0.742      0.458      -0.335       0.151
+ind_Telcm              -0.1418      0.148     -0.960      0.337      -0.431       0.148
+delta_size             -0.0687      0.093     -0.739      0.460      -0.251       0.113
+delta_profitability     0.2512      0.824      0.305      0.760      -1.364       1.866
+delta_mtb              -0.0237      0.046     -0.515      0.606      -0.114       0.066
+delta_tangibility      -0.0739      0.498     -0.148      0.882      -1.050       0.903
+delta_cash             -0.7612      0.573     -1.329      0.184      -1.884       0.361
+==============================================================================
+Omnibus:                        6.647   Durbin-Watson:                   2.295
+Prob(Omnibus):                  0.036   Jarque-Bera (JB):                8.094
+Skew:                           0.256   Prob(JB):                       0.0175
+Kurtosis:                       3.882   Cond. No.                         31.3
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

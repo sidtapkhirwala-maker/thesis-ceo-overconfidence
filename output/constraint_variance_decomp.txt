@@ -1,0 +1,52 @@
+==============================================================================
+VARIANCE DECOMPOSITION OF THE FINANCIAL-CONSTRAINT DUMMY (fin_constrained)
+==============================================================================
+Source panel: data/processed_extended/regression_panel.csv
+
+------------------------------------------------------------------------------
+Constrained dummy (top-tercile SA index)  [fin_constrained]
+------------------------------------------------------------------------------
+N observations (non-missing):                 2090
+Total variance:                                0.225968
+Between-firm variance:                         0.199163
+Within-firm variance:                          0.026805
+Between-firm share of total variance:          88.1%
+Within-firm share of total variance:           11.9%
+
+Firms with at least one value change (switchers): 41 / 323 (12.7%)
+Never-switcher firms:                              282 / 323 (87.3%)
+
+------------------------------------------------------------------------------
+Firm size (log assets)  [size]
+------------------------------------------------------------------------------
+N observations (non-missing):                 2090
+Total variance:                                1.185882
+Between-firm variance:                         1.138367
+Within-firm variance:                          0.047515
+Between-firm share of total variance:          96.0%
+Within-firm share of total variance:           4.0%
+
+Firms with at least one value change (switchers): 319 / 323 (98.8%)
+Never-switcher firms:                              4 / 323 (1.2%)
+
+------------------------------------------------------------------------------
+Firm age  [age]
+------------------------------------------------------------------------------
+N observations (non-missing):                 2090
+Total variance:                                426.926466
+Between-firm variance:                         423.125174
+Within-firm variance:                          3.801292
+Between-firm share of total variance:          99.1%
+Within-firm share of total variance:           0.9%
+
+Firms with at least one value change (switchers): 319 / 323 (98.8%)
+Never-switcher firms:                              4 / 323 (1.2%)
+
+==============================================================================
+INTERPRETATION
+==============================================================================
+A high between-firm variance share (and a low switcher share) means most of
+the variable's variation is cross-sectional, not within-firm over time --
+i.e. firm fixed effects absorb most of its identifying variation, leaving
+little within-firm signal for the FE estimator to use.
+

@@ -1,0 +1,2 @@
+Robustness battery: PCA index + three-way COVID split + strict-net.
+Full numerical output is captured by stdout redirection.

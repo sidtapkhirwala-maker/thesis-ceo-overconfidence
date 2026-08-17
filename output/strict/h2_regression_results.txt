@@ -1,0 +1,84 @@
+H2 BASELINE (gross issuance debt share)
+======================================================================
+
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:          debt_share_t1   R-squared:                        0.0050
+Estimator:                   PanelOLS   R-squared (Between):             -2.2805
+No. Observations:                1758   R-squared (Within):              -0.0228
+Date:                Tue, Jun 30 2026   R-squared (Overall):             -1.1904
+Time:                        19:51:15   Log-likelihood                   -316.76
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      1.0388
+Entities:                         312   P-value                           0.4017
+Avg Obs:                       5.6346   Distribution:                  F(7,1433)
+Min Obs:                       1.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             57.189
+                                        P-value                           0.0000
+Time periods:                       7   Distribution:                  F(7,1433)
+Avg Obs:                       251.14                                           
+Min Obs:                       243.00                                           
+Max Obs:                       267.00                                           
+                                                                                
+                                Parameter Estimates                                
+===================================================================================
+                 Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+-----------------------------------------------------------------------------------
+overconfidence      0.0015     0.0221     0.0687     0.9452     -0.0419      0.0450
+size               -0.0404     0.0606    -0.6668     0.5050     -0.1592      0.0784
+profitability       0.0236     0.2683     0.0880     0.9299     -0.5027      0.5498
+mtb                 0.0186     0.0145     1.2825     0.1999     -0.0099      0.0471
+tangibility         0.3381     0.3270     1.0340     0.3013     -0.3033      0.9795
+cash               -0.0226     0.2430    -0.0930     0.9259     -0.4993      0.4541
+age                 0.0223     0.0151     1.4753     0.1404     -0.0073      0.0518
+fin_constrained     0.0019     0.0409     0.0475     0.9621     -0.0782      0.0821
+===================================================================================
+
+F-test for Poolability: 3.6756
+P-value: 0.0000
+Distribution: F(317,1433)
+
+Included effects: Entity, Time
+
+
+H2 ROBUSTNESS (strict net issuance debt share)
+======================================================================
+
+                           PanelOLS Estimation Summary                            
+==================================================================================
+Dep. Variable:     debt_share_strict_t1   R-squared:                        0.1707
+Estimator:                     PanelOLS   R-squared (Between):             -106.55
+No. Observations:                   134   R-squared (Within):              -0.6023
+Date:                  Tue, Jun 30 2026   R-squared (Overall):             -85.607
+Time:                          19:51:15   Log-likelihood                    79.242
+Cov. Estimator:               Clustered                                           
+                                          F-statistic:                      1.2937
+Entities:                            77   P-value                           0.2758
+Avg Obs:                         1.7403   Distribution:                    F(7,44)
+Min Obs:                         1.0000                                           
+Max Obs:                         7.0000   F-statistic (robust):             14.935
+                                          P-value                           0.0000
+Time periods:                         7   Distribution:                    F(7,44)
+Avg Obs:                         19.143                                           
+Min Obs:                         11.000                                           
+Max Obs:                         37.000                                           
+                                                                                  
+                                Parameter Estimates                                
+===================================================================================
+                 Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+-----------------------------------------------------------------------------------
+overconfidence     -0.0740     0.1099    -0.6739     0.5039     -0.2954      0.1474
+size                0.6056     0.6065     0.9985     0.3235     -0.6167      1.8278
+profitability       0.0208     0.9199     0.0226     0.9821     -1.8332      1.8748
+mtb                 0.2231     0.1996     1.1178     0.2697     -0.1791      0.6252
+tangibility         1.3155     1.2535     1.0494     0.2997     -1.2108      3.8418
+cash               -0.1553     0.9965    -0.1558     0.8769     -2.1636      1.8530
+age                -0.1422     0.1469    -0.9679     0.3384     -0.4384      0.1539
+fin_constrained    -0.0601     0.1444    -0.4158     0.6796     -0.3512      0.2311
+===================================================================================
+
+F-test for Poolability: 2.0878
+P-value: 0.0043
+Distribution: F(82,44)
+
+Included effects: Entity, Time

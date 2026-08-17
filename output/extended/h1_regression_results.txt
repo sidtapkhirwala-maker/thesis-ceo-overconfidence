@@ -1,0 +1,40 @@
+H1 — Book leverage(t+1) on CEO overconfidence(t)
+Primary specification: firm + year FE, firm-clustered SEs
+======================================================================
+
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:       book_leverage_t1   R-squared:                        0.0225
+Estimator:                   PanelOLS   R-squared (Between):             -1.4067
+No. Observations:                2076   R-squared (Within):               0.0222
+Date:                Tue, Jun 30 2026   R-squared (Overall):             -1.3879
+Time:                        19:36:15   Log-likelihood                    3268.8
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      6.6671
+Entities:                         323   P-value                           0.0000
+Avg Obs:                       6.4272   Distribution:                  F(6,1741)
+Min Obs:                       1.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             2.6190
+                                        P-value                           0.0157
+Time periods:                       7   Distribution:                  F(6,1741)
+Avg Obs:                       296.57                                           
+Min Obs:                       273.00                                           
+Max Obs:                       309.00                                           
+                                                                                
+                               Parameter Estimates                                
+==================================================================================
+                Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+----------------------------------------------------------------------------------
+overconfidence     0.0007     0.0043     0.1667     0.8676     -0.0077      0.0091
+size              -0.0219     0.0113    -1.9333     0.0534     -0.0442      0.0003
+profitability     -0.1954     0.0617    -3.1679     0.0016     -0.3164     -0.0744
+mtb                0.0044     0.0034     1.2950     0.1955     -0.0022      0.0110
+tangibility        0.0244     0.0676     0.3606     0.7184     -0.1081      0.1569
+cash              -0.0092     0.0444    -0.2071     0.8359     -0.0962      0.0778
+==================================================================================
+
+F-test for Poolability: 57.341
+P-value: 0.0000
+Distribution: F(328,1741)
+
+Included effects: Entity, Time

@@ -1,0 +1,2 @@
+Robustness 3: Two-component composite (net tone + inverse hedging)
+See terminal output for full results.
